@@ -1,0 +1,20 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+1XM1,A,H,thrombin,Hirudin
+1NT1,A,H,thrombin,Hirudin
+1SL3,A,B,thrombin,Hirudin
+1TA2,A,B,thrombin,Hirudin
+1TA6,A,B,thrombin,Hirudin
+1ZRB,A,B,thrombin,11-peptide hirudin fragment
+1NM6,A,B,thrombin,Hirudin
+1ZGI,A,B,Thrombin,Hirudin
+1ZGV,A,B,Thrombin,Hirudin
+2BDY,A,B,Thrombin,Hirudin IIIB'
+1Z71,A,B,thrombin,Hirudin IIIB'
+1HAG,E,I,PRETHROMBIN 2,HIRUGEN
+3C1K,A,B,Prothrombin,Hirugen
+1DOJ,A,B,ALPHA-THROMBIN,HIRUGEN
+1D6W,A,I,THROMBIN,DECAPEPTIDE INHIBITOR
+1D9I,A,I,THROMBIN,HIRUGEN
+1PPB,L,H,ALPHA-THROMBIN (SMALL SUBUNIT),ALPHA-THROMBIN (LARGE SUBUNIT)
+1ABJ,L,H,ALPHA-THROMBIN (SMALL SUBUNIT),ALPHA-THROMBIN (LARGE SUBUNIT)
+1HAI,L,H,ALPHA-THROMBIN (SMALL SUBUNIT),ALPHA-THROMBIN (LARGE SUBUNIT)

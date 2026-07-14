@@ -1,0 +1,25 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+1XU1,A,R,Tumor necrosis factor ligand superfamily member 13,Tumor necrosis factor receptor superfamily member 13B
+1XU2,A,R,Tumor necrosis factor ligand superfamily member 13,Tumor necrosis factor receptor superfamily member 17
+6G07,A,P,Nuclear receptor ROR-gamma,Nuclear receptor-interacting protein 1
+5NTN,A,P,Nuclear receptor ROR-gamma,Nuclear receptor-interacting protein 1
+5NTW,A,P,Nuclear receptor ROR-gamma,Nuclear receptor-interacting protein 1
+5NTI,A,P,Nuclear receptor ROR-gamma,ASN-SER-HIS-GLN-LYS-VAL-THR-LEU-LEU-GLN-LEU-LEU-LEU-GLY-HIS-LYS-ASN-GLU-GLU-ASN
+3PV6,A,B,Ig-like domain-containing protein DKFZp686O24166/DKFZp686I21167,Natural cytotoxicity triggering receptor 3
+5X8Q,A,B,Nuclear receptor ROR-gamma,Nuclear receptor corepressor 2
+4WQP,A,P,Nuclear receptor ROR-gamma,VAL-GLU-ARG-LEU-GLN-ILE-PHE-GLN-HIS-LEU-HIS-PRO-ILE
+6IVX,A,B,Nuclear receptor ROR-gamma,Nuclear receptor corepressor 2
+1OQE,A,K,"Tumor necrosis factor ligand superfamily member 13B, soluble form",Tumor necrosis factor receptor superfamily member 13C
+4WPF,A,B,Nuclear receptor ROR-gamma,RHKILHRLLQEGSPS
+4WLB,A,D,Nuclear receptor ROR-gamma,SRC-1 peptide
+3N7Y,A,D,Growth factor receptor-bound protein 2,20-membered peptide-like macrocyclic ligand
+6BWV,A,D,Tumor necrosis factor ligand superfamily member 9,Tumor necrosis factor receptor superfamily member 9
+7DV4,A,B,Cytotoxic T-lymphocyte protein 4,4003-1(VH)
+6G05,A,P,Nuclear receptor ROR-gamma,Nuclear receptor-interacting protein 1
+6FZU,A,P,Nuclear receptor ROR-gamma,Nuclear receptor-interacting protein 1
+7TZH,A,B,scFvF7,Lymphocyte activation gene 3 protein
+5NU1,A,P,Nuclear receptor ROR-gamma,Nuclear receptor-interacting protein 1
+3RNQ,B,A,Programmed cell death 1 ligand 2,Programmed cell death protein 1
+3RNK,A,B,Programmed cell death protein 1,Programmed cell death 1 ligand 2
+3BP5,A,B,Programmed cell death protein 1,Programmed cell death 1 ligand 2
+7QP4,A,P,Nuclear receptor ROR-gamma,HIS-VAL-GLU-ARG-LEU-GLN-ILE-PHE-GLN-HIS-LEU-HIS-PRO-ILE-VAL

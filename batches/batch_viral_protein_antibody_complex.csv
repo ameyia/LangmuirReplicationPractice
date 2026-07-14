@@ -1,0 +1,25 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+6U54,A,B,Anti-Zaire ebolavirus Nucleoprotein Single Domain Antibody Zaire C (ZC),Nucleoprotein
+6APP,A,B,Anti-Marburgvirus Nucleoprotein Single Domain Antibody A,Nucleoprotein
+6U52,A,B,Anti-Sudan ebolavirus Nucleoprotein Single Domain Antibody Sudan B (SB),Nucleoprotein
+2GHW,A,B,Spike glycoprotein,"anti-sars scFv antibody, 80R"
+6U55,A,B,Anti-Zaire ebolavirus Nucleoprotein Single Domain Antibody Zaire E (ZE),Nucleoprotein
+10ZO,A,B,Anti-Marburgvirus Nucleoprotein Single Domain Antibody A,Nucleoprotein
+7LVW,A,G,Fusion glycoprotein F0,F-VHH-Cl184
+7N0R,A,C,Nucleoprotein,Single-domain antibody C2
+6PCU,A,B,Outer capsid protein VP4,Variable domain of antibody scFv9
+7N0I,A,I,Nucleoprotein,Single-domain antibody E2
+4IOS,A,D,BPP,Llama nanobody 11
+7PA6,KKK,AAA,scFv 27C11 antibody heavy chain,Major capsid protein VP1
+6H6Y,A,E,Capsid protein VP1,Nanobody (VHH) Nano-7
+7RK1,A,C,Capsid polyprotein VP70,scFv 3E8
+6JP7,H,L,immunoglobulin Fab heavy chain,immunoglobulin Fab light chain
+4HEM,A,E,BPP,Anti-baseplate TP901-1 Llama vHH 02
+7DET,A,B,Spike protein S1,antibody scFv
+7DEU,A,B,Spike protein S1,antibody scFv
+7UCE,L,H,BG24 Fab light chain,BG24 Fab heavy chain
+7DEO,A,B,antibody scFv,Spike protein S1
+6CBP,P,A,Man9-V3 glycopeptide,DH270.6 single chain variable fragment
+5WN9,H,A,scFv 2D10,Major surface glycoprotein G
+7R73,G,A,Glycoprotein 120,Llama antibody D7
+7PS3,H,L,Beta-32 heavy chain,Beta-32 light chain

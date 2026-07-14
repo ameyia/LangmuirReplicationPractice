@@ -1,0 +1,25 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+6G26,A,E,HicB,HicA
+6HPB,A,B,mRNA interferase toxin HicA,Antitoxin HicB
+8AN5,A,C,Bacterial toxin,Conserved protein
+6L8G,A,B,Antitoxin,YoeB
+7V5Z,A,C,Antitoxin,Putative mRNA interferase YoeB
+5YRZ,A,B,HicB,HicA
+6EPG,A,B,Epsilon_1 antitoxin,Zeta_1 toxin
+4P78,A,C,HicB3 antitoxin,HicA3 Toxin
+7V5Y,A,E,Antitoxin,Putative mRNA interferase YoeB
+6GW6,A,B,RES toxin,Xre antitoxin
+6A7V,A,D,Ribonuclease VapC11,Antitoxin VapB11
+6NKL,A,C,Ribonuclease VapC,Antitoxin VapB1
+6L8F,C,A,YoeB,Antitoxin
+6L8E,A,E,YefM Antitoxin,YoeB toxin
+4CHG,A,G,PROBABLE RIBONUCLEASE VAPC15,ANTITOXIN VAPB15
+5EU0,A,B,Bartonella effector protein (Bep) substrate of VirB T4SS,antitoxin 1
+4Q2U,A,B,Antitoxin DinJ,mRNA interferase YafQ
+6GTQ,A,C,N-acetyltransferase,DUF1778 domain-containing protein
+8YBM,A,B,Enterotoxin type B,nanobody SEB-Nb6
+8YBO,A,B,Enterotoxin type B,nanobody SEB-Nb11
+8YBL,A,B,Enterotoxin type B,nanobody SEB-Nb3
+8YBN,A,B,Enterotoxin type B,nanobody SEB-Nb8
+8YBP,A,B,Enterotoxin type B,nanobody SEB-Nb20
+9TV9,A,C,Antitoxin HigA-2,Toxin HigB-2

@@ -1,0 +1,26 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+3C59,A,B,Glucagon-like peptide 1 receptor,Exendin-4
+3C5T,A,B,Glucagon-like peptide 1 receptor,Exendin-4
+4MS3,A,B,Gamma-aminobutyric acid type B receptor subunit 1,Gamma-aminobutyric acid type B receptor subunit 2
+4MS1,A,B,Gamma-aminobutyric acid type B receptor subunit 1,Gamma-aminobutyric acid type B receptor subunit 2
+4MQF,A,B,Gamma-aminobutyric acid type B receptor subunit 1,Gamma-aminobutyric acid type B receptor subunit 2
+4MR8,A,B,Gamma-aminobutyric acid type B receptor subunit 1,Gamma-aminobutyric acid type B receptor subunit 2
+4MS4,A,B,Gamma-aminobutyric acid type B receptor subunit 1,Gamma-aminobutyric acid type B receptor subunit 2
+4MQE,A,B,Gamma-aminobutyric acid type B receptor subunit 1,Gamma-aminobutyric acid type B receptor subunit 2
+4MR9,A,B,Gamma-aminobutyric acid type B receptor subunit 1,Gamma-aminobutyric acid type B receptor subunit 2
+3IOL,A,B,Glucagon-like peptide 1 receptor,Glucagon
+3N93,A,C,Maltose binding protein-CRFR2 alpha,Urocortin-3
+4MR7,A,B,Gamma-aminobutyric acid type B receptor subunit 1,Gamma-aminobutyric acid type B receptor subunit 2
+4PAS,A,B,Gamma-aminobutyric acid type B receptor subunit 1,Gamma-aminobutyric acid type B receptor subunit 2
+5OTT,A,B,Glucagon-like peptide 1 receptor,Exendin-4
+4ZGM,A,B,Glucagon-like peptide 1 receptor,"Semaglutide peptide backbone; 8Aib,34R-GLP-1(7-37)-OH"
+5OTU,A,B,Glucagon-like peptide 1 receptor,Glucagon
+5OTV,A,B,Glucagon-like peptide 1 receptor,Glucagon
+5OTW,A,B,Glucagon-like peptide 1 receptor,Glucagon
+5OTX,A,B,Glucagon-like peptide 1 receptor,Glucagon
+2QKH,B,A,Glucose-dependent insulinotropic polypeptide,Glucose-dependent insulinotropic polypeptide receptor
+5II0,A,D,Calcitonin receptor,Calcitonin
+7UZO,A,B,Parathyroid hormone/parathyroid hormone-related peptide receptor,Peptide from Parathyroid hormone-related protein
+6PFO,A,C,"Maltodextrin-binding protein,Calcitonin receptor",Calcitonin
+7UZP,A,B,Parathyroid hormone/parathyroid hormone-related peptide receptor,"PTHrP[1-36] 24,28,31 XCP"
+8D51,A,B,Parathyroid hormone/parathyroid hormone-related peptide receptor,PTHrP[1-36]

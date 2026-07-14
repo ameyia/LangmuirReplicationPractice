@@ -1,0 +1,22 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+1G1S,A,C,P-SELECTIN,PSGL-1 PEPTIDE
+7PH1,E,I,Cationic trypsin,Pancreatic trypsin inhibitor
+4TPI,Z,I,TRYPSINOGEN,BOVINE PANCREATIC TRYPSIN INHIBITOR
+2TGP,Z,I,TRYPSINOGEN,TRYPSIN INHIBITOR
+2TPI,Z,I,TRYPSINOGEN,TRYPSIN INHIBITOR
+3TPI,Z,I,TRYPSINOGEN,BOVINE PANCREATIC TRYPSIN INHIBITOR
+8D4V,A,B,"Cathepsin G, C-terminal truncated form",Extracellular Adherence Protein
+6Z48,A,B,Thrombin light chain,Thrombin heavy chain
+2VRP,A,B,AGGRETIN ALPHA CHAIN,AGGRETIN BETA CHAIN
+7K4M,A,B,Hemoglobin subunit alpha,Hemoglobin subunit beta
+7DY4,A,B,Hemoglobin subunit alpha,Hemoglobin subunit beta
+7DY3,A,B,Hemoglobin subunit alpha,Hemoglobin subunit beta
+8D4S,A,B,"Cathepsin G, C-terminal truncated form",Extracellular Adherence Protein
+3MJG,A,X,Platelet-derived growth factor subunit B,Beta-type platelet-derived growth factor receptor
+1EOL,A,B,ALPHA THROMBIN,THROMBIN INHIBITOR P628
+7SR9,A,B,Thrombin light chain,Thrombin heavy chain
+1PPB,L,H,ALPHA-THROMBIN (SMALL SUBUNIT),ALPHA-THROMBIN (LARGE SUBUNIT)
+1EOJ,A,B,ALPHA THROMBIN,THROMBIN INHIBITOR P798
+6VTM,A,B,Cathepsin G,MAP domain-containing protein
+7Q5T,AAA,GGG,Tyrosine-protein kinase SYK,High affinity immunoglobulin epsilon receptor subunit gamma
+1XMN,A,B,Thrombin light chain,Thrombin heavy chain

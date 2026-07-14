@@ -1,0 +1,25 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+3JV2,A,C,Protein translocase subunit SecA,peptide
+9RMV,A,C,Enhancer of rudimentary homolog,Scaffold attachment factor B2
+6JD6,A,B,"Ankyrin repeat domain-containing protein EMB506, chloroplastic","Ankyrin repeat domain-containing protein, chloroplastic"
+4JO6,A,Y,Streptavidin,SBP-Tag
+2EGN,A,B,General receptor for phosphoinositides 1-associated scaffold protein,mGluR5 C-terminal peptide
+2VKN,A,C,PROTEIN SSU81,MAP KINASE KINASE PBS2
+8RPP,A,D,C-Jun-amino-terminal kinase-interacting protein 2,C-Jun-amino-terminal kinase-interacting protein 1
+2P43,A,B,Ribonuclease pancreatic,ANTIBODY CAB-RN05
+2P44,A,B,Ribonuclease pancreatic,ANTIBODY CAB-RN05
+2P47,A,B,Ribonuclease pancreatic,ANTIBODY CAB-RN05
+2P48,A,B,Ribonuclease pancreatic,ANTIBODY CAB-RN05
+2P45,A,B,Ribonuclease pancreatic,ANTIBODY CAB-RN05
+6V6A,A,B,Mitogen-activated protein kinase,Apical Cap Protein 9 (AC9)
+2P42,A,B,Ribonuclease pancreatic,ANTIBODY CAB-RN05
+2P46,A,B,Ribonuclease pancreatic,ANTIBODY CAB-RN05
+7LUR,A,C,Immunoglobulin heavy constant gamma 1,Mini Z domain
+6A6G,A,C,Cysteine desulfurase,Iron-sulfur cluster assembly scaffold protein NifU
+1H9I,E,I,TRYPSIN,TRYPSIN INHIBITOR II
+7CD8,B,A,Green fluorescent protein,GFP-40
+4GN4,B,A,OBody AM2EP06,Lysozyme C
+7CD7,B,A,Green fluorescent protein,GFP-40
+1H9H,E,I,TRYPSIN,TRYPSIN INHIBITOR II
+5D5N,A,B,Virion egress protein UL34 homolog,Virion egress protein UL31 homolog
+7DB8,A,B,Phenylalanine--tRNA ligase alpha subunit,Phenylalanine--tRNA ligase beta subunit

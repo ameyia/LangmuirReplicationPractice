@@ -1,0 +1,22 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+1SVZ,A,C,single-chain Fv fragment 1696,epitope peptide corresponding to N-terminus of HIV-2 protease
+3CVI,H,L,25-D1.16 Heavy chain,25-D1.16 Light chain
+4M3K,A,B,Beta-lactamase,Camelid heavy-chain antibody variable fragment cAb-H7S
+1BM3,L,H,"IMMUNOGLOBULIN OPG2 FAB, CONSTANT DOMAIN","IMMUNOGLOBULIN OPG2 FAB, VARIABLE DOMAIN"
+1HIL,A,B,IGG2A-KAPPA 17/9 FAB (LIGHT CHAIN),IGG2A-KAPPA 17/9 FAB (HEAVY CHAIN)
+3L9R,A,B,CD1b3,Beta-2-microglobulin
+1LNU,A,B,"H-2 class II histocompatibility antigen, A-B alpha chain","H-2 class II histocompatibility antigen, A beta chain"
+2X89,A,D,ANTIBODY,BETA-2-MICROGLOBULIN
+1I3R,A,B,"H-2 CLASS II HISTOCOMPATIBILITY ANTIGEN, E-K ALPHA CHAIN","FUSION PROTEIN CONSISTING OF MHC E-BETA-K PRECURSOR, GLYCINE RICH LINKER, AND HEMOGLOBIN BETA-2 CHAIN"
+2BMK,A,B,"FAB FRAGMENT OF CATALYTIC ANTIBODY 15A9, LIGHT CHAIN","FAB FRAGMENT OF CATALYTIC ANTIBODY 15A9, HEAVY CHAIN"
+5A2J,H,P,SCFV-SM3,THE NAKED PEPTIDE APDTRP
+9M6J,A,H,single-domain antibody,Immunoglobulin G-binding protein A
+9M6O,A,B,Immunoglobulin G-binding protein A,single-domain antibody
+1T6V,L,N,Lysozyme C,novel antigen receptor
+1WCB,A,B,"FAB FRAGMENT OF CATALYTIC ANTIBODY 15A9, LIGHT CHAIN","FAB FRAGMENT OF CATALYTIC ANTIBODY 15A9, HEAVY CHAIN"
+3ZL4,H,L,A17 ANTIBODY FAB FRAGMENT HEAVY CHAIN,A17 ANTIBODY FAB FRAGMENT LAMBDA LIGHT CHAIN
+9ZG8,A,B,Antibody DH511.1 Fab heavy chain,Antibody DH511.1 Fab light chain
+5HGG,A,S,Urokinase-type plasminogen activator,"Camelid Derived Antibody Fragment, Nb4"
+1R3H,A,B,MHC H2-TL-T10-129,Beta-2-microglobulin
+1JTP,A,L,Single-Domain Antibody,LYSOZYME C
+1CK0,L,H,PROTEIN (IGG1-KAPPA ANTIBODY 131 (LIGHT CHAIN)),PROTEIN (IGG1-KAPPA ANTIBODY 131 (HEAVY CHAIN))

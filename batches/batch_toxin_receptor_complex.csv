@@ -1,0 +1,26 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+1SBB,A,B,PROTEIN (14.3.D T CELL ANTIGEN RECEPTOR),PROTEIN (STAPHYLOCOCCAL ENTEROTOXIN B)
+1T6B,X,Y,Protective Antigen,Anthrax toxin receptor 2
+2NTS,P,A,TRBC1 protein,Staphylococcal enterotoxin K
+3MC0,A,B,variable beta 8.2  mouse T cell receptor,Enterotoxin SEG
+2AQ2,A,B,T-CELL RECEPTOR BETA CHAIN V,Enterotoxin type C-3
+1L0Y,A,B,14.3.d T cell receptor beta chain,Exotoxin type A
+2AQ1,A,B,T-cell receptor beta chain V,Enterotoxin type C-3
+2AQ3,A,B,T-cell receptor beta chain V,Enterotoxin type C-3
+2QC1,A,B,Alpha-bungarotoxin,Acetylcholine receptor subunit alpha
+1S5B,A,D,"Cholera enterotoxin, A chain precursor",cholera toxin B protein (CTB)
+3BPQ,A,B,Antitoxin RelB3,Toxin RelE3
+1S5E,A,D,"Cholera enterotoxin, A chain precursor",cholera toxin B protein (CTB)
+1S5C,A,D,"Cholera enterotoxin, A chain",cholera enterotoxin B-subunit
+1S5D,A,D,"Cholera enterotoxin, A chain",cholera toxin B protein (CTB)
+3MFG,A,B,Toxic shock syndrome toxin-1,V_segment translation product
+3BOO,A,B,Neurotoxin A,N-Ac-CRATKML inhibitory peptide
+9RIU,A,B,Variable Domain of Heavy-Chain only Antibody (VHH),Short neurotoxin 1
+6A7V,A,D,Ribonuclease VapC11,Antitoxin VapB11
+2C9T,A,K,SOLUBLE ACETYLCHOLINE RECEPTOR,ALPHA-CONOTOXIN IMI
+3BZD,A,B,T cell receptor beta chain 8.2,Enterotoxin type C-3
+3BYY,A,B,T cell receptor beta chain 8.2,Enterotoxin type C-3
+5CO5,A,C,Soluble acetylcholine receptor,Alpha-conotoxin GIC
+3D3X,A,C,Type E botulinum toxin,SNAP-25 substrate peptide
+8Q6I,A,D,Cholera enterotoxin subunit A,Cholera enterotoxin subunit B
+3BYT,A,B,T cell receptor beta chain 8.2,Enterotoxin type C-3

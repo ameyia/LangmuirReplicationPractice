@@ -1,0 +1,17 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+2AAB,L,H,anti-idiotypic monoclonal antibody (light chain),anti-idiotypic monoclonal antibody (heavy chain)
+4TRP,H,L,Heavy chain of monoclonal antibody against neuroblastoma associated antigen,Light chain of monoclonal antibody against neuroblastoma associated antigen
+4EBQ,H,L,"anti-Vaccinia D8L antigen monoclonal IgG2a antibody LA5, heavy chain","anti-Vaccinia D8L antigen monoclonal IgG2a antibody LA5, light chain"
+4TUO,A,B,Heavy chain of monoclonal antibody against neuroblastoma associated antigen,Light chain of monoclonal antibody against neuroblastoma associated antigen
+5CP3,A,H,Light Chain of Antigen-Binding Fragment of Monoclonal Antibody of 4C7,Heavy Chain of Antigen-Binding Fragment of Monoclonal Antibody of 4C7
+1F4W,L,H,"ANTIBODY S-20-4, FAB FRAGMENT, LIGHT CHAIN","ANTIBODY S-20-4, FAB FRAGMENT, HEAVY CHAIN"
+8EZK,A,H,25 kDa ookinete surface antigen,"Transmission-reducing antibody AS01-4, single-chain Fv"
+2DLF,L,H,PROTEIN (ANTI-DANSYL IMMUNOGLOBULIN IGG2A(S)-KAPPA (LIGHT CHAIN)),PROTEIN (ANTI-DANSYL IMMUNOGLOBULIN IGG2A(S) (HEAVY CHAIN))
+1F4X,L,H,"ANTIBODY S-20-4, FAB FRAGMENT, LIGHT CHAIN","ANTIBODY S-20-4, FAB FRAGMENT, HEAVY CHAIN"
+4OTX,L,H,N203 light chain,N203 heavy chain
+6U1T,H,L,"antigen-binding (Fab) fragment, heavy chain","antigen-binding (Fab) fragment, light chain"
+1MFA,L,H,IGG1-LAMBDA SE155-4 FAB (LIGHT CHAIN),IGG1-LAMBDA SE155-4 FAB (HEAVY CHAIN)
+1HIL,A,B,IGG2A-KAPPA 17/9 FAB (LIGHT CHAIN),IGG2A-KAPPA 17/9 FAB (HEAVY CHAIN)
+1E6O,H,L,IMMUNOGLOBULIN HEAVY CHAIN,IMMUNOGLOBULIN LIGHT CHAIN
+1VFA,A,B,IGG1-KAPPA D1.3 FV (LIGHT CHAIN),IGG1-KAPPA D1.3 FV (HEAVY CHAIN)
+1UZ6,E,F,"IGG FAB (IGG3, KAPPA) LIGHT CHAIN 291-2G3-A","IGG FAB (IGG3, KAPPA) HEAVY CHAIN 291-2G3-A"

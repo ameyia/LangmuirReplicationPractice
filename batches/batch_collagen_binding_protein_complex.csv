@@ -1,0 +1,21 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+1LI1,A,C,Collagen alpha 1(IV),Collagen alpha 2(IV)
+1DZI,A,B,INTEGRIN,COLLAGEN
+7BEE,A,C,Collagen-binding protein,21er collagen model peptide
+8YV3,A,B,Collagen alpha-1(I) chain,Collagen alpha-2(I) chain
+7BDU,A,C,Collagen-binding protein,21er collagen model peptide
+9VB8,A,B,Integrin alpha-2,Collagen model peptide
+7BFI,A,E,Collagen-binding protein,15R8 collagen model peptide
+4AU2,A,E,"SERPIN PEPTIDASE INHIBITOR, CLADE H (HEAT SHOCK PROTEIN 47), MEMBER 1, (COLLAGEN BINDING PROTEIN 1)",15ER COLLAGEN MODEL PEPTIDE 15-R8
+5OU9,A,C,Platelet glycoprotein VI,(GPO)3
+5OU8,A,C,Platelet glycoprotein VI,(GPO)5
+1AZZ,A,C,COLLAGENASE,ECOTIN
+2WUH,A,B,DISCOIDIN DOMAIN RECEPTOR 2,COLLAGEN PEPTIDE
+7NMU,AAA,CCC,Platelet glycoprotein VI,Nanobody 2
+3EJH,A,E,Fibronectin,Collagen type-I a1 chain
+8P6J,BBB,AAA,"Antiphagocytic M protein, type 3",collagen II-27 Toolkit peptide (JDM238)
+2V5F,A,X,PROLYL 4-HYDROXYLASE SUBUNIT ALPHA-1,HEXA-HISTIDINE PEPTIDE
+4BTB,A,C,PROLYL 4-HYDROXYLASE SUBUNIT ALPHA-1,POLY PROLINE PEPTIDE
+4ARF,A,B,COLH PROTEIN,ISOAMYLPHOSPHONYL-GLY-PRO-ALA
+9HT8,A,E,Prolyl 4-hydroxylase subunit alpha-1,GLY-PRO-ALA-GLY-PRO-PRO
+3I91,A,C,Chromobox protein homolog 8,H3K9 peptide

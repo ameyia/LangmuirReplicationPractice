@@ -1,0 +1,24 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+10BT,A,E,Antibody Heavy Chain,Antibody Light Chain
+10KU,A,E,Serine protease 57,MCP3
+10LG,A,B,Positive transcriptional regulator MutR family,Rgg3bp13 peptide
+10TC,A,B,WD repeat-containing protein 5,RbBP5
+10VB,A,B,CRISPR-associated endonuclease Cas9,Anti-CRISPR protein (AcrIIC1)
+10VC,A,B,CRISPR-associated endonuclease Cas9,Anti-CRISPR protein (AcrIIC1)
+10ZO,A,B,Anti-Marburgvirus Nucleoprotein Single Domain Antibody A,Nucleoprotein
+11KR,J,K,FabG1 heavy chain,FabG1 light chain
+11LJ,A,C,Protein O-GlcNAcase N-Terminal Fragment,Protein O-GlcNAcase 535-704 Peptide
+12AJ,B,A,DNA gyrase subunit B,Contact-dependent inhibitor A
+12E8,L,H,IGG1-KAPPA 2E8 FAB (LIGHT CHAIN),IGG1-KAPPA 2E8 FAB (HEAVY CHAIN)
+12FC,A,B,Heavy Chain of Fab 7118,Light Chain of Fab 7188
+12FD,A,B,Heavy Chain of Fab 7160,Light Chain of Fab 7160
+12FE,B,A,Light Chain of Fab 399,Heavy Chain of Fab 399
+12NP,A,C,Secreted and transmembrane protein 1,T-cell antigen CD7
+12RH,A,B,Hemoglobin subunit alpha-A,Hemoglobin beta chain
+12RM,A,B,Hemoglobin subunit alpha-A,Hemoglobin beta chain
+12ZJ,A,B,Ubiquitin carboxyl-terminal hydrolase 7,MAGE-like protein 2
+148L,E,S,T4 LYSOZYME,SUBSTRATE CLEAVED FROM CELL WALL OF ESCHERICHIA COLI
+15C8,L,H,IGG 5C8 FAB (LIGHT CHAIN),IGG 5C8 FAB (HEAVY CHAIN)
+1A00,A,B,HEMOGLOBIN (ALPHA CHAIN),HEMOGLOBIN (BETA CHAIN)
+1A01,A,B,HEMOGLOBIN (ALPHA CHAIN),HEMOGLOBIN (BETA CHAIN)
+1A07,A,C,C-SRC TYROSINE KINASE,"ACE-MALONYL TYR-GLU-(N,N-DIPENTYL AMINE)"

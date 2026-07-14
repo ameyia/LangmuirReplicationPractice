@@ -1,0 +1,51 @@
+Using device: cpu
+Loaded 906 valid sequence pairs.
+Train: 816 pairs | Validation (held out, never trained on): 90 pairs
+Epoch    1 | seq2seq loss: 2.8013 | MLP loss: 0.0189
+Epoch   20 | seq2seq loss: 0.9761 | MLP loss: 0.0201
+Epoch   40 | seq2seq loss: 0.6100 | MLP loss: 0.0177
+Epoch   60 | seq2seq loss: 0.4461 | MLP loss: 0.0160
+Epoch   80 | seq2seq loss: 0.3614 | MLP loss: 0.0153
+Epoch  100 | seq2seq loss: 0.3132 | MLP loss: 0.0140
+Epoch  120 | seq2seq loss: 0.2710 | MLP loss: 0.0137
+Epoch  140 | seq2seq loss: 0.2485 | MLP loss: 0.0129
+Epoch  160 | seq2seq loss: 0.2141 | MLP loss: 0.0123
+Epoch  180 | seq2seq loss: 0.2081 | MLP loss: 0.0114
+Epoch  200 | seq2seq loss: 0.1714 | MLP loss: 0.0111
+Epoch  220 | seq2seq loss: 0.1773 | MLP loss: 0.0108
+Epoch  240 | seq2seq loss: 0.1638 | MLP loss: 0.0104
+Epoch  260 | seq2seq loss: 0.1507 | MLP loss: 0.0100
+Epoch  280 | seq2seq loss: 0.1366 | MLP loss: 0.0098
+Epoch  300 | seq2seq loss: 0.1628 | MLP loss: 0.0095
+Epoch  320 | seq2seq loss: 0.1394 | MLP loss: 0.0095
+Epoch  340 | seq2seq loss: 0.1508 | MLP loss: 0.0089
+Epoch  360 | seq2seq loss: 0.1409 | MLP loss: 0.0093
+Epoch  380 | seq2seq loss: 0.1112 | MLP loss: 0.0090
+Epoch  400 | seq2seq loss: 0.1265 | MLP loss: 0.0083
+Epoch  420 | seq2seq loss: 0.1214 | MLP loss: 0.0084
+Epoch  440 | seq2seq loss: 0.1388 | MLP loss: 0.0085
+Epoch  460 | seq2seq loss: 0.1128 | MLP loss: 0.0081
+Epoch  480 | seq2seq loss: 0.1011 | MLP loss: 0.0078
+Epoch  500 | seq2seq loss: 0.1124 | MLP loss: 0.0078
+Epoch  520 | seq2seq loss: 0.0870 | MLP loss: 0.0077
+Epoch  540 | seq2seq loss: 0.1051 | MLP loss: 0.0074
+Epoch  560 | seq2seq loss: 0.1063 | MLP loss: 0.0073
+Epoch  580 | seq2seq loss: 0.0707 | MLP loss: 0.0072
+Epoch  600 | seq2seq loss: 0.0988 | MLP loss: 0.0070
+
+Seq2seq reconstruction accuracy - train: 68.71% | validation: 27.87%
+Partner-prediction accuracy (held-out, correct length used): 13.60%
+
+Example predictions on held-out validation pairs (never seen during training):
+  input:     EERMLSFKHCLVTAAHLPAEFTPAHADK
+  predicted: EGRVLGYVNVVCVAPHRGQAVFNTQAK
+  actual:    ERVVYPMGNVVCVAHHFGKFTPPQAAQ
+
+  input:     SQKNVAGQTNCYYCEGNY
+  predicted: YAYTYIYAGGYERDRTYG
+  actual:    YYTYIYAGGYERDRTYGQ
+
+  input:     DYYQGQSPQLYQASYNVPWTFGGTSIFPPSSEQLSGASVFNNGLNSWTDDDTYSMSTTLFE
+  predicted: NGQKHVEYSNQGWGMEYKDFRISGWFPLVPNTGVYKGSSTTAGVSTSGLWFDR
+  actual:    VQKGLEWENYTPLYTGTRDYWGQGVYPLVPGTLGLKGVRTVSSVLQSLTKRER
+

@@ -1,0 +1,22 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+1B34,A,B,PROTEIN (SMALL NUCLEAR RIBONUCLEOPROTEIN SM D1),PROTEIN (SMALL NUCLEAR RIBONUCLEOPROTEIN SM D2)
+2FKW,A,B,"Light-harvesting protein B-800/850, alpha chain","Light-harvesting protein B-800/850, beta chain"
+1NKZ,A,B,"Light-harvesting protein B-800/850, alpha chain","Light-harvesting protein B-800/850, beta chain"
+3DY0,A,B,N-terminus Plasma serine protease inhibitor,C-terminus Plasma serine protease inhibitor
+1D3B,A,B,PROTEIN (SMALL NUCLEAR RIBONUCLEOPROTEIN SM D3),PROTEIN (SMALL NUCLEAR RIBONUCLEOPROTEIN ASSOCIATED PROTEIN B)
+8U77,A,B,Transcription initiation factor TFIID subunit 14,Protein YNG1
+7UHE,A,B,Transcription initiation factor TFIID subunit 14,C-terminal tail of Transcription initiation factor TFIID subunit 2
+6MIO,A,B,Transcription initiation factor TFIID subunit 14,Histone H3K9pr
+6MIQ,A,C,Transcription initiation factor TFIID subunit 14,Histone H3K9bu
+6MIN,A,B,Transcription initiation factor TFIID subunit 14,Histone H3K9cr
+1A9N,A,B,U2A',SPLICEOSOMAL U2B''
+3ZWL,B,E,EUKARYOTIC TRANSLATION INITIATION FACTOR 3 SUBUNIT I,EUKARYOTIC TRANSLATION INITIATION FACTOR 3 SUBUNIT B
+1MZW,A,B,U-snRNP-associated cyclophilin,U4/U6 snrnp 60kDa protein
+4X8N,A,B,Set1/Ash2 histone methyltransferase complex subunit ASH2,Retinoblastoma-binding protein 5
+5GPY,A,B,General transcription factor IIE subunit 1,Transcription initiation factor IIE subunit beta
+1TAF,A,B,TFIID TBP ASSOCIATED FACTOR 42,TFIID TBP ASSOCIATED FACTOR 62
+3DGP,A,B,RNA polymerase II transcription factor B subunit 2,RNA polymerase II transcription factor B subunit 5
+2XL2,A,C,WD REPEAT-CONTAINING PROTEIN 5,RETINOBLASTOMA-BINDING PROTEIN 5
+7F4A,A,B,Transcription initiation factor TFIID subunit 14,Histone H3
+4X8P,A,B,"Set1/Ash2 histone methyltransferase complex subunit ASH2,Set1/Ash2 histone methyltransferase complex subunit ASH2",Retinoblastoma-binding protein 5
+7FMI,A,B,Pre-mRNA-splicing factor 8,A1 cistron-splicing factor AAR2

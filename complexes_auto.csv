@@ -1,0 +1,5 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+10BT,A,E,Antibody Heavy Chain,Antibody Light Chain
+10KU,A,E,Serine protease 57,MCP3
+10LG,A,B,Positive transcriptional regulator MutR family,Rgg3bp13 peptide
+10TC,A,B,WD repeat-containing protein 5,RbBP5

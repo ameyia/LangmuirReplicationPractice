@@ -1,0 +1,15 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+1BRS,A,D,BARNASE,BARSTAR
+1B27,A,D,PROTEIN (BARNASE),PROTEIN (BARSTAR)
+1B2U,A,D,PROTEIN (BARNASE),PROTEIN (BARSTAR)
+1B3S,A,D,PROTEIN (BARNASE),PROTEIN (BARSTAR)
+1B2S,A,D,PROTEIN (BARNASE),PROTEIN (BARSTAR)
+1X1U,A,D,Ribonuclease,Barstar
+1X1X,A,D,Ribonuclease,Barstar
+3DA7,A,C,Barnase circular permutant,Barstar
+1X1W,A,D,Ribonuclease,Barstar
+1X1Y,A,D,Ribonuclease,Barstar
+2ZA4,A,B,Ribonuclease,Barstar
+1AY7,A,B,GUANYL-SPECIFIC RIBONUCLEASE SA,BARSTAR
+6PQK,A,B,Ribonuclease,Barstar
+7MRX,A,B,Ribonuclease,Barstar

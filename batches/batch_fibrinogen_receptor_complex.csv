@@ -1,0 +1,22 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+2FIB,A,B,FIBRINOGEN,GLY-PRO-ARG-PRO
+2VR3,A,C,CLUMPING FACTOR A,FIBRINOGEN GAMMA-CHAIN
+9KHC,A,B,Isoform Gamma-A of Fibrinogen gamma chain,GLY-PRO-ARG-PRO
+4B60,A,C,FIBRONECTIN-BINDING PROTEIN A,FIBRINOGEN GAMMA CHAIN
+4F27,A,Q,Clumping factor B,peptide from Fibrinogen alpha chain
+3AT0,A,B,Clumping factor B,C-terminal alpha chain peptide
+8FN9,A,B,Tenascin-R,Receptor-type tyrosine-protein phosphatase zeta
+5CFA,A,C,Bone sialoprotein-binding protein,Peptide from Fibrinogen alpha chain
+9R5Y,A,B,Tenascin,Adhiron
+8FN8,A,B,Tenascin,Receptor-type tyrosine-protein phosphatase zeta
+2Y7L,A,B,AGGLUTININ-LIKE ALS9 PROTEIN,"FIBRINOGEN GAMMA CHAIN, ISOFORM CRA_A"
+2GOX,A,B,Complement C3,Fibrinogen-binding protein
+3D5S,A,C,Complement C3,Fibrinogen-binding protein
+3D5R,A,C,Complement C3,Fibrinogen-binding protein
+2RKY,A,B,Fibronectin,Fibronectin-binding protein
+2RL0,A,C,Fibronectin,Fibronectin-binding protein
+3CAL,A,B,Fibronectin,peptide from Fibronectin-binding protein A
+4F1Z,A,Q,Clumping factor B,"peptide from Keratin, type I cytoskeletal 10"
+2RKZ,A,M,Fibronectin,peptide from Fibronectin-binding protein A
+3PMA,A,B,Thrombin light chain,Thrombin heavy chain
+4NXQ,A,D,T-lymphoma invasion and metastasis-inducing protein 1,Contactin-associated protein-like 4 peptide

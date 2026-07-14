@@ -1,0 +1,57 @@
+pdb_id,chain_a,chain_b,error
+6O4M,C,A,No interface found within 6.0 A cutoff
+7OZT,AAA,BBB,'NoneType' object has no attribute 'readlines'
+8W30,A,B,'NoneType' object has no attribute 'readlines'
+2ZL4,A,1,No interface found within 6.0 A cutoff
+10BT,A,E,'NoneType' object has no attribute 'readlines'
+10KU,A,E,No interface found within 6.0 A cutoff
+11LJ,A,C,'NoneType' object has no attribute 'readlines'
+3N93,A,C,No interface found within 6.0 A cutoff
+7NMU,AAA,CCC,'NoneType' object has no attribute 'readlines'
+8P6J,BBB,AAA,'NoneType' object has no attribute 'readlines'
+3KKA,A,C,No interface found within 6.0 A cutoff
+6NNV,A,I,No interface found within 6.0 A cutoff
+1G1S,A,C,No interface found within 6.0 A cutoff
+9RDA,A,B,'NoneType' object has no attribute 'readlines'
+7Q5T,AAA,GGG,'NoneType' object has no attribute 'readlines'
+6OCP,A,P,No interface found within 6.0 A cutoff
+3DKS,A,E,No interface found within 6.0 A cutoff
+7W0T,B,A,No interface found within 6.0 A cutoff
+5L83,C,A,No interface found within 6.0 A cutoff
+8Q6I,A,D,'NoneType' object has no attribute 'readlines'
+8EN4,A,C,'NoneType' object has no attribute 'readlines'
+8EN1,A,C,'NoneType' object has no attribute 'readlines'
+9OBN,A,E,No interface found within 6.0 A cutoff
+8EMY,A,G,'NoneType' object has no attribute 'readlines'
+8EN5,A,E,'NoneType' object has no attribute 'readlines'
+8EN6,A,C,'NoneType' object has no attribute 'readlines'
+9LME,A,C,No interface found within 6.0 A cutoff
+1D01,A,G,No interface found within 6.0 A cutoff
+7S2S,A,B,No interface found within 6.0 A cutoff
+9EZA,A,B,'NoneType' object has no attribute 'readlines'
+4GS0,A,C,No interface found within 6.0 A cutoff
+9HLO,A,B,'NoneType' object has no attribute 'readlines'
+6ZM3,AAA,BBB,'NoneType' object has no attribute 'readlines'
+4INH,A,J,No interface found within 6.0 A cutoff
+6G26,A,E,No interface found within 6.0 A cutoff
+4P78,A,C,No interface found within 6.0 A cutoff
+3JV2,A,C,No interface found within 6.0 A cutoff
+3TCF,A,I,No interface found within 6.0 A cutoff
+4IIO,A,C,No interface found within 6.0 A cutoff
+2V1R,A,P,No interface found within 6.0 A cutoff
+6A9C,A,E,No interface found within 6.0 A cutoff
+2AK5,A,D,No interface found within 6.0 A cutoff
+5EEL,A,L,No interface found within 6.0 A cutoff
+1JYQ,A,H,No interface found within 6.0 A cutoff
+1P13,A,C,No interface found within 6.0 A cutoff
+3SGD,I,H,No interface found within 6.0 A cutoff
+3DA7,A,C,No interface found within 6.0 A cutoff
+7F86,C,A,No interface found within 6.0 A cutoff
+9MUL,A,B,'NoneType' object has no attribute 'readlines'
+9MUM,A,B,'NoneType' object has no attribute 'readlines'
+4EZ1,A,K,No interface found within 6.0 A cutoff
+8S3R,A,B,'NoneType' object has no attribute 'readlines'
+9L3R,A,B,'NoneType' object has no attribute 'readlines'
+4IOS,A,D,No interface found within 6.0 A cutoff
+7PA6,KKK,AAA,'NoneType' object has no attribute 'readlines'
+4HEM,A,E,No interface found within 6.0 A cutoff

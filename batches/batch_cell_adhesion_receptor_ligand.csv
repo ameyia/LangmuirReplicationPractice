@@ -1,0 +1,25 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+6BWV,A,D,Tumor necrosis factor ligand superfamily member 9,Tumor necrosis factor receptor superfamily member 9
+6MGP,A,X,Tumor necrosis factor ligand superfamily member 9,Tumor necrosis factor receptor superfamily member 9
+2HLE,A,B,Ephrin type-B receptor 4,Ephrin-B2
+7DV4,A,B,Cytotoxic T-lymphocyte protein 4,4003-1(VH)
+1OQE,A,K,"Tumor necrosis factor ligand superfamily member 13B, soluble form",Tumor necrosis factor receptor superfamily member 13C
+3RNQ,B,A,Programmed cell death 1 ligand 2,Programmed cell death protein 1
+3RNK,A,B,Programmed cell death protein 1,Programmed cell death 1 ligand 2
+3BP5,A,B,Programmed cell death protein 1,Programmed cell death 1 ligand 2
+4L0P,A,B,Ephrin type-A receptor 3,Ephrin-A5
+7TZH,A,B,scFvF7,Lymphocyte activation gene 3 protein
+3BP6,A,B,Programmed cell death protein 1,Programmed cell death 1 ligand 2
+3KKA,A,C,EPHRIN TYPE-A RECEPTOR 1,EPHRIN TYPE-A RECEPTOR 2
+5E6S,A,B,Integrin alpha-L,Integrin beta-2
+4ZQK,A,B,Programmed cell death 1 ligand 1,Programmed cell death protein 1
+6UMT,A,B,Programmed cell death protein 1,Programmed cell death 1 ligand 2
+3FY2,A,B,Ephrin type-A receptor 3,peptide substrate
+7SJQ,A,D,Programmed cell death 1 ligand 1,Cystine-dense peptide
+7OUN,A,B,Programmed cell death 1 ligand 1,macrocyclic peptide
+6NNV,A,I,Programmed cell death 1 ligand 1,macrocyclic peptide
+3HEI,A,B,Ephrin type-A receptor 2,Ephrin-A1
+1G1S,A,C,P-SELECTIN,PSGL-1 PEPTIDE
+3FXX,A,B,Ephrin type-A receptor 3,peptide substrate
+7FBK,A,C,Spike protein S1,New antigen receptor variable domain
+8ZNL,A,B,PD-L1 de novo binder,Programmed cell death 1 ligand 1

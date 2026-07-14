@@ -1,0 +1,25 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+1TMQ,A,B,PROTEIN (ALPHA-AMYLASE),PROTEIN (RAGI BIFUNCTIONAL INHIBITOR)
+6U22,A,C,Cationic trypsin,GLY-ARG-ALA-THR-LYS-SER-ILE-PRO-PRO-ILE-ALA-PHE-PRO-ASP
+1SFI,A,I,TRYPSIN,Trypsin inhibitor 1
+1CGI,E,I,ALPHA-CHYMOTRYPSINOGEN,PANCREATIC SECRETORY TRYPSIN INHIBITOR (KAZAL TYPE) VARIANT 3
+3DY0,A,B,N-terminus Plasma serine protease inhibitor,C-terminus Plasma serine protease inhibitor
+1CGJ,E,I,ALPHA-CHYMOTRYPSINOGEN,PANCREATIC SECRETORY TRYPSIN INHIBITOR (KAZAL TYPE) VARIANT 4
+1CLV,A,I,PROTEIN (ALPHA-AMYLASE),PROTEIN (ALPHA-AMYLASE INHIBITOR)
+1D0D,A,B,ANTICOAGULANT PROTEIN,PANCREATIC TRYPSIN INHIBITOR
+1BVN,P,T,PROTEIN (ALPHA-AMYLASE),PROTEIN (TENDAMISTAT)
+6VXY,A,C,Cationic trypsin,SFTI1 inhibitor GLY-ARG-GLY-THR-LYS-SER-ILE-PRO-PRO-ILE-ALA-PHE-PRO-ASP
+1XG2,A,B,Pectinesterase 1,Pectinesterase inhibitor
+6BVH,A,I,Cationic trypsin,Trypsin inhibitor 1
+4HGC,A,I,Cationic trypsin,Trypsin inhibitor 1
+3UOU,A,B,Chymotrypsin-like elastase family member 1,Kunitz-type proteinase inhibitor SHPI-1
+4XOJ,A,B,Cationic trypsin,Trypsin inhibitor 1
+3M7Q,A,B,Cationic trypsin,Kunitz-type proteinase inhibitor SHPI-1
+3T62,A,D,Chymotrypsinogen A,Kunitz-type proteinase inhibitor SHPI-1
+3I29,A,B,Cationic trypsin,Chymotrypsin inhibitor 3
+1ZLI,A,B,Carboxypeptidase B,carboxypeptidase inhibitor
+1TPA,E,I,ANHYDRO-TRYPSIN,BOVINE PANCREATIC TRYPSIN INHIBITOR
+3VEQ,B,A,Cationic trypsin,Chymotrypsin inhibitor 3
+1DHK,A,B,PORCINE PANCREATIC ALPHA-AMYLASE,BEAN LECTIN-LIKE INHIBITOR
+5FFN,A,I,Enzyme subtilase SubTY from Bacillus sp. TY145,Subtilisin-chymotrypsin inhibitor-2A
+1ZLH,A,B,Carboxypeptidase A1,carboxypeptidase inhibitor
