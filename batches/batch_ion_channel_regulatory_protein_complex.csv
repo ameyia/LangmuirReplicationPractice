@@ -1,0 +1,25 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+2NS1,A,B,Ammonia channel,Nitrogen regulatory protein P-II 2
+2NUU,A,G,Ammonia channel,Nitrogen regulatory protein P-II 2
+7UCC,F,J,Protein fosB,Transcription factor jun-D
+5OVO,A,B,ADP-ribosyl-(Dinitrogen reductase) hydrolase,Nitrogen regulatory protein P-II 1
+3O5T,A,B,Dinitrogenase reductase activacting glicohydrolase,PII-like protein Pz
+4LZX,A,B,Calmodulin,IQ domain-containing protein G
+3G43,A,E,Calmodulin,Voltage-dependent L-type calcium channel subunit alpha-1C
+4M1L,A,B,Calmodulin,IQ domain-containing protein G
+7V9B,A,B,YWHAE/FAM22B fusion protein,ARG-ARG-ARG-ALA-VAL-SEP-MET-ASP-ASN-SER-ASN
+3N5B,A,B,Nitrogen regulatory protein P-II,Asr0485 protein
+5BN3,A,B,V-type ATP synthase alpha chain,NEQ263
+5ZE9,A,D,V-type sodium ATPase catalytic subunit A,V-type sodium ATPase subunit B
+2YGG,A,B,SODIUM/HYDROGEN EXCHANGER 1,CALMODULIN
+5NIN,A,C,Calmodulin,A-kinase anchor protein 5
+3FHI,A,B,cAMP-dependent protein kinase catalytic subunit alpha,cAMP-dependent protein kinase type I-alpha regulatory subunit
+7VVH,A,C,"Potassium voltage-gated channel subfamily KQT member 1,Potassium voltage-gated channel subfamily KQT member 1",Calmodulin-1
+7W5M,A,B,Tetratricopeptide repeat (TPR)-like superfamily protein,H3 alpha3 helix peptide
+6MM6,C,D,cAMP-dependent protein kinase catalytic subunit alpha,Ryanodine receptor 2
+2QCS,A,B,"cAMP-dependent protein kinase, alpha-catalytic subunit",cAMP-dependent protein kinase type I-alpha regulatory subunit
+6MM8,C,D,cAMP-dependent protein kinase catalytic subunit alpha,Ryanodine receptor 2
+6Y4O,A,B,Calmodulin-2,Ryanodine receptor 2
+6MM5,E,C,cAMP-dependent protein kinase catalytic subunit alpha,Ryanodine receptor 2
+6Y4P,A,B,Calmodulin-1,Ryanodine receptor 2
+7KL5,A,B,Calmodulin-1,Ryanodine receptor 2

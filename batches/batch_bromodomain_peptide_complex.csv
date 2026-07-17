@@ -1,0 +1,26 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+2R0Y,A,B,Chromatin structure-remodeling complex protein RSC4,Histone H3 peptide
+5VS7,A,P,"Bromodomain protein, putative",H4K5ac peptide
+4QC3,A,C,Bromodomain adjacent to zinc finger domain protein 2B,diacetylated histone 4 peptide (H4K8acK12ac)
+4QBM,A,C,Bromodomain adjacent to zinc finger domain protein 2A,histone H4 peptide with sequence Gly-Ala-Lys(ac)-Arg-His-Arg-Lys(ac)-Val-Leu
+4QC1,A,D,Bromodomain adjacent to zinc finger domain protein 2B,acetylated histone 3 peptide (H3K14ac)
+9NN3,A,C,Bromodomain-containing protein 2,peptide 6.2
+6XBE,A,F,BlaNDM-4_1_JQ348841,macrocycle inhibitor NDM1i-1F
+6XBF,A,F,BlaNDM-4_1_JQ348841,macrocycle inhibitor NDM1i-1G
+2WP2,A,P,BROMODOMAIN TESTIS-SPECIFIC PROTEIN,HISTONE H4
+2WP1,A,P,BROMODOMAIN TESTIS-SPECIFIC PROTEIN,HISTONE H3
+9NN4,A,D,Bromodomain-containing protein 3,peptide 7.2
+6U61,A,D,Bromodomain-containing protein 2,cyclic peptide 3.1_3
+8DNQ,A,C,Bromodomain-containing protein 2,Cyclic peptide 2.2B
+6U71,A,B,Bromodomain-containing protein 2,cyclic peptide 3.1_3
+4Q6F,A,F,Bromodomain adjacent to zinc finger domain protein 2A,unmodified H3K4 peptide
+9MPG,A,E,Bromodomain-containing protein 2,2.1A
+6WNK,A,H,Proteasome subunit alpha,Proteasome subunit beta
+9MPH,A,E,Bromodomain-containing protein 3,4.1D
+7JX7,A,B,Bromodomain-containing protein 2,Diacetylated-H2A.Z peptide
+8B5A,A,B,Bromodomain-containing protein 3,H4K20ApmTri
+7EKN,B,A,ipep,Protein AF-10
+1Q2D,A,B,histone acetyltransferase GCN5,19-mer peptide fragment from p53 Tumor Suppressor
+4YYG,A,B,Bromodomain-containing protein 9,Histone H4
+5H6Y,A,B,Nucleosome-remodeling factor subunit BPTF,GLY-KCR-GLY
+6YX7,AAA,BBB,Allophycocyanin alpha,Allophycocyanin beta

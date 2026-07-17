@@ -1,8 +1,8 @@
 pdb_id,chain_a,chain_b,molecule_a,molecule_b
 1LI1,A,C,Collagen alpha 1(IV),Collagen alpha 2(IV)
 1DZI,A,B,INTEGRIN,COLLAGEN
-7BEE,A,C,Collagen-binding protein,21er collagen model peptide
 8YV3,A,B,Collagen alpha-1(I) chain,Collagen alpha-2(I) chain
+7BEE,A,C,Collagen-binding protein,21er collagen model peptide
 7BDU,A,C,Collagen-binding protein,21er collagen model peptide
 9VB8,A,B,Integrin alpha-2,Collagen model peptide
 7BFI,A,E,Collagen-binding protein,15R8 collagen model peptide

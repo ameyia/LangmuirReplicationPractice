@@ -9,17 +9,17 @@ pdb_id,chain_a,chain_b,molecule_a,molecule_b
 6A97,A,B,MHC I-like leukocyte 2 long form,Beta-2-microglobulin
 9EB2,A,B,MHC Rfp-Y class I alpha chain,Beta-2-microglobulin
 9EB4,A,B,MHC Rfp-Y class I alpha chain,Beta-2-microglobulin
-1HDM,A,B,"PROTEIN (CLASS II HISTOCOMPATIBILITY ANTIGEN, M ALPHA CHAIN)","PROTEIN (CLASS II HISTOCOMPATIBILITY ANTIGEN, M BETA CHAIN)"
-6LT6,A,B,MHC class I antigen,Beta-2-microglobulin
 9EB3,A,B,MHC Rfp-Y class I alpha chain,Beta-2-microglobulin
+1HDM,A,B,"PROTEIN (CLASS II HISTOCOMPATIBILITY ANTIGEN, M ALPHA CHAIN)","PROTEIN (CLASS II HISTOCOMPATIBILITY ANTIGEN, M BETA CHAIN)"
 4S0U,A,C,NKG2-D type II integral membrane protein,Retinoic acid early transcript 1L protein
+6LT6,A,B,MHC class I antigen,Beta-2-microglobulin
 6C97,A,B,IgG receptor FcRn large subunit p51,Beta-2-microglobulin
+1U58,A,B,MHC-I homolog m144,beta-2-microglobulin
 6LB2,A,B,MHC class I antigen,Beta-2-microglobulin
 3JVG,A,C,T-cell surface glycoprotein CD1A1 antigen,Beta-2-microglobulin
 6LAH,A,B,MHC class I antigen,Beta-2-microglobulin
 6LAM,A,B,MHC class I antigen,Beta-2-microglobulin
 2BC4,A,B,"HLA class II histocompatibility antigen, DM alpha chain","HLA class II histocompatibility antigen, DM beta chain"
-1U58,A,B,MHC-I homolog m144,beta-2-microglobulin
 1R3H,A,B,MHC H2-TL-T10-129,Beta-2-microglobulin
 5C9J,A,B,"T-cell surface glycoprotein CD1c,T-cell surface glycoprotein CD1b",Beta-2-microglobulin
 4WC8,A,B,ORN-TYR-LEU-LEU-PHI-TYR-THR-GLU-ORN-LYS-VAL-ALA-MAA-ALA-VAL-LYS,ORN-TYR-LEU-LEU-PHI-TYR-THR-GLU-ORN-LYS-VAL-ALA-MLE-ALA-VAL-LYS

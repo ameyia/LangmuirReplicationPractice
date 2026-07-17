@@ -1,0 +1,26 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+5MFI,A,C,YIII(Dq.V2)4CqI,(KR)4
+5MFJ,A,C,YIII(Dq.V2)4CqI,(KR)5
+5MFK,A,C,YIII(Dq.V1)4CPAF,(KR)4
+4D49,A,C,ARMADILLO REPEAT PROTEIN ARM00027,POLY ARG DECAPEPTIDE
+5MFF,A,E,YIIIM5AII,(RR)5
+5MFG,A,E,YIIIM5AII,(RR)4
+5MFH,A,E,YIIIM5AII,(RR)5
+5MFE,A,E,YIIIM5AII,(RR)4
+5AEI,A,D,DESIGNED ARMADILLO REPEAT PROTEIN YIIIM5AII,KR5
+3UKW,B,C,Importin subunit alpha-2,Bimax1 peptide
+3UKX,B,C,Importin subunit alpha-2,Bimax2 peptide
+3L3Q,A,B,Importin subunit alpha-2,pepTM
+9Y7K,A,B,Importin subunit alpha-1,Non-structural S NLS peptide
+9YY4,A,B,Importin subunit alpha-1,Non-structural S NLS peptide
+1EE5,A,B,KARYOPHERIN ALPHA,NUCLEOPLASMIN
+20ZE,B,A,Beet black scorch virus capsid protein NLS peptide (major binding site),Importin subunit alpha
+5H2W,A,B,Importin subunit alpha,Ubiquitin-like-specific protease 1
+9MKA,B,E,ARG-PRO-SER-LYS-LYS-ARG-GLN-LYS-PRO-GLN peptide,Importin subunit alpha-1
+23QH,E,A,Importin subunit alpha-1,Peptide from Fiber 1 protein
+5H2X,A,B,Importin subunit alpha,Ubiquitin-like-specific protease 1
+5B56,A,C,Importin subunit alpha-1,Protein Vpr
+4BA3,A,B,IMPORTIN SUBUNIT ALPHA-2,A89NLS
+3OQS,B,A,peptide of Chloride intracellular channel protein 4,Importin subunit alpha-2
+5MFC,A,B,YIIIM5AII,"(KR)4-Green fluorescent protein,Green fluorescent protein"
+21AI,C,A,7K transport protein 7A,Importin subunit alpha

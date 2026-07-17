@@ -1,0 +1,25 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+1DU3,A,D,DEATH RECEPTOR 5,TNF-RELATED APOPTOSIS INDUCING LIGAND
+1D0G,R,A,DEATH RECEPTOR-5,APOPTOSIS-2 LIGAND
+1D4V,B,A,TNF-RELATED APOPTOSIS INDUCING LIGAND,DEATH RECEPTOR 5
+4MSV,B,A,Tumor necrosis factor receptor superfamily member 6B,Tumor necrosis factor ligand superfamily member 6
+3K51,A,B,"Tumor necrosis factor ligand superfamily member 15, secreted form",Decoy receptor 3
+3PK1,A,B,Induced myeloid leukemia cell differentiation protein Mcl-1,Apoptosis regulator BAX
+5C3F,A,B,Induced myeloid leukemia cell differentiation protein Mcl-1,BID-MM
+1OVL,A,B,"Orphan nuclear receptor NURR1 (MSE 414, 496, 511)","Orphan nuclear receptor NURR1 (MSE 496, 511)"
+4G35,A,B,Induced myeloid leukemia cell differentiation protein Mcl-1 homolog,Noxa BH3 peptide (cysteine-mediated cross-linked)
+1T7R,A,B,Androgen receptor,FxxLF motif peptide
+6WH0,A,B,"Maltodextrin-binding protein,Bcl-2-like 4",Apoptosis regulator BAX
+5JSN,A,B,Apoptosis regulator Bcl-2,Bcl2 inhibitor
+6BWV,A,D,Tumor necrosis factor ligand superfamily member 9,Tumor necrosis factor receptor superfamily member 9
+3RNQ,B,A,Programmed cell death 1 ligand 2,Programmed cell death protein 1
+7Y90,A,B,Apoptosis regulator Bcl-2,cp1 peptide
+3RNK,A,B,Programmed cell death protein 1,Programmed cell death 1 ligand 2
+3BP5,A,B,Programmed cell death protein 1,Programmed cell death 1 ligand 2
+9Z3V,A,C,Induced myeloid leukemia cell differentiation protein Mcl-1,165G1
+7XGE,A,B,BCL-xL and MCL-1 dual binder 2,Induced myeloid leukemia cell differentiation protein Mcl-1
+9CDT,A,B,Induced myeloid leukemia cell differentiation protein Mcl-1,MCB_D2 peptide
+6MBE,A,B,Induced myeloid leukemia cell differentiation protein Mcl-1,dM7
+7M5B,A,B,Bcl-2 homologous antagonist/killer,BH3-interacting domain death agonist p15
+7UJT,A,B,Calcium/calmodulin-dependent protein kinase type II subunit alpha,"Glutamate receptor ionotropic, NMDA 2B"
+7UJQ,A,C,Calcium/calmodulin-dependent protein kinase type II subunit alpha,"Glutamate receptor ionotropic, NMDA 2B"

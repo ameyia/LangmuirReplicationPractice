@@ -1,0 +1,24 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+1T0P,A,B,Integrin alpha-L,Intercellular adhesion molecule-3
+3BN3,A,B,Integrin alpha-L,Intercellular adhesion molecule 5
+5E6U,A,B,Integrin alpha-L,Integrin beta-2
+5E6S,A,B,Integrin alpha-L,Integrin beta-2
+3G9W,A,C,Talin-2,Integrin beta-1D
+1YUK,A,B,Integrin beta-2 A chain,Integrin beta-2 B chain
+4WJK,A,B,Integrin alpha-5,Integrin beta-1
+8W30,A,B,Integrin alpha-V heavy chain,Integrin beta-1
+1J19,A,B,radixin,16-mer peptide from Intercellular adhesion molecule-2
+4DJ9,A,B,Vinculin,Talin-1
+7S48,A,B,Serine/threonine-protein kinase PAK 4,Integrin beta-5
+7S47,A,B,"Integrin beta-5, Isoform 2 of Serine/threonine-protein kinase PAK 4 chimera",Integrin beta-5
+1HDM,A,B,"PROTEIN (CLASS II HISTOCOMPATIBILITY ANTIGEN, M ALPHA CHAIN)","PROTEIN (CLASS II HISTOCOMPATIBILITY ANTIGEN, M BETA CHAIN)"
+7QCR,A,C,Afadin,Envelope small membrane protein
+7S46,A,B,Isoform 2 of Serine/threonine-protein kinase PAK 4,Integrin beta-5
+4B60,A,C,FIBRONECTIN-BINDING PROTEIN A,FIBRINOGEN GAMMA CHAIN
+2BC4,A,B,"HLA class II histocompatibility antigen, DM alpha chain","HLA class II histocompatibility antigen, DM beta chain"
+2Y7L,A,B,AGGLUTININ-LIKE ALS9 PROTEIN,"FIBRINOGEN GAMMA CHAIN, ISOFORM CRA_A"
+2FIB,A,B,FIBRINOGEN,GLY-PRO-ARG-PRO
+8TEC,A,C,Fermitin family homolog 2,Integrin beta-1
+2J12,A,B,FIBER PROTEIN,COXSACKIEVIRUS AND ADENOVIRUS RECEPTOR
+2VR3,A,C,CLUMPING FACTOR A,FIBRINOGEN GAMMA-CHAIN
+3ZDL,A,B,VINCULIN,AMYLOID BETA A4 PRECURSOR PROTEIN-BINDING FAMILY B MEMBER 1-INTERACTING PROTEIN

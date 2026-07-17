@@ -1,0 +1,26 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+8VWO,A,B,Proteasomal ubiquitin receptor ADRM1,GLY-PRO-GLY-SER-MET-THR-THR
+8FTQ,A,C,Proteasomal ubiquitin receptor ADRM1,Ubiquitin
+4Y7O,A,C,Type VI secretion protein IcmF,Type VI secretion system protein VasD
+3M91,A,B,Proteasome-associated ATPase,Prokaryotic ubiquitin-like protein pup
+4Y7M,A,C,Hi113 protein,Type VI secretion protein IcmF
+6VRO,A,B,Serine/threonine-protein phosphatase 2A 56 kDa regulatory subunit gamma isoform,Beta/gamma crystallin domain-containing protein 1
+2R9P,A,E,Trypsin-3,Pancreatic trypsin inhibitor
+7K2O,A,P,Kelch-like ECH-associated protein 1,(ABU)DPETGE
+7K2P,A,P,Kelch-like ECH-associated protein 1,(DAV)DPETGE
+7K2M,A,P,Kelch-like ECH-associated protein 1,"Nrf2 cyclic peptide,c[GEPETGE]"
+7K2I,A,P,Kelch-like ECH-associated protein 1,"Nrf2 cyclic peptide,c[GAPETGE]"
+7K2F,A,C,Kelch-like ECH-associated protein 1,"Nrf2 cyclic peptide,c[GAEETGE]"
+8EHV,A,P,Kelch-like ECH-associated protein 1,cyclic peptide c[DhA-GDPET(bAla)E
+9QDU,A,B,Kelch-like ECH-associated protein 1,Cyclic peptide
+5X54,A,C,Kelch-like ECH-associated protein 1,ACE-GLU-TRP-TRP-TRP
+7K2N,A,P,Kelch-like ECH-associated protein 1,(BAL)DPETGE
+7K2S,A,P,Kelch-like ECH-associated protein 1,B3A-ASP-PRO-GLU-THR-GLY-GLU
+7K2G,A,P,Kelch-like ECH-associated protein 1,GLY-ASP-GLU-GLU-ALA-GLY-GLU
+7K2H,A,P,Kelch-like ECH-associated protein 1,GLY-ASP-PRO-GLU-THR-GLY-GLU
+2F4M,A,B,peptide N-glycanase,UV excision repair protein RAD23 homolog B
+6FMQ,A,D,Kelch-like ECH-associated protein 1,ACY-SC1-GLU-THR-GLY-GLU-LEU
+6T7Z,A,B,Kelch-like ECH-associated protein 1,ACE-CYS-ASA-4FB-GLU-THR-GLY-GLU-CYS-NH2
+7K2R,A,P,Kelch-like ECH-associated protein 1,B3A-ASP-PRO-GLU-THR-GLY-GLU
+7K2Q,A,P,Kelch-like ECH-associated protein 1,ACA-ASP-PRO-GLU-THR-GLY-GLU
+7JYA,A,D,Protein fem-1 homolog C,ASN-ARG-ARG-ARG-ARG-TRP-ARG-GLU-ARG-GLN-ARG

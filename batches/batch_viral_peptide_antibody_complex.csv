@@ -1,0 +1,18 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+5WN9,H,A,scFv 2D10,Major surface glycoprotein G
+9ZG8,A,B,Antibody DH511.1 Fab heavy chain,Antibody DH511.1 Fab light chain
+5NPJ,A,D,Single chain variable fragment of the non-neutralizing antibody DAO5,Epitope peptide
+5NPI,A,D,Single chain variable fragment of the non-neutralizing antibody DAO5,Epitope peptide
+2XV6,A,B,CAPSID PROTEIN P24,CAMELID VHH 9
+2IWG,A,B,IG GAMMA-1 CHAIN C,52 KDA RO PROTEIN
+2XT1,A,B,GAG POLYPROTEIN,CAMELID VHH 9
+7D2Z,A,B,"SR31 against SARS-CoV-2 RBD, non neutralizing",Spike protein S1
+8V8F,A,E,anti-HIV scFv,Utag
+3UZQ,A,B,anti-dengue Mab 4E11,envelope protein
+7EFR,A,B,Processed angiotensin-converting enzyme 2,Spike glycoprotein
+1PQZ,A,B,MCMV M144,Beta-2-microglobulin
+6L1Y,A,C,gp120,T-cell surface glycoprotein CD4
+5M2I,A,G,Tumor necrosis factor,VHH1
+5M2M,A,D,Tumor necrosis factor,Llama nanobody VHH3
+5M2J,A,D,Tumor necrosis factor,Anti-(ED-B) scFV
+4QO1,A,B,Nb139 Nanobody against the DNA-binding domain of p53,Cellular tumor antigen p53

@@ -1,0 +1,24 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+1SMP,A,I,SERRATIA METALLO PROTEINASE,ERWINIA CHRYSANTHEMI INHIBITOR
+6IXX,A,I,Alkaline metalloprotease,LupI
+1JIW,P,I,ALKALINE METALLOPROTEINASE,PROTEINASE INHIBITOR
+3D4U,A,B,Carboxypeptidase B2,Carboxypeptidase inhibitor
+3FJU,A,B,Carboxypeptidase A1,Carboxypeptidase A inhibitor
+3LMS,A,B,Carboxypeptidase B2,Carboxypeptidase inhibitor
+6U12,A,B,InlB,VHH R303 C33A/C102A mutant
+2BHD,A,B,XAA-PRO AMINOPEPTIDASE,VALINE-PROLINE-LEUCINE TRIPEPTIDE
+1KUI,A,B,metalloproteinase,EQW
+1KUK,A,B,metalloproteinase,EKW
+3BOO,A,B,Neurotoxin A,N-Ac-CRATKML inhibitory peptide
+1KUG,A,B,metalloproteinase,ENW
+3C8A,A,B,Botulinum neurotoxin A light chain,Inhibitor peptide RRGL
+3C8B,A,B,Botulinum neurotoxin A light chain,Inhibitor peptide RRGI
+3NF3,A,C,BoNT/A,JTH-NB72-39 inhibitor
+3C89,A,B,Botulinum neurotoxin A light chain,Inhibitor peptide RRGM
+3DS9,A,B,Botulinum neurotoxin type A,octapeptide I1 inhibitor
+4ARF,A,B,COLH PROTEIN,ISOAMYLPHOSPHONYL-GLY-PRO-ALA
+3QW7,A,B,Botulinum neurotoxin type A,inhibitory peptide RRFC
+3QW8,A,B,Botulinum neurotoxin type A,inhibitory peptide CRGC
+3QW5,A,B,Botulinum neurotoxin type A,inhibitory peptide RRGF
+3QW6,A,B,Botulinum neurotoxin type A,inhibitory peptide RYGC
+9YBQ,A,M,Cadherin domain protein,ALA-GLY-TYR-THR-ASP

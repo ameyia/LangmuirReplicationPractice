@@ -15,8 +15,8 @@ pdb_id,chain_a,chain_b,molecule_a,molecule_b
 3MJG,A,X,Platelet-derived growth factor subunit B,Beta-type platelet-derived growth factor receptor
 1EOL,A,B,ALPHA THROMBIN,THROMBIN INHIBITOR P628
 7SR9,A,B,Thrombin light chain,Thrombin heavy chain
-1PPB,L,H,ALPHA-THROMBIN (SMALL SUBUNIT),ALPHA-THROMBIN (LARGE SUBUNIT)
 1EOJ,A,B,ALPHA THROMBIN,THROMBIN INHIBITOR P798
+1PPB,L,H,ALPHA-THROMBIN (SMALL SUBUNIT),ALPHA-THROMBIN (LARGE SUBUNIT)
 6VTM,A,B,Cathepsin G,MAP domain-containing protein
 7Q5T,AAA,GGG,Tyrosine-protein kinase SYK,High affinity immunoglobulin epsilon receptor subunit gamma
 1XMN,A,B,Thrombin light chain,Thrombin heavy chain

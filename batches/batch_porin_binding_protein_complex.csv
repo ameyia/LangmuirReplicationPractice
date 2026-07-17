@@ -1,0 +1,25 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+2FGR,A,B,Outer membrane porin protein 32,PAP
+7P1C,A,B,Outer membrane protein assembly factor BamA,TRP-ASN-UX8-THR-LYS-ARG-PHE
+7NRE,A,C,Outer membrane protein assembly factor BamA,Darobactin
+7NRF,A,B,Outer membrane protein assembly factor BamA,Darobactin
+6QGW,A,B,Outer membrane protein assembly factor BamA,NanoE6
+6QGX,A,B,Outer membrane protein assembly factor BamA,NanoF7
+4Q35,A,B,LPS-assembly protein LptD,LPS-assembly lipoprotein LptE
+4XGA,A,B,Outer membrane protein assembly factor BamB,Outer membrane protein assembly factor BamA
+6O4M,C,A,D-Melittin,Melittin
+9FZC,A,C,Outer membrane protein A,Nanobody 01
+4DCB,A,F,Coagulase/fibrinolysin,Plasminogen
+3QRX,A,B,Centrin,Melittin
+4JML,A,E,Protein TolB,Colicin-E9
+9V99,A,I,Outer membrane beta-barrel domain-containing protein,API-DAL-DAL
+2GSK,A,B,Vitamin B12 transporter btuB,protein TONB
+8AHT,A,F,Calmodulin,Melittin
+2W80,A,C,COMPLEMENT FACTOR H,FACTOR H BINDING PROTEIN
+3TD5,A,I,Outer membrane protein omp38,peptide(L-Ala-gamma-D-Glu-m-DAP-D-Ala-D-Ala)
+4QLP,A,B,immunity factor IFT,"Alanine and proline rich protein, tuberculosis necrotizing toxin (TNT)"
+7P93,A,B,Leucotoxin LukEv,Atypical chemokine receptor 1
+8TGY,A,C,"Multidrug resistance protein, SMR family",L10 Monobody
+2W81,A,C,COMPLEMENT FACTOR H,FACTOR H BINDING PROTEIN
+2HDI,A,B,Colicin I receptor,Colicin-Ia
+4AYD,A,C,COMPLEMENT FACTOR H,FACTOR H BINDING PROTEIN

@@ -1,0 +1,26 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+5M4Y,A,B,Protein SSO2,Exocyst complex component SEC3
+9Y5G,A,B,rv-SNARE/sc-t,sc-t-SNARE-5.s.8
+2C5K,P,T,VACUOLAR PROTEIN SORTING PROTEIN 51,T-SNARE AFFECTING A LATE GOLGI COMPARTMENT PROTEIN 1
+4J2C,A,B,Syntaxin-6,Vacuolar protein sorting-associated protein 51 homolog
+2C5I,P,T,VACUOLAR PROTEIN SORTING PROTEIN 51,T-SNARE AFFECTING A LATE GOLGI COMPARTMENT PROTEIN 1
+2V8S,E,V,CLATHRIN INTERACTOR 1,VESICLE TRANSPORT THROUGH INTERACTION WITH T-SNARES HOMOLOG 1B
+1JTH,A,B,SNAP25,syntaxin 1a
+7Q83,A,B,Exocyst complex component SEC3,Protein SSO2
+3ONL,A,C,Epsin-3,t-SNARE VTI1
+7BV4,A,C,Gamma-aminobutyric acid receptor-associated protein,Syntaxin-17
+1PCX,A,B,Protein transport protein Sec24,COPII-binding peptide of the protein transport protein BET1
+1XTG,A,B,NEUROTOXIN BONT/A,Synaptosomal-associated protein 25
+3FIE,A,C,BOTULINUM NEUROTOXIN TYPE F,fragment of Vesicle-associated membrane protein 2
+4JEH,A,B,Syntaxin-binding protein 1,Syntaxin-1A
+3FII,A,B,BOTULINUM NEUROTOXIN TYPE F,fragment of Vesicle-associated membrane protein 2
+8QQF,A,B,TBC1 domain family member 23,Syntaxin-16
+4B93,A,B,VESICLE-ASSOCIATED MEMBRANE PROTEIN 7,ANKYRIN REPEAT DOMAIN-CONTAINING PROTEIN 27
+3DDA,A,B,Botulinum neurotoxin A light chain,Synaptosomal-associated protein 25
+3DDB,A,B,Botulinum neurotoxin A light chain,Synaptosomal-associated protein 25
+6JLH,A,B,Secretagogin,Synaptosomal-associated protein 25
+8BAV,A,C,"Green fluorescent protein,Synaptosomal-associated protein 25",Secretagogin
+8BAN,A,C,"Green fluorescent protein,Synaptosomal-associated protein 25",Secretagogin
+1NRJ,A,B,Signal recognition particle receptor alpha subunit homolog,Signal recognition particle receptor beta subunit
+5W7J,A,B,Palmitoyltransferase ZDHHC17,Snap25b-111-120
+5W7I,A,B,Palmitoyltransferase ZDHHC17,Snap25b-111-120

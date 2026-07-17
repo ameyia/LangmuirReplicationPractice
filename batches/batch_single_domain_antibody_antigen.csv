@@ -1,0 +1,24 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+1MFA,L,H,IGG1-LAMBDA SE155-4 FAB (LIGHT CHAIN),IGG1-LAMBDA SE155-4 FAB (HEAVY CHAIN)
+1I8M,A,B,ANTIBODY LIGHT CHAIN FAB,ANTIBODY HEAVY CHAIN FAB
+8EZK,A,H,25 kDa ookinete surface antigen,"Transmission-reducing antibody AS01-4, single-chain Fv"
+1SVZ,A,C,single-chain Fv fragment 1696,epitope peptide corresponding to N-terminus of HIV-2 protease
+1MEL,A,L,VH SINGLE-DOMAIN ANTIBODY,LYSOZYME
+1JTO,A,L,Vh Single-Domain Antibody,Lysozyme
+8EZL,A,H,25 kDa ookinete surface antigen,"Transmission-reducing antibody AS01-50, single chain Fv"
+8EZM,A,H,25 kDa ookinete surface antigen,"Transmission-reducing antibody AS01-63, Single-chain Fv"
+1JTP,A,L,Single-Domain Antibody,LYSOZYME C
+1JTT,A,L,Vh Single-Domain Antibody,Lysozyme
+1T6V,L,N,Lysozyme C,novel antigen receptor
+1N4X,L,H,immunoglobulin kappa chain variable region,immunoglobulin heavy chain variable region
+5VXM,A,B,Invasin IpaD,Single-domain antibody 20ipaD
+1XF2,A,B,antibody light chain Fab,antibody heavy chain Fab
+1P7K,A,B,antibody light chain FAB,antibody heavy chain FAB
+1SQ2,L,N,Lysozyme C,novel antigen receptor
+1DZB,A,X,SCFV FRAGMENT 1F9,TURKEY EGG-WHITE LYSOZYME C
+5VXJ,A,B,Invasin IpaD,single-domain antibody JMK-E3
+2I26,N,L,New Antigen Receptor Ancestral,Lysozyme C
+1DL7,L,H,PROTEIN (ANTIBODY M3C65 (LIGHT CHAIN)),PROTEIN (ANTIBODY M3C65 (HEAVY CHAIN))
+8G0I,A,D,Green fluorescent protein,LaG24 Nanobody
+1EHL,L,H,ANTI-(6-4) PHOTOPRODUCT ANTIBODY 64M-2 FAB (LIGHT CHAIN),ANTI-(6-4) PHOTOPRODUCT ANTIBODY 64M-2 FAB (HEAVY CHAIN)
+2I25,N,L,New Antigen Receptor PBLA8,Lysozyme C

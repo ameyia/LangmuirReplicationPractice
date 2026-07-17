@@ -12,11 +12,11 @@ pdb_id,chain_a,chain_b,molecule_a,molecule_b
 5A2J,H,P,SCFV-SM3,THE NAKED PEPTIDE APDTRP
 9M6J,A,H,single-domain antibody,Immunoglobulin G-binding protein A
 9M6O,A,B,Immunoglobulin G-binding protein A,single-domain antibody
-1T6V,L,N,Lysozyme C,novel antigen receptor
 1WCB,A,B,"FAB FRAGMENT OF CATALYTIC ANTIBODY 15A9, LIGHT CHAIN","FAB FRAGMENT OF CATALYTIC ANTIBODY 15A9, HEAVY CHAIN"
+1T6V,L,N,Lysozyme C,novel antigen receptor
 3ZL4,H,L,A17 ANTIBODY FAB FRAGMENT HEAVY CHAIN,A17 ANTIBODY FAB FRAGMENT LAMBDA LIGHT CHAIN
 9ZG8,A,B,Antibody DH511.1 Fab heavy chain,Antibody DH511.1 Fab light chain
-5HGG,A,S,Urokinase-type plasminogen activator,"Camelid Derived Antibody Fragment, Nb4"
 1R3H,A,B,MHC H2-TL-T10-129,Beta-2-microglobulin
+5HGG,A,S,Urokinase-type plasminogen activator,"Camelid Derived Antibody Fragment, Nb4"
 1JTP,A,L,Single-Domain Antibody,LYSOZYME C
 1CK0,L,H,PROTEIN (IGG1-KAPPA ANTIBODY 131 (LIGHT CHAIN)),PROTEIN (IGG1-KAPPA ANTIBODY 131 (HEAVY CHAIN))

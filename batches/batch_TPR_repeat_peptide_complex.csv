@@ -1,0 +1,26 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+1ELW,A,C,TPR1-DOMAIN OF HOP,HSC70-PEPTIDE
+1ELR,A,B,TPR2A-DOMAIN OF HOP,HSP90-PEPTIDE MEEVD
+3CVP,A,B,Peroxisome targeting signal 1 receptor PEX5,10-SKL PTS1 peptide Ac-GTLSNRASKL
+1FCH,A,C,PEROXISOMAL TARGETING SIGNAL 1 RECEPTOR,PTS1-CONTAINING PEPTIDE
+3CV0,A,B,Peroxisome targeting signal 1 receptor PEX5,T. brucei PGI PTS1 peptide Ac-FNELSHL
+4AM9,A,B,CHAPERONE SYCD,YOP EFFECTOR YOPD
+3CVL,A,B,Peroxisome targeting signal 1 receptor PEX5,T. brucei PFK PTS1 peptide Ac-HEELAKL
+2V5F,A,X,PROLYL 4-HYDROXYLASE SUBUNIT ALPHA-1,HEXA-HISTIDINE PEPTIDE
+3CVN,A,B,Peroxisome targeting signal 1 receptor,T. brucei GAPDH PTS1 peptide Ac-DRDAAKL
+4BT9,A,C,PROLYL 4-HYDROXYLASE SUBUNIT ALPHA-1,(PRO-PRO-GLY)3 PEPTIDE
+4APO,A,D,AH RECEPTOR-INTERACTING PROTEIN,MITOCHONDRIAL IMPORT RECEPTOR SUBUNIT TOM20 HOMOLOG
+7W5M,A,B,Tetratricopeptide repeat (TPR)-like superfamily protein,H3 alpha3 helix peptide
+5M72,A,B,Signal recognition particle subunit SRP72,Signal recognition particle subunit SRP68
+3FWV,A,C,Hsc70/Hsp90-organizing protein,Heat shock protein HSP 90-beta
+9HRE,A,E,Prolyl 4-hydroxylase subunit alpha-1,Synthetic peptide PRO-HYP-GLY-PRO-ALA-GLY-PRO-HYP-GLY
+9HPQ,A,E,Prolyl 4-hydroxylase subunit alpha-1,Synthetic peptide PRO-PRO-GLY-PRO-ARG-GLY-PRO-PRO-GLY
+6HPG,A,a,"Outer envelope protein 64, mitochondrial",Heat shock protein 90-4
+3UPV,A,B,Heat shock protein STI1,Heat shock protein SSA4
+4WNE,A,B,G-protein-signaling modulator 2,Peptide from FERM and PDZ domain-containing protein 4
+4BTB,A,C,PROLYL 4-HYDROXYLASE SUBUNIT ALPHA-1,POLY PROLINE PEPTIDE
+8HQX,A,B,Coatomer subunit beta',TAT-WDM KxKxx motif
+2YNN,A,P,COATOMER SUBUNIT BETA',KTKTN MOTIF
+5LYN,A,C,Small glutamine-rich tetratricopeptide repeat-containing protein 2,PRO-THR-VAL-GLU-GLU-VAL-ASP
+5WRV,A,B,Signal recognition particle subunit SRP68,Signal recognition particle subunit SRP72
+4KYO,A,B,Serine-pyruvate aminotransferase,Peroxisomal targeting signal 1 receptor

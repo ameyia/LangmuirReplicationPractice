@@ -1,0 +1,25 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+9R5Y,A,B,Tenascin,Adhiron
+8FN8,A,B,Tenascin,Receptor-type tyrosine-protein phosphatase zeta
+2RKY,A,B,Fibronectin,Fibronectin-binding protein
+2RL0,A,C,Fibronectin,Fibronectin-binding protein
+3CAL,A,B,Fibronectin,peptide from Fibronectin-binding protein A
+8FN9,A,B,Tenascin-R,Receptor-type tyrosine-protein phosphatase zeta
+2RKZ,A,M,Fibronectin,peptide from Fibronectin-binding protein A
+1MIZ,A,B,integrin beta3,TALIN
+1MK7,A,B,Integrin Beta3,TALIN
+4PZ5,A,B,Fibronectin,Fibronectin-binding protein BBK32
+8PEQ,A,J,Fibronectin,Affilin variant Af2
+3ZRZ,A,C,FIBRONECTIN,FIBRONECTIN-BINDING PROTEIN
+4HXJ,A,C,Proto-oncogene tyrosine-protein kinase Src,C-terminal 3-mer peptide from Integrin beta-3
+3EJH,A,E,Fibronectin,Collagen type-I a1 chain
+4JEG,A,B,Tyrosine-protein phosphatase non-receptor type 11,Monobody CS1
+4JE4,A,B,Tyrosine-protein phosphatase non-receptor type 11,Monobody NSa1
+5N48,A,B,Neutrophil gelatinase-associated lipocalin,Fibronectin
+4KJY,A,B,Leukocyte surface antigen CD47,High-affinity SIRPa variant FD6
+5DC0,A,B,Fibronectin,Tyrosine-protein kinase ABL1
+5DC4,A,B,Tyrosine-protein kinase ABL1,AS25 monobody
+5DC9,A,B,Tyrosine-protein kinase ABL1,AS25 monobody
+2JJS,A,C,TYROSINE-PROTEIN PHOSPHATASE NON-RECEPTOR TYPE SUBSTRATE 1,LEUKOCYTE SURFACE ANTIGEN CD47
+2JJT,A,C,TYROSINE-PROTEIN PHOSPHATASE NON-RECEPTOR TYPE SUBSTRATE 1,LEUKOCYTE SURFACE ANTIGEN CD47
+4CMM,A,B,TYROSINE-PROTEIN PHOSPHATASE NON-RECEPTOR TYPE SUBSTRATE 1,LEUKOCYTE SURFACE ANTIGEN CD47

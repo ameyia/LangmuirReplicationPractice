@@ -1,0 +1,26 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+1DFJ,E,I,RIBONUCLEASE A,RIBONUCLEASE INHIBITOR
+4PEQ,A,B,Ribonuclease pancreatic,Ribonuclease/angiogenin inhibitor 1
+1AY7,A,B,GUANYL-SPECIFIC RIBONUCLEASE SA,BARSTAR
+2Q4G,X,W,Ribonuclease pancreatic,Ribonuclease inhibitor
+1Z7X,X,W,Ribonuclease I,Ribonuclease inhibitor
+2BEX,A,C,RIBONUCLEASE INHIBITOR,NONSECRETORY RIBONUCLEASE
+3TSR,A,E,Ribonuclease pancreatic,Ribonuclease inhibitor
+4PER,A,B,Ribonuclease Inhibitor,Angiogenin
+1A4Y,A,B,RIBONUCLEASE INHIBITOR,ANGIOGENIN
+1B27,A,D,PROTEIN (BARNASE),PROTEIN (BARSTAR)
+1B2U,A,D,PROTEIN (BARNASE),PROTEIN (BARSTAR)
+1B3S,A,D,PROTEIN (BARNASE),PROTEIN (BARSTAR)
+1B2S,A,D,PROTEIN (BARNASE),PROTEIN (BARSTAR)
+1X1U,A,D,Ribonuclease,Barstar
+1X1X,A,D,Ribonuclease,Barstar
+2ZA4,A,B,Ribonuclease,Barstar
+1BRS,A,D,BARNASE,BARSTAR
+1X1W,A,D,Ribonuclease,Barstar
+1X1Y,A,D,Ribonuclease,Barstar
+1FIV,A,B,FIV PROTEASE,FIV PROTEASE INHIBITOR  ACE-ALN-VAL-STA-GLU-ALN-NH2
+7MRX,A,B,Ribonuclease,Barstar
+1U8G,A,I,PROTEASE RETROPEPSIN,peptidomimetic inhibitor KI2-PHE-GLU-GLU-NH2
+7HVP,A,C,HIV-1 PROTEASE,INHIBITOR ACE-SER-LEU-ASN-PHE-PSI(CH(OH)-CH2N)-PRO-ILE VME (JG-365)
+2MIP,A,E,HIV-2 PROTEASE,INHIBITOR BI-LA-398
+2O3B,A,B,Nuclease,Sugar-non-specific nuclease inhibitor

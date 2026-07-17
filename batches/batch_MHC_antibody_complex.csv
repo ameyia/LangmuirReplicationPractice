@@ -1,0 +1,24 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+3L9R,A,B,CD1b3,Beta-2-microglobulin
+1LNU,A,B,"H-2 class II histocompatibility antigen, A-B alpha chain","H-2 class II histocompatibility antigen, A beta chain"
+1I3R,A,B,"H-2 CLASS II HISTOCOMPATIBILITY ANTIGEN, E-K ALPHA CHAIN","FUSION PROTEIN CONSISTING OF MHC E-BETA-K PRECURSOR, GLYCINE RICH LINKER, AND HEMOGLOBIN BETA-2 CHAIN"
+3UTZ,A,B,"Metalloproteinase, light chain","Metalloproteinase, heavy chain"
+3SGD,I,H,Light Chain,Heavy Chain
+1R3H,A,B,MHC H2-TL-T10-129,Beta-2-microglobulin
+2X89,A,D,ANTIBODY,BETA-2-MICROGLOBULIN
+1FNG,A,B,"PROTEIN (MHC CLASS II I-EK, ALPHA CHAIN)","PROTEIN (MHC CLASS II I-EK, BETA CHAIN)"
+2BC4,A,B,"HLA class II histocompatibility antigen, DM alpha chain","HLA class II histocompatibility antigen, DM beta chain"
+1FNE,A,B,"PROTEIN (MHC CLASS II I-EK, ALPHA CHAIN)","PROTEIN (MHC CLASS II I-EK, BETA CHAIN)"
+3FRU,A,B,NEONATAL FC RECEPTOR,BETA-2-MICROGLOBULIN
+7N0R,A,C,Nucleoprotein,Single-domain antibody C2
+7N0I,A,I,Nucleoprotein,Single-domain antibody E2
+5DMK,A,B,"H-2 class II histocompatibility antigen, A-D alpha chain","beta chain of Major Histocompatibility Complex Class II, I-Ag7,H2-Ab1 protein"
+1KTD,A,B,"H-2 class II histocompatibility antigen, E-D alpha chain","Fusion protein consisting of cytochrome C peptide, glycine rich linker, and MHC E-beta-k"
+4GKZ,A,B,Alpha chain of Class II TCR,Beta Chain of Class II TCR
+4F7E,A,B,"CD1D antigen, d polypeptide",Beta-2-microglobulin
+1HDM,A,B,"PROTEIN (CLASS II HISTOCOMPATIBILITY ANTIGEN, M ALPHA CHAIN)","PROTEIN (CLASS II HISTOCOMPATIBILITY ANTIGEN, M BETA CHAIN)"
+6MFG,A,E,"HLA class II histocompatibility antigen, DQ alpha 1 chain",MHC class II HLA-DQ-beta-1 - DQ2-glia-alpha1 chimeric protein
+1ONQ,A,B,T-cell surface glycoprotein CD1a,Beta-2-microglobulin
+3T8X,A,B,T-cell surface glycoprotein CD1b,Beta-2-microglobulin
+6BLR,A,B,IAg7 alpha chain,H2-Ab1 protein
+3CVI,H,L,25-D1.16 Heavy chain,25-D1.16 Light chain

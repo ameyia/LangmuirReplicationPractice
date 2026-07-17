@@ -6,8 +6,8 @@ pdb_id,chain_a,chain_b,molecule_a,molecule_b
 1SSH,A,B,Hypothetical 40.4 kDa protein in PES4-HIS2 intergenic region,12-mer peptide from Cytoskeleton assembly control protein SLA1
 1SEM,A,C,SEM-5,10-RESIDUE PROLINE-RICH PEPTIDE FROM MSOS (ACE-PRO-PRO-PRO-VAL-PRO-PRO-ARG-ARG-ARG)
 1B3L,A,B,PROTEIN (OLIGO-PEPTIDE BINDING PROTEIN),PROTEIN (LYS-GLY-LYS)
-4IIO,A,C,Intersectin-2,Synthetic Peptide
 2DRM,A,E,Acanthamoeba Myosin IB,18-mer peptide from Acan125
+4IIO,A,C,Intersectin-2,Synthetic Peptide
 3TD5,A,I,Outer membrane protein omp38,peptide(L-Ala-gamma-D-Glu-m-DAP-D-Ala-D-Ala)
 7PVT,A,B,Tyrosine-protein kinase transforming protein Src,VSL12
 4HVV,A,B,Proto-oncogene tyrosine-protein kinase Src,SYNTHETIC PEPTIDE Acetyl-APPLPPRNRP
@@ -15,12 +15,12 @@ pdb_id,chain_a,chain_b,molecule_a,molecule_b
 4RTV,A,B,Proto-oncogene tyrosine-protein kinase Src,APP12 peptide
 4RTY,A,B,Proto-oncogene tyrosine-protein kinase Src,APP12 peptide
 4F14,A,B,Nebulette,Xin actin-binding repeat-containing protein 2
-5OB2,A,B,Proto-oncogene tyrosine-protein kinase Src,APP12
 2V1R,A,P,PEROXISOMAL MEMBRANE PROTEIN PAS20,PEX14
+5OB2,A,B,Proto-oncogene tyrosine-protein kinase Src,APP12
 1CKA,A,B,C-CRK N-TERMINAL SH3 DOMAIN,C3G PEPTIDE (PRO-PRO-PRO-ALA-LEU-PRO-PRO-LYS-LYS-ARG)
 1IS0,A,C,Tyrosine-protein kinase transforming protein SRC,AY0 GLU GLU ILE peptide
 7PVX,A,B,Isoform 1 of Proto-oncogene tyrosine-protein kinase Src,VSL12 peptide
-6A9C,A,E,Unconventional myosin IB,Peptide from Rho guanine nucleotide exchange factor
-2AK5,A,D,Rho guanine nucleotide exchange factor 7,8-residue peptide from a signal transduction protein CBL-B
 4RTW,A,B,Proto-oncogene tyrosine-protein kinase Src,APP12 peptide
+2AK5,A,D,Rho guanine nucleotide exchange factor 7,8-residue peptide from a signal transduction protein CBL-B
+6A9C,A,E,Unconventional myosin IB,Peptide from Rho guanine nucleotide exchange factor
 2R3Y,A,D,Protease degS,Synthetic peptide YWF

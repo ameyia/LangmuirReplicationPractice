@@ -1,0 +1,26 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+7F86,C,A,Phycoerythrin beta subunit,Phycoerythrin alpha subunit
+7S2S,A,B,IL2Rb-binding nanobody,Interleukin-2 receptor subunit beta
+1F6F,A,B,PLACENTAL LACTOGEN,PROLACTIN RECEPTOR
+7SZT,A,E,"Multidrug resistance protein, SMR family",L10 monobody
+6MOE,A,C,E2 DARPin,Erythropoietin receptor
+2RL0,A,C,Fibronectin,Fibronectin-binding protein
+2RKY,A,B,Fibronectin,Fibronectin-binding protein
+3ZRZ,A,C,FIBRONECTIN,FIBRONECTIN-BINDING PROTEIN
+2RKZ,A,M,Fibronectin,peptide from Fibronectin-binding protein A
+3CAL,A,B,Fibronectin,peptide from Fibronectin-binding protein A
+7MMS,A,E,Ribonucleoside-diphosphate reductase,Protein NrdI
+6MOI,A,B,Dimeric DARPing CCR5 (C_angle_R5),Erythropoietin receptor
+4PZ5,A,B,Fibronectin,Fibronectin-binding protein BBK32
+5JME,A,F,Soluble acetylcholine receptor,alpha-conotoxin PeIA from Conus pergrandis
+7N0W,A,G,Acetylcholine-binding protein,Ribbon alpha-conotoxin AusIA
+6MOJ,A,B,Dimeric DARPin ACR5 (A_angle_R5),Erythropoietin receptor
+1HWG,A,B,GROWTH HORMONE,GROWTH HORMONE BINDING PROTEIN
+7MMQ,A,E,Ribonucleoside-diphosphate reductase,Protein NrdI
+3DLQ,I,R,Interleukin-22,Interleukin-22 receptor subunit alpha-1
+7S96,A,B,Phycoerythrin alpha subunit 1,Phycoerythrin beta subunit
+7S97,A,B,Phycoerythrin alpha subunit 1,Phycoerythrin beta subunit
+8PEQ,A,J,Fibronectin,Affilin variant Af2
+7O1F,A,J,Proliferating cell nuclear antigen,Peptide fragment from PolD4
+7LKY,A,I,Isoform 1 of PHD finger protein 1,Peptidomimetic inhibitor UNC6641
+1AXI,A,B,GROWTH HORMONE,GROWTH HORMONE RECEPTOR

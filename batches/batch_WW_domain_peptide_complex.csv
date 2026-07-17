@@ -1,0 +1,26 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+2OEI,A,B,Amyloid beta A4 protein-binding family B member 1,poly-proline peptide
+2HO2,A,B,Amyloid beta A4 protein-binding family B member 1,Protein enabled homolog
+2I04,A,C,"Membrane-associated guanylate kinase, WW and PDZ domain-containing protein 1",peptide E6
+1WBP,A,B,SERINE/THREONINE-PROTEIN KINASE SPRK1,"MEMBRANE-ASSOCIATED GUANYLATE KINASE, WW AND PDZ DOMAIN-CONTAINING PROTEIN 1"
+2ITK,A,B,Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1,D-Peptide
+2Q5A,A,B,Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1,Five residue peptide
+7O3B,A,G,Nanobody 36Z,"Tau-tubulin kinase 2,Centrosomal protein of 164 kDa"
+6JJW,A,U,Protein KIBRA,Peptide from Tyrosine-protein phosphatase non-receptor type 14
+8EI4,A,B,NEDD4-like E3 ubiquitin-protein ligase WWP1,H302
+1F8A,B,C,PEPTIDYL-PROLYL CIS-TRANS ISOMERASE NIMA-INTERACTING 1,Y(SEP)PT(SEP)S PEPTIDE
+1EVH,A,B,PROTEIN (MENA EVH1 DOMAIN),Peptide ACTA
+3EWF,A,I,Histone deacetylase 8,PEPTIDIC SUBSTRATE
+6JJZ,A,C,"Membrane-associated guanylate kinase, WW and PDZ domain-containing protein 2",Peptide from Dendrin
+1EG4,P,A,BETA-DYSTROGLYCAN,DYSTROPHIN
+7YKG,A,B,"Membrane-associated guanylate kinase, WW and PDZ domain-containing protein 2",SGEF
+7YKI,A,B,"Membrane-associated guanylate kinase, WW and PDZ domain-containing protein 2",SAPAP1
+7YKH,A,B,"Membrane-associated guanylate kinase, WW and PDZ domain-containing protein 2",SAPAP1
+6KKG,A,C,"Membrane-associated guanylate kinase, WW and PDZ domain-containing protein 2",Peptide from Dendrin
+6JJX,A,C,Protein KIBRA,Peptide from Angiomotin
+7YKF,A,B,"Membrane-associated guanylate kinase, WW and PDZ domain-containing protein 2",Ephexin4
+1H0I,A,C,CHITINASE B,ARGIFIN
+8EI7,A,C,NEDD4-like E3 ubiquitin-protein ligase WWP2,H304
+6O34,A,B,Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1,peptide
+6O33,A,B,Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1,peptide
+6JJY,A,U,Protein KIBRA,Peptide from Dystroglycan

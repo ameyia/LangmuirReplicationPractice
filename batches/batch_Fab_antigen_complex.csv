@@ -1,0 +1,21 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+1MLB,A,B,IGG1-KAPPA D44.1 FAB (LIGHT CHAIN),IGG1-KAPPA D44.1 FAB (HEAVY CHAIN)
+7FAB,L,H,IGG1-LAMBDA NEW FAB (LIGHT CHAIN),IGG1-LAMBDA NEW FAB (HEAVY CHAIN)
+1UZ8,A,B,"IGG FAB (IGG3, KAPPA) LIGHT CHAIN 291-2G3-A","IGG FAB (IGG3, KAPPA) HEAVY CHAIN 291-2G3-A"
+7TUH,A,B,PaSta2 Fab heavy chain,PaSta2 Fab kappa light chain
+1T2Q,L,H,Fab NNA7 Heavy Chain,Fab NNA7 Light Chain
+1JPT,L,H,"immunoglobulin Fab D3h44, light chain","immunoglobulin Fab D3H44, heavy chain"
+1MFA,L,H,IGG1-LAMBDA SE155-4 FAB (LIGHT CHAIN),IGG1-LAMBDA SE155-4 FAB (HEAVY CHAIN)
+1M7I,A,B,light chain of the monoclonal antibody Fab SYA/J6,heavy chain of the monoclonal antibody Fab SYA/J6
+1M7D,A,B,light chain of the monoclonal antibody Fab SYA/J6,heavy chain of the monoclonal antibody Fab SYA/J6
+3OKK,A,B,S25-39 Fab (IgG1k) light chain,S25-39 Fab (IgG1k) heavy chain
+1F4W,L,H,"ANTIBODY S-20-4, FAB FRAGMENT, LIGHT CHAIN","ANTIBODY S-20-4, FAB FRAGMENT, HEAVY CHAIN"
+3C5S,A,B,Fab F22-4 light chain,Fab F22-4 heavy chain
+1I8M,A,B,ANTIBODY LIGHT CHAIN FAB,ANTIBODY HEAVY CHAIN FAB
+3OKD,A,B,S25-39 Fab (IgG1k) light chain,S25-39 Fab (IgG1k) heavy chain
+1UZ6,E,F,"IGG FAB (IGG3, KAPPA) LIGHT CHAIN 291-2G3-A","IGG FAB (IGG3, KAPPA) HEAVY CHAIN 291-2G3-A"
+2FB4,L,H,IGG1-LAMBDA KOL FAB (LIGHT CHAIN),IGG1-LAMBDA KOL FAB (HEAVY CHAIN)
+1E6O,H,L,IMMUNOGLOBULIN HEAVY CHAIN,IMMUNOGLOBULIN LIGHT CHAIN
+6UG8,L,H,ch28/11 Fab light chain,ch28/11 Fab heavy chain
+2IPT,L,H,IgG2a Fab fragment Heavy Chain,IgG2a Fab fragment Light Chain Kappa
+1HIL,A,B,IGG2A-KAPPA 17/9 FAB (LIGHT CHAIN),IGG2A-KAPPA 17/9 FAB (HEAVY CHAIN)

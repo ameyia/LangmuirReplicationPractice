@@ -4,22 +4,22 @@ pdb_id,chain_a,chain_b,molecule_a,molecule_b
 3DLQ,I,R,Interleukin-22,Interleukin-22 receptor subunit alpha-1
 5L04,A,B,Tyrosine-protein kinase JAK1,Interferon lambda receptor 1
 6E8K,A,B,LeSH (Llo2327),interleukin-2 receptor beta pTyr387 peptide
-1PVH,A,B,Interleukin-6 receptor beta chain,Leukemia inhibitory factor
 1D01,A,G,TUMOR NECROSIS FACTOR RECEPTOR ASSOCIATED FACTOR 2,CD30 PEPTIDE
+1PVH,A,B,Interleukin-6 receptor beta chain,Leukemia inhibitory factor
 1QSC,A,D,TNF RECEPTOR ASSOCIATED FACTOR 2,CD40 RECEPTOR
-7S2S,A,B,IL2Rb-binding nanobody,Interleukin-2 receptor subunit beta
 1D00,A,I,TUMOR NECROSIS FACTOR RECEPTOR ASSOCIATED PROTEIN 2,B-CELL SURFACE ANTIGEN CD40
+7S2S,A,B,IL2Rb-binding nanobody,Interleukin-2 receptor subunit beta
 1D0J,A,G,TUMOR NECROSIS FACTOR RECEPTOR ASSOCIATED PROTEIN 2,4-1BB LIGAND RECEPTOR
 1CA9,A,G,PROTEIN (TNF RECEPTOR ASSOCIATED FACTOR 2),PROTEIN (TNF-R2)
 4GHU,A,B,TNF receptor-associated factor 3,Mitochondrial antiviral-signaling protein
-3OG4,A,B,Interleukin-29,"Interleukin 28 receptor, alpha (Interferon, lambda receptor)"
 1F3V,A,B,TUMOR NECROSIS FACTOR RECEPTOR TYPE 1 ASSOCIATED DEATH DOMAIN PROTEIN,TUMOR NECROSIS FACTOR RECEPTOR-ASSOCIATED PROTEIN
+3OG4,A,B,Interleukin-29,"Interleukin 28 receptor, alpha (Interferon, lambda receptor)"
 9EZA,A,B,Nemolizumab scFv,Interleukin-31 receptor subunit alpha
-3OG6,A,B,Interleukin-29,"Interleukin 28 receptor, alpha (Interferon, lambda receptor)"
 5UWC,G,I,Interleukin-3 receptor subunit alpha,Interleukin-3
+3OG6,A,B,Interleukin-29,"Interleukin 28 receptor, alpha (Interferon, lambda receptor)"
 1CZY,A,D,TUMOR NECROSIS FACTOR RECEPTOR ASSOCIATED PROTEIN 2,LATENT MEMBRANE PROTEIN 1
 4GS0,A,C,Tyrosine-protein phosphatase non-receptor type 6,Tyrosine-protein kinase JAK1
+8T5Q,A,G,TNF receptor-associated factor 2,ORF3a protein
 7R8W,A,B,SH2B adapter protein 3,JAK2 pY813 phosphopeptide
 7R8X,A,C,SH2B adapter protein 3,EPOR pY454 phosphopeptide
-8T5Q,A,G,TNF receptor-associated factor 2,ORF3a protein
-8CR5,A,B,Interleukin-12 subunit beta,Interleukin-12 receptor subunit beta-1
+9HFV,A,B,Speckle-type POZ protein,Myeloid differentiation primary response protein MyD88

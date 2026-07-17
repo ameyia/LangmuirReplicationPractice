@@ -1,0 +1,11 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+8R7A,A,B,Os01g0507700 protein,Pwl2 protein
+8R7D,A,B,Os01g0507700 protein,Pwl2 protein
+6FPG,B,D,"Chromosome 16, whole genome shotgun sequence",Ripening-related protein 3
+6P6E,A,B,Importin subunit alpha-1,PAC3 NLS
+4NFU,A,B,EDS1,Senescence-associated carboxylesterase 101
+6P6A,B,A,Importin subunit alpha-1,Nitrogen catabolic enzyme regulatory protein
+1YAG,A,G,PROTEIN (ACTIN),PROTEIN (GELSOLIN)
+1YVN,A,G,PROTEIN (ACTIN),PROTEIN (GELSOLIN)
+2Y7L,A,B,AGGLUTININ-LIKE ALS9 PROTEIN,"FIBRINOGEN GAMMA CHAIN, ISOFORM CRA_A"
+3BUW,A,B,13-meric peptide from Tyrosine-protein kinase SYK,E3 ubiquitin-protein ligase CBL

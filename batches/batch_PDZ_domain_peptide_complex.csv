@@ -4,22 +4,22 @@ pdb_id,chain_a,chain_b,molecule_a,molecule_b
 3GDV,A,D,DegS protease,YQF peptide
 4K76,A,E,Golgi-associated PDZ and coiled-coil motif-containing protein,iCAL36-TRL peptide
 4K78,A,B,Golgi-associated PDZ and coiled-coil motif-containing protein,iCAL36-QDTRL peptide
-4E34,A,C,Golgi-associated PDZ and coiled-coil motif-containing protein,"decameric peptide, iCAL36"
 4K75,A,B,Golgi-associated PDZ and coiled-coil motif-containing protein,iCAL36-QDTRL peptide
+4E34,A,C,Golgi-associated PDZ and coiled-coil motif-containing protein,"decameric peptide, iCAL36"
 4E3B,A,C,Tax1-binding protein 3,iCAL50 peptide
 3SFJ,A,B,Tax1-binding protein 3,decameric peptide iCAL36
 4NMO,A,C,Golgi-associated PDZ and coiled-coil motif-containing protein,iCAL36(Ac-K-1) peptide
 4NMP,A,C,Golgi-associated PDZ and coiled-coil motif-containing protein,iCAL36(Ac-K-3) peptide
 4K6Y,A,C,Golgi-associated PDZ and coiled-coil motif-containing protein,iCAL36-Q peptide
 4E35,A,C,Golgi-associated PDZ and coiled-coil motif-containing protein,iCAL50 peptide
-4NMT,A,C,Golgi-associated PDZ and coiled-coil motif-containing protein,iCAL36(TFA-K-1) peptide
 2EGN,A,B,General receptor for phosphoinositides 1-associated scaffold protein,mGluR5 C-terminal peptide
+4NMT,A,C,Golgi-associated PDZ and coiled-coil motif-containing protein,iCAL36(TFA-K-1) peptide
 4NMQ,A,C,Golgi-associated PDZ and coiled-coil motif-containing protein,iCAL36(Ac-K-4) peptide
-4Q6S,A,C,Golgi-associated PDZ and coiled-coil motif-containing protein,BT-L-iCAL36 peptide
 4NMV,A,C,Golgi-associated PDZ and coiled-coil motif-containing protein,iCAL36(BRB-K-1) peptide
+4Q6S,A,C,Golgi-associated PDZ and coiled-coil motif-containing protein,BT-L-iCAL36 peptide
 4JOG,A,C,Golgi-associated PDZ and coiled-coil motif-containing protein,V-iCAL36 peptide
-4RQZ,A,D,Protease degS,activating peptide
 4NMS,A,C,Golgi-associated PDZ and coiled-coil motif-containing protein,iCAL36(FLB-K-1) peptide
+4RQZ,A,D,Protease degS,activating peptide
 1SOZ,A,D,Protease degS,activating peptide
 6OV7,A,C,Golgi-associated PDZ and coiled-coil motif-containing protein,kCAL01 peptide
 4NMR,A,C,Golgi-associated PDZ and coiled-coil motif-containing protein,iCAL36(Ac-K-5) peptide

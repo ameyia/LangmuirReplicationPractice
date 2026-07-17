@@ -1,0 +1,26 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+1AWI,A,P,PROFILIN,L-PRO10
+1CF0,A,C,PROTEIN (PROFILIN),PROTEIN (L-PRO10-IODOTYROSINE)
+1NF3,A,C,"G25K GTP-binding protein, placental isoform",PAR-6B
+2V8C,A,C,PROFILIN-2,VASODILATOR-STIMULATED PHOSPHOPROTEIN
+5XUY,A,B,Autophagy-related protein 13,Autophagy-related protein 101
+5C50,A,B,Autophagy-related protein 101,Autophagy-related protein 13
+5XV6,A,B,Autophagy-related protein 13,Autophagy-related protein 101
+3GCG,A,B,Cell division control protein 42 homolog,L0028 (Mitochondria associated protein)
+2OT0,A,E,Fructose-bisphosphate aldolase A,Wiskott-Aldrich syndrome protein C-terminal peptide
+1CJF,A,C,PROTEIN (HUMAN PLATELET PROFILIN),PROTEIN (PROLINE PEPTIDE)
+7TZK,A,C,Epidermal growth factor receptor kinase substrate 8,T3SS secreted effector NleH homolog
+3AA7,A,B,F-actin-capping protein subunit alpha-1,F-actin-capping protein subunit beta isoforms 1 and 2
+8DO8,A,B,Autophagy-related protein 101,Autophagy-related protein 13
+3NMX,A,D,APC variant protein,Rho guanine nucleotide exchange factor 4
+5I7Z,A,B,LD29223p,Crb-3
+7XTY,A,C,Tyrosine-protein phosphatase non-receptor type 13,APC-peptide
+4YC7,B,A,Formin-like protein 2,Cell division control protein 42 homolog
+4CGQ,A,Q,TPR REPEAT-CONTAINING PROTEIN ASSOCIATED WITH HSP90,HEAT SHOCK PROTEIN HSP 90-ALPHA
+3TJW,A,B,D-Villin-1,L-Villin-1
+3TRV,A,B,L-Villin-1,D-Villin-1
+5BRK,A,B,MOB kinase activator 1A,Serine/threonine-protein kinase LATS1
+1E96,A,B,RAS-RELATED C3 BOTULINUM TOXIN SUBSTRATE 1,"NEUTROPHIL CYTOSOL FACTOR 2 (NCF-2) TPR DOMAIN, RESIDUES 1-203"
+2WM9,A,B,DEDICATOR OF CYTOKINESIS PROTEIN 9,CELL DIVISION CONTROL PROTEIN 42 HOMOLOG
+1IZN,A,B,CapZ alpha-1 subunit,CapZ beta-1 subunit
+4DID,A,B,Cell division control protein 42 homolog,Inositol phosphate phosphatase sopB

@@ -1,0 +1,26 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+3RCZ,A,B,DNA repair protein rad60,SUMO-conjugating enzyme ubc9
+6GUM,A,B,SUMO-conjugating enzyme SCE1,SAE2
+5FQ2,A,B,SUMO-CONJUGATING ENZYME UBC9,SUMO-ACTIVATING ENZYME SUBUNIT 2
+9QN5,A,B,SUMO-activating enzyme subunit 1,SUMO-activating enzyme subunit 2
+6CWY,C,D,SUMO-activating enzyme subunit 1,SUMO-activating enzyme subunit 2
+1Y8Q,A,B,Ubiquitin-like 1 activating enzyme E1A,Ubiquitin-like 2 activating enzyme E1B
+4W5V,A,B,SUMO-conjugating enzyme UBC9,SUMO-activating enzyme subunit 2
+2EKE,A,C,SUMO-conjugating enzyme UBC9,Ubiquitin-like protein SMT3
+3ONG,A,B,Ubiquitin-activating enzyme E1-like,SUMO-conjugating enzyme UBC9
+7P99,A,C,SUMO-specific isopeptidase USPL1,Small ubiquitin-related modifier
+7ZJU,A,B,SUMO-specific isopeptidase USPL1,Small ubiquitin-related modifier 3
+7ZJV,A,B,SUMO-specific isopeptidase USPL1,Small ubiquitin-related modifier 2
+5EPL,A,C,E3 SUMO-protein ligase CBX4,unc3866
+1KPS,A,B,Ubiquitin-like protein SUMO-1 conjugating enzyme,Ran-GTPase activating protein 1
+2PE6,A,B,SUMO-conjugating enzyme UBC9,Small ubiquitin-related modifier 1
+9GNN,A,C,Sentrin-specific protease 5,Small ubiquitin-related modifier 3
+7R2E,A,C,Sentrin-specific protease 7,Small ubiquitin-related modifier 3
+1EUV,A,B,ULP1 PROTEASE,UBITQUTIN-LIKE PROTEIN SMT3
+2IO0,A,B,Sentrin-specific protease 2,Small ubiquitin-related modifier 2 precursor
+5ELJ,A,B,SUMO-Affirmer-S2D5,Small ubiquitin-related modifier 1
+2GRO,A,B,Ubiquitin-conjugating enzyme E2 I,Ran GTPase-activating protein 1
+2GRN,A,B,Ubiquitin-conjugating enzyme E2 I,Ran GTPase-activating protein 1
+2GRP,A,B,Ubiquitin-conjugating enzyme E2 I,Ran GTPase-activating protein 1
+2GRQ,A,B,Ubiquitin-conjugating enzyme E2 I,Ran GTPase-activating protein 1
+2GRR,A,B,Ubiquitin-conjugating enzyme E2 I,Ran GTPase-activating protein 1

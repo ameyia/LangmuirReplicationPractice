@@ -1,0 +1,20 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+4I32,A,C,Genome polyprotein,HCV non-structural protein 4A
+3EYK,A,B,Hemagglutinin HA1 chain,Hemagglutinin HA2 chain
+4I31,A,C,Genome polyprotein,HCV non-structural protein 4A
+4I33,A,C,Genome polyprotein,HCV non-structural protein 4A
+1RVX,A,B,hemagglutinin,Hemagglutinin
+1DY9,A,C,PROTEASE/HELICASE NS3 (P70),NONSTRUCTURAL PROTEIN NS4A (P4)
+1DY8,A,C,PROTEASE/HELICASE NS3 (P70),NONSTRUCTURAL PROTEIN NS4A (P4)
+4A1V,A,C,"NON-STRUCTURAL PROTEIN 4A, SERINE PROTEASE NS3",CP5-46A-4D5E
+1JXP,A,C,NS3 SERINE PROTEASE,NS4A
+3P8O,A,C,HCV serine protease NS3,HCV non-structural protein 4A
+3P8N,A,C,HCV serine protease NS3,HCV non-structural protein 4A
+1DXP,A,C,PROTEASE/HELICASE NS3 (P70),NONSTRUCTURAL PROTEIN NS4A (P4)
+4A1X,A,C,"NONSTRUCTURAL PROTEIN 4A, SERINE PROTEASE NS3",CP5-46-A PEPTIDE
+1W3C,A,C,PROTEASE/HELICASE NS3 (P70),NONSTRUCTURAL PROTEIN NS4A (P4)
+6N4N,A,C,NS3 protease,Rosetta-designed danoprevir/NS3a complex reader 2
+7YTT,A,B,Protein G3,Protein L5
+7YTU,A,B,Protein G3,Protein L5
+5VMC,A,B,Hemagglutinin HA1,Hemagglutinin HA2
+3W19,C,D,Transmembrane protein gp41,fusion inhibitor CP32M-2

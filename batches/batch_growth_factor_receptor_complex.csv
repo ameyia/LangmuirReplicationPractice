@@ -6,21 +6,21 @@ pdb_id,chain_a,chain_b,molecule_a,molecule_b
 4WJK,A,B,Integrin alpha-5,Integrin beta-1
 1KTZ,A,B,TRANSFORMING GROWTH FACTOR BETA 3,TGF-beta Type II Receptor
 6ZVQ,A,B,Mothers against decapentaplegic homolog 2,Ski oncogene
-3QB4,A,B,Growth/differentiation factor 5,Bone morphogenetic protein receptor type-1A
 8DC0,A,B,Transforming growth factor beta receptor type 3,Transforming growth factor beta-2
+3QB4,A,B,Growth/differentiation factor 5,Bone morphogenetic protein receptor type-1A
 5XOD,A,B,Mothers against decapentaplegic homolog 2,Ski oncogene
 7S47,A,B,"Integrin beta-5, Isoform 2 of Serine/threonine-protein kinase PAK 4 chimera",Integrin beta-5
 1WWW,V,X,PROTEIN (NERVE GROWTH FACTOR),PROTEIN (TRKA RECEPTOR)
 3OB1,A,B,12-meric peptide from Protein sprouty homolog 2,E3 ubiquitin-protein ligase CBL
 5HL0,A,B,E3 ubiquitin-protein ligase CBL,Sprouty 2 (SPRY2)
-6AK2,A,D,Syntenin-1,peptide inhibitor KSL-128018
 1H59,A,B,INSULIN-LIKE GROWTH FACTOR IA,INSULIN-LIKE GROWTH FACTOR BINDING PROTEIN 5
+6AK2,A,D,Syntenin-1,peptide inhibitor KSL-128018
 6I1S,A,B,Activin receptor type-1,Peptidyl-prolyl cis-trans isomerase FKBP1A
 5VZ4,A,B,Growth/differentiation factor 15,GDNF family receptor alpha-like
-5HKZ,A,B,E3 ubiquitin-protein ligase CBL,Protein sprouty homolog 2
 5HKY,A,B,E3 ubiquitin-protein ligase CBL,Protein sprouty homolog 2
+5HKZ,A,B,E3 ubiquitin-protein ligase CBL,Protein sprouty homolog 2
 1HWG,A,B,GROWTH HORMONE,GROWTH HORMONE BINDING PROTEIN
-3H9R,A,B,Activin receptor type-1,Peptidyl-prolyl cis-trans isomerase FKBP1A
 9RDA,A,B,Activin receptor type-1,Peptidyl-prolyl cis-trans isomerase FKBP1A
 1MIZ,A,B,integrin beta3,TALIN
+3H9R,A,B,Activin receptor type-1,Peptidyl-prolyl cis-trans isomerase FKBP1A
 2DSP,B,I,Insulin-like growth factor-binding protein 4,Insulin-like growth factor IB

@@ -1,0 +1,20 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+4RHZ,A,B,Cry23AA1,Cry37AA1
+1T6B,X,Y,Protective Antigen,Anthrax toxin receptor 2
+2RET,A,B,Pseudopilin EpsI,EpsJ
+2HSN,A,B,"Methionyl-tRNA synthetase, cytoplasmic",GU4 nucleic-binding protein 1
+2HRK,A,B,"Glutamyl-tRNA synthetase, cytoplasmic",GU4 nucleic-binding protein 1
+1RSC,A,I,"RIBULOSE 1,5 BISPHOSPHATE CARBOXYLASE/OXYGENASE (LARGE CHAIN)","RIBULOSE 1,5 BISPHOSPHATE CARBOXYLASE/OXYGENASE (SMALL CHAIN)"
+8PP4,A,G,Ferritin heavy chain,"Ferritin heavy chain, N-terminally processed"
+3MG9,A,B,TEG12,TEICOPLANIN AGLYCONE
+5M4Y,A,B,Protein SSO2,Exocyst complex component SEC3
+3I29,A,B,Cationic trypsin,Chymotrypsin inhibitor 3
+3VEQ,B,A,Cationic trypsin,Chymotrypsin inhibitor 3
+2AHK,A,B,TYROSINASE,CADDIE PROTEIN ORF378
+2AHL,A,B,TYROSINASE,CADDIE PROTEIN ORF378
+1WXC,A,B,tyrosinase,MelC
+4WXA,A,D,EKC/KEOPS complex subunit PCC1,EKC/KEOPS complex subunit GON7
+4WW9,A,B,EKC/KEOPS complex subunit BUD32,EKC/KEOPS complex subunit CGI121
+3AWU,A,B,Tyrosinase,MelC
+3AWY,A,B,Tyrosinase,MelC
+2ZMX,A,B,Tyrosinase,CADDIE

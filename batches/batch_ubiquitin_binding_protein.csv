@@ -1,25 +1,25 @@
 pdb_id,chain_a,chain_b,molecule_a,molecule_b
 6ZHT,C,B,Ubiquitin-activating enzyme E1 1,Ubiquitin-conjugating enzyme E2 13
 6D68,A,C,Ubiquitin-conjugating enzyme E2 G1,Ubv.G1.1
-4NNJ,A,B,Ubiquitin-activating enzyme E1 1,Uba1
 5TR4,A,B,Ubiquitin-activating enzyme E1 1,Ubiquitin
-6W9R,M,A,Ubiquitin,OTU domain-containing protein wMelOTU
+4NNJ,A,B,Ubiquitin-activating enzyme E1 1,Uba1
 6ZHS,A,B,Ubiquitin-activating enzyme E1 1,Ubiquitin-conjugating enzyme E2 13
+6W9R,M,A,Ubiquitin,OTU domain-containing protein wMelOTU
 7SOL,A,B,Ubiquitin-like modifier-activating enzyme 6,Ubiquitin
-4LJO,A,B,E3 ubiquitin-protein ligase RNF31,Polyubiquitin-C
-5L6H,A,B,Ubiquitin-activating enzyme E1 1,Ubiquitin-40S ribosomal protein S31
 4LJP,A,B,E3 ubiquitin-protein ligase RNF31,Polyubiquitin-C
 6ZQH,A,B,Ubiquitin-activating enzyme E1 1,Ubiquitin-40S ribosomal protein S31
+4LJO,A,B,E3 ubiquitin-protein ligase RNF31,Polyubiquitin-C
+5L6H,A,B,Ubiquitin-activating enzyme E1 1,Ubiquitin-40S ribosomal protein S31
 6UPU,A,B,ULP_PROTEASE domain-containing protein,Ubiquitin
-7V8F,B,A,E3 ubiquitin-protein ligase RNF31,Ubiquitin-conjugating enzyme E2 L3
 2C7N,A,B,RAB GUANINE NUCLEOTIDE EXCHANGE FACTOR 1,UBIQUITIN
-5D1L,A,B,Ubiquitin-conjugating enzyme E2 D2,E3 ubiquitin-protein ligase RNF25
+7V8F,B,A,E3 ubiquitin-protein ligase RNF31,Ubiquitin-conjugating enzyme E2 L3
 4JQU,A,B,Ubiquitin-conjugating enzyme E2 7,Coupling of ubiquitin conjugation to ER degradation protein 1
+5D1L,A,B,Ubiquitin-conjugating enzyme E2 D2,E3 ubiquitin-protein ligase RNF25
 2EKE,A,C,SUMO-conjugating enzyme UBC9,Ubiquitin-like protein SMT3
 3E95,A,C,Ubiquitin carrier protein,Ubiquitin-conjugating enzyme E2
-5D1K,A,B,Ubiquitin-conjugating enzyme E2 D2,E3 ubiquitin-protein ligase RNF25
 6OP8,A,B,Ubiquitin-conjugating enzyme E2-18 kDa,"CUE domain-containing protein 4, mitochondrial"
-5MN9,A,C,Ubiquitin-40S ribosomal protein S27a,Ubiquitin carboxyl-terminal hydrolase MINDY-1
-2FIF,A,B,Ubiquitin,Rab5 GDP/GTP exchange factor
-9MUX,A,D,E3 ubiquitin-protein ligase UBR1,ARG-TRP-ALA-NH2 peptide
+5D1K,A,B,Ubiquitin-conjugating enzyme E2 D2,E3 ubiquitin-protein ligase RNF25
 9YE9,A,B,Ubiquitin-conjugating enzyme E2 D2,E3 ubiquitin-protein ligase CHIP
+5MN9,A,C,Ubiquitin-40S ribosomal protein S27a,Ubiquitin carboxyl-terminal hydrolase MINDY-1
+5D1M,A,B,Ubiquitin-conjugating enzyme E2 D2,E3 ubiquitin-protein ligase RNF25
+2FIF,A,B,Ubiquitin,Rab5 GDP/GTP exchange factor

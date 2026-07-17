@@ -1,0 +1,24 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+3POA,A,B,Putative uncharacterized protein TB39.8,synthetic phosphopeptide
+1YJM,A,E,Polynucleotide 5'-hydroxyl-kinase,12-mer peptide from DNA-repair protein XRCC4
+6HC0,A,B,DgcB N-terminus,GGDEF domain protein
+6HC1,A,C,GGDEF domain protein,"DgcB N-terminus, phosphorylated"
+3UNN,A,B,Mediator of DNA damage checkpoint protein 1,phospho-T4 peptide from Mediator of DNA damage checkpoint protein 1
+1G6G,A,E,PROTEIN KINASE RAD53,SER-LEU-GLU-VAL-TPO-GLU-ALA-ASPALA-THR-PHE-ALA-LYS
+2W3O,A,C,BIFUNCTIONAL POLYNUCLEOTIDE PHOSPHATASE/KINASE,DNA REPAIR PROTEIN XRCC1
+2PIE,A,F,E3 ubiquitin-protein ligase RNF8,phosphopeptide
+8WWY,A,B,TRAF-interacting protein with FHA domain-containing protein A,TRAF-interacting protein with FHA domain-containing protein B
+5YYZ,A,B,Meiosis-specific serine/threonine-protein kinase MEK1,Meiosis-specific protein HOP1
+3K05,A,C,Mediator of DNA damage checkpoint protein 1,phospho peptide
+5W7Y,A,C,Aprataxin and PNK-like factor,DNA repair protein XRCC1
+5W7X,A,E,Aprataxin and PNK-like factor,DNA repair protein XRCC1
+7QCR,A,C,Afadin,Envelope small membrane protein
+6M64,A,B,Mothers against decapentaplegic homolog 2,CBP
+6A33,A,I,TNF receptor-associated factor 6,15-mer peptide from TRAF-interacting protein with FHA domain-containing protein A
+5JEK,A,C,Interferon regulatory factor 3,MAVS peptide
+9QJZ,A,C,Poly [ADP-ribose] polymerase tankyrase-2,Mediator of DNA damage checkpoint protein 1
+5JEM,A,C,Interferon regulatory factor 3,CREB-binding protein
+5JEO,B,A,Rotavirus NSP1 peptide,Interferon regulatory factor 3
+5JEJ,C,A,Stimulator of interferon genes protein,Interferon regulatory factor 3
+9VEH,A,B,"Midnolin,Interferon regulatory factor 4",Midnolin
+9VE3,A,B,"Midnolin,Interferon regulatory factor 4",Midnolin

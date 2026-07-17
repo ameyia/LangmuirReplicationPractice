@@ -1,0 +1,25 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+2FIB,A,B,FIBRINOGEN,GLY-PRO-ARG-PRO
+4KTY,A,C,Coagulation factor XIII A chain,Peptide-like ligand
+5CFA,A,C,Bone sialoprotein-binding protein,Peptide from Fibrinogen alpha chain
+9KHC,A,B,Isoform Gamma-A of Fibrinogen gamma chain,GLY-PRO-ARG-PRO
+5MHL,A,K,Coagulation factor XIII A chain,inhibitor Mi0621
+5MHN,A,H,Coagulation factor XIII A chain,inhibitor ZED2360
+5MHM,A,H,Coagulation factor XIII A chain,inhibitor ZED1630
+4F27,A,Q,Clumping factor B,peptide from Fibrinogen alpha chain
+3AT0,A,B,Clumping factor B,C-terminal alpha chain peptide
+4B60,A,C,FIBRONECTIN-BINDING PROTEIN A,FIBRINOGEN GAMMA CHAIN
+2VR3,A,C,CLUMPING FACTOR A,FIBRINOGEN GAMMA-CHAIN
+2Y7L,A,B,AGGLUTININ-LIKE ALS9 PROTEIN,"FIBRINOGEN GAMMA CHAIN, ISOFORM CRA_A"
+3P72,A,B,Platelet glycoprotein Ib alpha chain,OS1 peptide
+3CAL,A,B,Fibronectin,peptide from Fibronectin-binding protein A
+2RKY,A,B,Fibronectin,Fibronectin-binding protein
+2RKZ,A,M,Fibronectin,peptide from Fibronectin-binding protein A
+2RL0,A,C,Fibronectin,Fibronectin-binding protein
+3ZRZ,A,C,FIBRONECTIN,FIBRONECTIN-BINDING PROTEIN
+7FBP,A,B,Coagulation factor XIIa light chain,cMCoFx1
+3EJH,A,E,Fibronectin,Collagen type-I a1 chain
+4C2A,A,B,VON WILLEBRAND FACTOR,PLATELET GLYCOPROTEIN IB ALPHA CHAIN
+3HK3,A,B,Thrombin light chain,Thrombin heavy chain
+5N48,A,B,Neutrophil gelatinase-associated lipocalin,Fibronectin
+4JEG,A,B,Tyrosine-protein phosphatase non-receptor type 11,Monobody CS1

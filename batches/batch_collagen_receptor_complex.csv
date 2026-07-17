@@ -1,0 +1,19 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+1DZI,A,B,INTEGRIN,COLLAGEN
+1LI1,A,C,Collagen alpha 1(IV),Collagen alpha 2(IV)
+9VB8,A,B,Integrin alpha-2,Collagen model peptide
+5OU9,A,C,Platelet glycoprotein VI,(GPO)3
+5OU8,A,C,Platelet glycoprotein VI,(GPO)5
+5CJB,A,B,Osteoclast-associated immunoglobulin-like receptor,collagen-like peptide
+7NMU,AAA,CCC,Platelet glycoprotein VI,Nanobody 2
+2WUH,A,B,DISCOIDIN DOMAIN RECEPTOR 2,COLLAGEN PEPTIDE
+8YV3,A,B,Collagen alpha-1(I) chain,Collagen alpha-2(I) chain
+1M3D,A,C,Type IV Collagen Noncollagenous Domain- Alpha1,Type IV Collagen Noncollagenous Domain- Alpha2
+9HT8,A,E,Prolyl 4-hydroxylase subunit alpha-1,GLY-PRO-ALA-GLY-PRO-PRO
+9HPQ,A,E,Prolyl 4-hydroxylase subunit alpha-1,Synthetic peptide PRO-PRO-GLY-PRO-ARG-GLY-PRO-PRO-GLY
+9HRE,A,E,Prolyl 4-hydroxylase subunit alpha-1,Synthetic peptide PRO-HYP-GLY-PRO-ALA-GLY-PRO-HYP-GLY
+3POB,A,B,Mannan-binding lectin serine protease 1,MBL collagen-like peptide
+3EJH,A,E,Fibronectin,Collagen type-I a1 chain
+3HK3,A,B,Thrombin light chain,Thrombin heavy chain
+1BRB,E,I,TRYPSIN,PANCREATIC TRYPSIN INHIBITOR
+1CO7,E,I,TRYPSIN II,BOVINE PANCREATIC TRYPSIN INHIBITOR

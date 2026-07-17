@@ -1,26 +1,26 @@
 pdb_id,chain_a,chain_b,molecule_a,molecule_b
 2QGF,A,B,Aspartate carbamoyltransferase catalytic chain,Aspartate carbamoyltransferase regulatory chain
-1D09,A,B,ASPARTATE CARBAMOYLTRANSFERASE CATALYTIC CHAIN,ASPARTATE CARBAMOYLTRANSFERASE REGULATORY CHAIN
 1TUE,A,B,Replication protein E1,Regulatory protein E2
-4FYV,A,B,Aspartate carbamoyltransferase catalytic chain,Aspartate carbamoyltransferase regulatory chain
+1D09,A,B,ASPARTATE CARBAMOYLTRANSFERASE CATALYTIC CHAIN,ASPARTATE CARBAMOYLTRANSFERASE REGULATORY CHAIN
 2FZC,A,B,Aspartate carbamoyltransferase catalytic chain,Aspartate carbamoyltransferase regulatory chain
+4FYV,A,B,Aspartate carbamoyltransferase catalytic chain,Aspartate carbamoyltransferase regulatory chain
 8ATC,A,B,"ASPARTATE CARBAMOYLTRANSFERASE (R STATE), CATALYTIC CHAIN",ASPARTATE CARBAMOYLTRANSFERASE REGULATORY CHAIN
 4FYW,A,B,Aspartate carbamoyltransferase catalytic chain,Aspartate carbamoyltransferase regulatory chain
-2DZN,A,B,Probable 26S proteasome regulatory subunit p28,26S protease regulatory subunit 6B homolog
 1TUG,A,B,Aspartate carbamoyltransferase catalytic chain,Aspartate carbamoyltransferase regulatory chain
+2DZN,A,B,Probable 26S proteasome regulatory subunit p28,26S protease regulatory subunit 6B homolog
 1Q95,A,G,Aspartate carbamoyltransferase catalytic chain,Aspartate carbamoyltransferase regulatory chain
 1F1B,A,B,ASPARTATE CARBAMOYLTRANSFERASE CATALYTIC CHAIN,ASPARTATE CARBAMOYLTRANSFERASE REGULATORY CHAIN
 1RAA,A,B,Aspartate carbamoyltransferase catalytic chain,Aspartate carbamoyltransferase regulatory chain
 1RAB,A,B,Aspartate carbamoyltransferase catalytic chain,Aspartate carbamoyltransferase regulatory chain
 1RAC,A,B,Aspartate carbamoyltransferase catalytic chain,Aspartate carbamoyltransferase regulatory chain
 1ZA1,A,B,Aspartate carbamoyltransferase catalytic chain,Aspartate carbamoyltransferase regulatory chain
+4F04,A,B,Aspartate carbamoyltransferase catalytic chain,Aspartate carbamoyltransferase regulatory chain
+2H3E,A,B,Aspartate carbamoyltransferase catalytic chain,Aspartate carbamoyltransferase regulatory chain
 2IZX,A,C,CAMP-DEPENDENT PROTEIN KINASE TYPE II-ALPHA REGULATORY SUBUNIT,AKAP-IS
 1RAE,A,B,Aspartate carbamoyltransferase catalytic chain,Aspartate carbamoyltransferase regulatory chain
 1RAG,A,B,Aspartate carbamoyltransferase catalytic chain,Aspartate carbamoyltransferase regulatory chain
 1RAH,A,B,Aspartate carbamoyltransferase catalytic chain,Aspartate carbamoyltransferase regulatory chain
 1RAI,A,B,Aspartate carbamoyltransferase catalytic chain,Aspartate carbamoyltransferase regulatory chain
 4FYX,A,B,Aspartate carbamoyltransferase catalytic chain,Aspartate carbamoyltransferase regulatory chain
-4F04,A,B,Aspartate carbamoyltransferase catalytic chain,Aspartate carbamoyltransferase regulatory chain
-2H3E,A,B,Aspartate carbamoyltransferase catalytic chain,Aspartate carbamoyltransferase regulatory chain
-1R0C,A,B,Aspartate carbamoyltransferase catalytic chain,Aspartate carbamoyltransferase regulatory chain
-2HWN,A,E,cAMP-dependent protein kinase type II-alpha regulatory subunit,A Kinase binding peptide
+3IM4,A,C,cAMP-dependent protein kinase type I-alpha regulatory subunit,Dual specificity A kinase-anchoring protein 2
+3IK5,A,B,Protein Nef,T-cell surface glycoprotein CD3 zeta chain

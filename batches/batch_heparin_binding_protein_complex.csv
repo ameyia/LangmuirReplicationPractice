@@ -1,0 +1,18 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+3DY0,A,B,N-terminus Plasma serine protease inhibitor,C-terminus Plasma serine protease inhibitor
+6HAR,A,E,PRSS3 protein,Amyloid-beta A4 protein
+7MRK,A,B,Amyloid-beta A4 protein,Contactin-4
+4TY6,A,H,Coagulation factor XI,CYS-THR-THR-LYS-ILE-LYS-PRO
+4X6N,A,H,"Coagulation factor XI, light chain",cleaved peptide
+6DBF,A,B,Listeria virulence factor InlB,InlB specific VHH R303
+6U12,A,B,InlB,VHH R303 C33A/C102A mutant
+5Q0F,A,H,Coagulation factor XI,MET-ASP-ASP-ASP-ASP-LYS-MET-ASP-ASN-GLU-CYS-THR-THR-LYS-ILE-LYS-PRO-ARG
+8PWV,A,B,Reticulocyte-binding protein homolog 5,monoclonal antibody MAD8-502
+5QQO,A,H,Coagulation factor XI,MET-ASP-ASP-ASP-ASP-LYS-MET-ASP-ASN-GLU-CYS-THR-THR-LYS-ILE-LYS-PRO-ARG
+6DBG,A,C,Internalin B,VHH R303
+8PWW,A,B,Reticulocyte-binding protein homolog 5,scFv fragment for antibody MAD8-151
+4K12,A,B,Complement factor H,Choline binding protein A
+2WOK,A,B,CLAVULANIC ACID BIOSYNTHESIS OLIGOPEPTIDE BINDING PROTEIN 2,Kininogen-1
+6WY7,A,B,Myeloperoxidase light chain,Myeloperoxidase heavy chain
+3ZS0,A,C,MYELOPEROXIDASE LIGHT CHAIN,MYELOPEROXIDASE HEAVY CHAIN
+4C1M,A,C,MYELOPEROXIDASE LIGHT CHAIN,MYELOPEROXIDASE HEAVY CHAIN

@@ -18,6 +18,6 @@ pdb_id,chain_a,chain_b,molecule_a,molecule_b
 5PAU,A,C,Coagulation factor VII light chain,Coagulation factor VII heavy chain
 5PAX,A,C,Coagulation factor VII light chain,Coagulation factor VII heavy chain
 5PB3,A,C,Coagulation factor VII light chain,Coagulation factor VII heavy chain
-5PAJ,A,B,Coagulation factor VII light chain,Coagulation factor VII heavy chain
-5PAK,A,C,Coagulation factor VII light chain,Coagulation factor VII heavy chain
-5PAW,A,B,Coagulation factor VII light chain,Coagulation factor VII heavy chain
+5PAB,H,L,Coagulation factor VII heavy chain,Coagulation factor VII light chain
+5PAE,A,B,Coagulation factor VII light chain,Coagulation factor VII heavy chain
+5PAI,A,B,Coagulation factor VII light chain,Coagulation factor VII heavy chain

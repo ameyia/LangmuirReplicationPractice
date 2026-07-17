@@ -1,0 +1,25 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+3N7S,A,C,Calcitonin gene-related peptide type 1 receptor,Receptor activity-modifying protein 1
+4RWG,A,D,"Maltose-binding periplasmic protein, Receptor activity-modifying protein 1, Calcitonin gene-related peptide type 1 receptor fusion protein",CGRP analog
+5II0,A,D,Calcitonin receptor,Calcitonin
+6D1U,A,D,"Maltose-binding periplasmic protein,Receptor activity-modifying protein 1,Calcitonin gene-related peptide type 1 receptor",ADM2
+2BNU,A,B,T-CELL RECEPTOR ALPHA CHAIN C REGION,T-CELL RECEPTOR BETA CHAIN C REGION
+6PFO,A,C,"Maltodextrin-binding protein,Calcitonin receptor",Calcitonin
+6OCP,A,P,BTB/POZ domain-containing protein KCTD16,Gamma-aminobutyric acid type B receptor subunit 2
+4PAS,A,B,Gamma-aminobutyric acid type B receptor subunit 1,Gamma-aminobutyric acid type B receptor subunit 2
+4MS1,A,B,Gamma-aminobutyric acid type B receptor subunit 1,Gamma-aminobutyric acid type B receptor subunit 2
+4MS3,A,B,Gamma-aminobutyric acid type B receptor subunit 1,Gamma-aminobutyric acid type B receptor subunit 2
+4MS4,A,B,Gamma-aminobutyric acid type B receptor subunit 1,Gamma-aminobutyric acid type B receptor subunit 2
+4MR9,A,B,Gamma-aminobutyric acid type B receptor subunit 1,Gamma-aminobutyric acid type B receptor subunit 2
+4MQF,A,B,Gamma-aminobutyric acid type B receptor subunit 1,Gamma-aminobutyric acid type B receptor subunit 2
+4MR8,A,B,Gamma-aminobutyric acid type B receptor subunit 1,Gamma-aminobutyric acid type B receptor subunit 2
+4RWF,A,B,"Maltose transporter subunit, Receptor activity-modifying protein 2, Calcitonin gene-related peptide type 1 receptor fusion protein",Adrenomedullin
+4MQE,A,B,Gamma-aminobutyric acid type B receptor subunit 1,Gamma-aminobutyric acid type B receptor subunit 2
+3H3G,A,B,Fusion protein of Maltose-binding periplasmic domain and human parathyroid hormone receptor extracellular domain,Parathyroid hormone-related protein
+4MR7,A,B,Gamma-aminobutyric acid type B receptor subunit 1,Gamma-aminobutyric acid type B receptor subunit 2
+6V2E,A,B,"Maltose/maltodextrin-binding periplasmic protein,Receptor activity-modifying protein 2,Calcitonin gene-related peptide type 1 receptor",ADM
+3N93,A,C,Maltose binding protein-CRFR2 alpha,Urocortin-3
+3C4M,A,C,Fusion protein of Maltose-binding periplasmic protein and Parathyroid hormone/parathyroid hormone-related peptide receptor,Parathyroid hormone
+2VLM,D,E,JM22 TCR ALPHA CHAIN,JM22 TCR BETA CHAIN
+5EMB,A,B,Sorting nexin-27,GLU-GLU-TRP-SEP-THR-VAL-MET
+4Z8J,A,B,Sorting nexin-27,C-terminal PDZ binding motif from parathyroid hormone receptor (PTHR)

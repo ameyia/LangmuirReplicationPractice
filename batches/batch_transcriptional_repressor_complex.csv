@@ -1,0 +1,22 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+3U3W,A,P,Transcriptional activator PlcR protein,C-terminus heptapeptide from PapR protein
+2Q0O,A,C,Probable transcriptional activator protein traR,Probable transcriptional repressor traM
+3ECH,A,C,Multidrug resistance operon repressor,25-mer fragment of protein ArmR
+3ZQG,A,C,"TETRACYCLINE REPRESSOR PROTEIN CLASS B FROM TRANSPOSON TN10, TETRACYCLINE REPRESSOR PROTEIN CLASS D",ANTI-INDUCER PEPTIDE TAP2
+3ZQH,A,C,"TETRACYCLINE REPRESSOR PROTEIN CLASS B FROM TRANSPOSON TN10, TETRACYCLINE REPRESSOR PROTEIN CLASS D",INDUCER PEPTIDE TIP3
+3ZQI,A,C,"TETRACYCLINE REPRESSOR PROTEIN CLASS B FROM TRANSPOSON TN10, TETRACYCLINE REPRESSOR PROTEIN CLASS D",INDUCER PEPTIDE TIP2
+1B0N,A,B,PROTEIN (SINR PROTEIN),PROTEIN (SINI PROTEIN)
+4AWX,A,B,FERROUS IRON TRANSPORT PROTEIN B,FERROUS IRON TRANSPORT PROTEIN C
+10LG,A,B,Positive transcriptional regulator MutR family,Rgg3bp13 peptide
+4YV9,A,E,Transcriptional regulator,Cyclosporin A
+6F8S,A,B,XRE family transcriptional regulator,Putative Killer protein
+7N1N,A,B,Prx,ComR
+1MNM,A,C,PROTEIN (MCM1 TRANSCRIPTIONAL REGULATOR),PROTEIN (MAT ALPHA-2 TRANSCRIPTIONAL REPRESSOR)
+6S8R,A,B,ATP-dependent RNA helicase me31b,GIGYF family protein CG11148
+7N10,A,B,Prx,ComR
+9SF2,A,B,Transcriptional regulator,Bacillus phage phi106 antirepressor
+2EJF,A,C,235aa long hypothetical biotin--[acetyl-CoA-carboxylase] ligase,149aa long hypothetical methylmalonyl-CoA decarboxylase gamma chain
+2WIU,A,B,PROTEIN HIPA,HTH-TYPE TRANSCRIPTIONAL REGULATOR HIPB
+9CHL,A,B,Antitoxin HigA,Endoribonuclease HigB
+4WKM,A,I,LysR family transcriptional regulator,ALA-FGA-API-DAL-DAL
+4MCX,A,B,Antidote protein,Killer protein

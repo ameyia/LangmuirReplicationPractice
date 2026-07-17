@@ -1,0 +1,26 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+7W1S,A,B,Spike protein S1,Nanobody Nb-007
+7VOA,A,B,alpaca nanobody,Spike glycoprotein
+2GHW,A,B,Spike glycoprotein,"anti-sars scFv antibody, 80R"
+8K3K,E,D,Spike protein S1,Nanobody Nb4
+6YZ5,E,F,Spike glycoprotein,Nanobody H11-D4
+6ZBP,EEE,FFF,Spike glycoprotein,H11-H4
+8HQT,A,B,Coatomer subunit beta',SARS-CoV-2 Spike KxHxx motif
+7FBK,A,C,Spike protein S1,New antigen receptor variable domain
+8YDW,A,B,SARS-CoV-2 inhibiting peptide CeSPIACE,Spike protein S1
+8YDV,A,B,SARS-CoV-2 inhibiting peptide CeSPIACE,Spike protein S1
+7LDJ,A,E,Spike glycoprotein,Nanobody 2
+8GZ5,A,B,Spike protein S1,Nanobody P17
+8YDQ,A,B,SARS-CoV-2 inhibiting peptide Ce149,Spike protein S1
+8YDS,A,B,SARS-CoV-2 inhibiting peptide Ce59,Spike protein S1
+8YDU,A,B,SARS-CoV-2 inhibiting peptide CeSPIACE,Spike protein S1
+8ENS,A,C,Coatomer subunit beta',spike tail hepta-peptide
+8ENW,A,C,Coatomer subunit beta',Clientized spike tail peptide
+8ENX,A,C,Coatomer subunit beta',Clientized spike tail heptapeptide
+8HQV,A,B,Coatomer subunit beta',HCoV-OC43 Spike KTSHxx sorting motif
+8YDR,A,B,SARS-CoV-2 inhibiting peptide Ce59,Spike protein S1
+8YDP,A,B,SARS-CoV-2 inhibiting peptide Ce9,Spike protein S1
+8RBY,A,B,Spike protein S1,Camel-derived nanobody 1.26
+8YDT,A,B,SARS-CoV-2 inhibiting peptide Ce41,Spike protein S1
+7SPO,A,C,Spike protein S1,VNAR 3B4
+8IDO,A,C,Spike protein S1,VHH-T148

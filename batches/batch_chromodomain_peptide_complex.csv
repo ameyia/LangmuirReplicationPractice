@@ -1,0 +1,24 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+3OA6,A,G,Male-specific lethal 3 homolog,H4 peptide monomethylated at lysine 20
+5JJZ,A,B,Chromodomain Y-like protein 2,LYS-LYS-LYS-ALA-ARG-MLY-SER-ALA-GLY-ALA-ALA-LYS-TYR
+6V41,AAA,QQQ,Testis-specific chromodomain protein Y 1,Histone H3.1 Peptide
+4MN3,A,B,Chromobox protein homolog 7,peptide
+5EPJ,A,B,Chromobox protein homolog 7,peptide-like inhibitor UNC3866
+4X3K,A,C,Chromobox protein homolog 7,H3K27me3 peptide
+4NW2,A,B,Chromodomain-helicase-DNA-binding protein 1,Nonstructural protein 1
+8XAG,A,C,Chromo domain-containing protein LHP1,histone H3.3K27me3 peptide
+3G7L,A,P,Chromo domain-containing protein 1,Histone H3.1/H3.2
+7VYW,A,B,Chromo domain-containing protein LHP1,methylated histone H3K9 peptide
+1PFB,A,B,Polycomb protein,"Histone H3, embryonic"
+3QO2,A,P,M-phase phosphoprotein 8,Histone H3 peptide
+3R93,A,E,M-phase phosphoprotein 8,H3K9Me3 peptide
+6MHA,A,B,Heterochromatin protein 1,"histone H3 peptide containing trimethyllysine, H3K9me3"
+4X3S,A,C,Chromobox protein homolog 7,SETDB1-1170me3 Peptide
+6ASZ,A,P,Heterochromatin protein 1,trimethyl lysine histone H3 tail peptide
+6AT0,A,P,Heterochromatin protein 1,trimethyl lysine histone H3 tail peptide
+3TO6,A,B,Histone acetyltransferase ESA1,Histone H4
+3SVM,A,P,M-phase phosphoprotein 8,DNA (cytosine-5)-methyltransferase 3A
+3DM1,A,B,Chromobox protein homolog 3,"Histone-lysine N-methyltransferase, H3 lysine-9 specific 3"
+6D07,A,C,Chromobox protein homolog 1,Histone H3.1
+6D08,A,C,Chromobox protein homolog 1,Histone H3.1
+5EPL,A,C,E3 SUMO-protein ligase CBX4,unc3866

@@ -4,8 +4,8 @@ pdb_id,chain_a,chain_b,molecule_a,molecule_b
 5FWX,A,B,GLUTAMATE RECEPTOR 2,GLUTAMATE RECEPTOR 4
 5FWY,A,B,GLUTAMATE RECEPTOR 2,GLUTAMATE RECEPTOR 3
 6HY7,A,B,Neuronal acetylcholine receptor subunit alpha-9,Alpha-conotoxin RgIA
-7F86,C,A,Phycoerythrin beta subunit,Phycoerythrin alpha subunit
 2BR8,A,F,SOLUBLE ACETYLCHOLINE RECEPTOR,ALPHA-CONOTOXIN PNIA
+7F86,C,A,Phycoerythrin beta subunit,Phycoerythrin alpha subunit
 8BHG,A,B,Gamma-aminobutyric acid receptor subunit alpha-5,Gamma-aminobutyric acid receptor subunit gamma-2
 5JME,A,F,Soluble acetylcholine receptor,alpha-conotoxin PeIA from Conus pergrandis
 7N0W,A,G,Acetylcholine-binding protein,Ribbon alpha-conotoxin AusIA
@@ -13,14 +13,14 @@ pdb_id,chain_a,chain_b,molecule_a,molecule_b
 9MUL,A,B,"Glutamate receptor ionotropic, NMDA 1","Glutamate receptor ionotropic, NMDA 2A"
 9MUM,A,B,"Glutamate receptor ionotropic, NMDA 1","Glutamate receptor ionotropic, NMDA 2A"
 1OVL,A,B,"Orphan nuclear receptor NURR1 (MSE 414, 496, 511)","Orphan nuclear receptor NURR1 (MSE 496, 511)"
-7TXF,A,F,Acetylcholine-binding protein,Alpha-conotoxin VxXXB
 2BYP,A,F,SOLUBLE ACETYLCHOLINE RECEPTOR,ALPHA-CONOTOXIN IMI
+7TXF,A,F,Acetylcholine-binding protein,Alpha-conotoxin VxXXB
 2R40,D,A,Ecdysone Receptor,Ultraspiracle
 4EZ1,A,K,Soluble acetylcholine receptor,Alpha-conotoxin BuIA
 5KDT,A,B,"Glutamate receptor ionotropic, NMDA 2A","Glutamate receptor ionotropic, NMDA 1"
 5KCJ,A,B,"Glutamate receptor ionotropic, NMDA 2A","Glutamate receptor ionotropic, NMDA 1"
-4PD1,A,C,Gephyrin,Glycine receptor subunit beta
-5H8Q,A,B,"Glutamate receptor ionotropic, NMDA 2A,Glutamate receptor ionotropic, NMDA 2A","Glutamate receptor ionotropic, NMDA 1,Glutamate receptor ionotropic, NMDA 1"
 5H8F,A,B,"Glutamate receptor ionotropic, NMDA 2A","Glutamate receptor ionotropic, NMDA 1"
+5H8Q,A,B,"Glutamate receptor ionotropic, NMDA 2A,Glutamate receptor ionotropic, NMDA 2A","Glutamate receptor ionotropic, NMDA 1,Glutamate receptor ionotropic, NMDA 1"
 5I2N,A,B,"Glutamate receptor ionotropic, NMDA 2A","Glutamate receptor ionotropic, NMDA 1"
 5TP9,A,B,"Glutamate receptor ionotropic, NMDA 2A","Glutamate receptor ionotropic, NMDA 1"
+4PD1,A,C,Gephyrin,Glycine receptor subunit beta

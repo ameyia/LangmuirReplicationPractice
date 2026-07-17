@@ -12,3 +12,4 @@ pdb_id,chain_a,chain_b,molecule_a,molecule_b
 2GHW,A,B,Spike glycoprotein,"anti-sars scFv antibody, 80R"
 7VOA,A,B,alpaca nanobody,Spike glycoprotein
 3UBQ,A,B,hemagglutinin HA1,hemagglutinin HA2
+3UBE,A,B,Hemagglutinin HA1,Hemagglutinin HA2

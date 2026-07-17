@@ -15,9 +15,9 @@ pdb_id,chain_a,chain_b,molecule_a,molecule_b
 5OTT,A,B,Glucagon-like peptide 1 receptor,Exendin-4
 4ZGM,A,B,Glucagon-like peptide 1 receptor,"Semaglutide peptide backbone; 8Aib,34R-GLP-1(7-37)-OH"
 5OTU,A,B,Glucagon-like peptide 1 receptor,Glucagon
+5OTX,A,B,Glucagon-like peptide 1 receptor,Glucagon
 5OTV,A,B,Glucagon-like peptide 1 receptor,Glucagon
 5OTW,A,B,Glucagon-like peptide 1 receptor,Glucagon
-5OTX,A,B,Glucagon-like peptide 1 receptor,Glucagon
 2QKH,B,A,Glucose-dependent insulinotropic polypeptide,Glucose-dependent insulinotropic polypeptide receptor
 5II0,A,D,Calcitonin receptor,Calcitonin
 7UZO,A,B,Parathyroid hormone/parathyroid hormone-related peptide receptor,Peptide from Parathyroid hormone-related protein

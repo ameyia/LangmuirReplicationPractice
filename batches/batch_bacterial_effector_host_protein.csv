@@ -1,0 +1,26 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+1JYO,A,E,SicP,protein tyrosine phosphatase SptP
+6NJD,A,B,Di-ubiquitin,RavD
+4GF3,A,B,Putative yopH targeting protein,Tyrosine-protein phosphatase yopH
+3TL8,A,B,BRASSINOSTEROID INSENSITIVE 1-associated receptor kinase 1,Effector protein HopAB2
+4FBJ,A,B,Hypothetical protein,NEDD8
+4F8C,A,B,Cycle Inhibiting Factor,NEDD8
+7XMN,A,B,Maltodextrin-binding protein,ORF8 protein
+8ST9,A,B,E3 ubiquitin-protein ligase SopA,Ubiquitin
+2NUD,A,C,Avirulence B protein,RPM1-interacting protein 4
+9JTA,B,C,RING-type E3 ubiquitin transferase,E3 ubiquitin-protein ligase RNF213
+8ST8,A,B,E3 ubiquitin-protein ligase SopA,Ubiquitin
+8HTD,A,B,NAD(+)--protein-threonine ADP-ribosyltransferase,Ubiquitin
+5U4Y,A,C,IgG1 fc,Immunoglobulin G-binding protein A
+6ACI,A,H,T3SS secreted effector NleB homolog,FAS-associated death domain protein
+4U5W,A,B,Protein Nef,Tyrosine-protein kinase HCK
+2W81,A,C,COMPLEMENT FACTOR H,FACTOR H BINDING PROTEIN
+2W80,A,C,COMPLEMENT FACTOR H,FACTOR H BINDING PROTEIN
+4AYD,A,C,COMPLEMENT FACTOR H,FACTOR H BINDING PROTEIN
+3RC4,A,B,NS3/4A Protease,Product TRIF
+6AZP,A,B,Myeloperoxidase,Staphylococcal Peroxidase Inhibitor
+5UZU,B,A,Uncharacterised protein,Myeloperoxidase
+4XA9,A,a,"Gala protein type 1, 3 or 4",Uncharacterized protein
+9Y58,A,B,C-terminal core protein,Tyrosine-protein kinase HCK
+8HTC,A,B,NAD(+)--protein-threonine ADP-ribosyltransferase,Ubiquitin-40S ribosomal protein S27a (Fragment)
+8HTE,A,B,NAD(+)--protein-threonine ADP-ribosyltransferase,Ubiquitin

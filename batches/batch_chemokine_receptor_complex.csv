@@ -1,0 +1,26 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+7SCS,A,B,Evasin P1243,Eotaxin
+7S4N,A,B,Evasin P974,C-C motif chemokine 17
+5YD4,A,B,scFv 4B08,Epitope peptide (mutation T6A)
+5YD5,A,B,scFv 4B08,Peptide epitope (mutation N3A)
+5YD3,A,B,scFv 4B08,Epitope peptide
+2NZ1,A,D,Hypothetical protein GAMMAHV.M3,Small inducible cytokine A2
+7S58,A,E,Evasin P974,C-C motif chemokine 7
+7P93,A,B,Leucotoxin LukEv,Atypical chemokine receptor 1
+7S59,1,2,Evasin P974,"chimera protein of C-C motif chemokine 7 and C-C motif chemokine 8,C-C motif chemokine 7"
+7P8X,A,M,Leucotoxin LukEv,C-C chemokine receptor type 2
+5UIW,A,B,"C-C chemokine receptor type 5,Rubredoxin chimera",C-C motif chemokine 5
+3FPU,A,B,Evasin-1,C-C motif chemokine 3
+7R8W,A,B,SH2B adapter protein 3,JAK2 pY813 phosphopeptide
+7R8X,A,C,SH2B adapter protein 3,EPOR pY454 phosphopeptide
+9Y6C,A,B,Complement C5,peptide Ra30303
+5B4P,A,B,repebody,C5a anaphylatoxin
+8QFZ,A,B,Thymic stromal lymphopoietin,CYS-HIS-TRP-LEU-GLU-ASN-CYS-TRP-ARG-GLY-PHE-CYS
+6JV7,A,B,Chimeric-rC5a,D-anaphylatoxin C5a
+6K3F,A,U,Beta-arrestin-2,Peptide from Atypical chemokine receptor 3
+7AD7,A,C,Complement C5,K8 peptide
+2V3S,A,C,SERINE/THREONINE-PROTEIN KINASE OSR1,SERINE/THREONINE-PROTEIN KINASE WNK4
+4GHU,A,B,TNF receptor-associated factor 3,Mitochondrial antiviral-signaling protein
+6Q0N,A,C,Erbin,peptide
+6Y6C,A,C,Triggering receptor expressed on myeloid cells 2,Single chain variable
+8CZ9,A,C,SH2B adapter protein 3,JAK2 pY813 phosphopeptide

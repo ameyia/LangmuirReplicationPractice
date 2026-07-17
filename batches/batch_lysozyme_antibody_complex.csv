@@ -1,0 +1,26 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+1MEL,A,L,VH SINGLE-DOMAIN ANTIBODY,LYSOZYME
+1DZB,A,X,SCFV FRAGMENT 1F9,TURKEY EGG-WHITE LYSOZYME C
+1JTO,A,L,Vh Single-Domain Antibody,Lysozyme
+4U3X,A,B,Human VH domain antibody,Lysozyme C
+1RI8,A,B,camelid ANTIBODY HEAVY CHAIN,Lysozyme C
+1RJC,A,B,camelid heavy chain antibody,Lysozyme C
+1JTP,A,L,Single-Domain Antibody,LYSOZYME C
+1DQQ,A,B,ANTI-LYSOZYME ANTIBODY HYHEL-63 (LIGHT CHAIN),ANTI-LYSOZYME ANTIBODY HYHEL-63 (HEAVY CHAIN)
+1T6V,L,N,Lysozyme C,novel antigen receptor
+1DQM,L,H,ANTI-LYSOZYME ANTIBODY HYHEL-63 (LIGHT CHAIN),ANTI-LYSOZYME ANTIBODY HYHEL-63 (HEAVY CHAIN)
+1JTT,A,L,Vh Single-Domain Antibody,Lysozyme
+1ZV5,L,A,Lysozyme C,immunoglobulin heavy chain antibody variable domain
+1MLB,A,B,IGG1-KAPPA D44.1 FAB (LIGHT CHAIN),IGG1-KAPPA D44.1 FAB (HEAVY CHAIN)
+4N1E,A,I,immunoglobulin variable light chain domain,Lysozyme C
+1XFP,A,L,heavy chain antibody,Lysozyme C
+4I0C,A,C,Lysozyme C,cAbHuL5 antibody
+1ZVH,L,A,Lysozyme C,Immunoglobulin heavy chain antibody variable domain
+1OP9,A,B,HL6 camel VHH fragment,Lysozyme C
+1SQ2,L,N,Lysozyme C,novel antigen receptor
+2Q76,A,B,Fab F10.6.6 fragment Light Chain,Fab F10.6.6 fragment Heavy Chain
+2I26,N,L,New Antigen Receptor Ancestral,Lysozyme C
+1ZVY,A,B,Immunoglobulin heavy chain antibody variable domain,Lysozyme C
+3EBA,A,B,CAbHul6,Lysozyme C
+6JB2,A,B,Nanobody D3-L11,Lysozyme C
+6JB5,A,B,Nanobody D3-L11,Lysozyme C

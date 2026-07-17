@@ -1,0 +1,26 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+1IQ5,A,B,CALMODULIN,CA2+/CALMODULIN DEPENDENT KINASE KINASE
+1VRK,A,B,CALMODULIN,RS20
+1QS7,A,B,CALMODULIN,RS20
+1QTX,A,B,PROTEIN (CALMODULIN),PROTEIN (RS20)
+1CDL,A,E,CALMODULIN,CALCIUM/CALMODULIN-DEPENDENT PROTEIN KINASE TYPE II ALPHA CHAIN
+8BAV,A,C,"Green fluorescent protein,Synaptosomal-associated protein 25",Secretagogin
+1CDM,A,B,PEPTIDE CALMODULIN-DEPENDENT PROTEIN KINASE II,CALMODULIN
+8QYU,A,G,Myosin-7,Myosin light chain 3
+1CM4,A,B,CALMODULIN,CALMODULIN-DEPENDENT PROTEIN KINASE II-ALPHA
+1CM1,A,B,CALMODULIN,CALMODULIN-DEPENDENT PROTEIN KINASE II-ALPHA
+2BCX,A,B,Calmodulin,Ryanodine receptor 1
+1IWQ,A,B,CALMODULIN,MARCKS
+1L7Z,A,B,CALMODULIN,CAP-23/NAP-22
+6J56,A,C,Unconventional myosin-VI,Peptide from Target of Myb protein 1
+2F3Z,A,B,Calmodulin,Voltage-dependent L-type calcium channel alpha-1C subunit
+2F3Y,A,B,Calmodulin,Voltage-dependent L-type calcium channel alpha-1C subunit
+6JJZ,A,C,"Membrane-associated guanylate kinase, WW and PDZ domain-containing protein 2",Peptide from Dendrin
+6V63,Y,A,"Actin, cytoplasmic 1",Actin-histidine N-methyltransferase
+7ZIT,A,C,14-3-3 protein zeta/delta,Nucleoprotein
+4JC3,A,B,14-3-3 protein sigma,Estrogen receptor Peptide
+9M0O,D,A,Ras-related protein Rab-8A,Optineurin
+4JDD,A,B,14-3-3 protein sigma,Estrogen receptor Peptide
+6OX3,Y,A,Actin Peptide,Histone-lysine N-methyltransferase setd3
+6OX4,Y,A,Actin Peptide,Actin-histidine N-methyltransferase
+8PPZ,A,B,Peptidyl-prolyl cis-trans isomerase FKBP1A,Serine/threonine-protein kinase mTOR

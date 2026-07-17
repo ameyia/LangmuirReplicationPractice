@@ -1,0 +1,23 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+1XB0,A,G,Baculoviral IAP repeat-containing protein 8,"Diablo homolog, mitochondrial"
+1OXQ,A,F,Baculoviral IAP repeat-containing protein 7,AVPIAQKSE (Smac) peptide
+6XY4,A,B,anti-apoptotic membrane protein,Activator of apoptosis harakiri
+5TZQ,A,C,Bcl-2-like protein FPV039,Bcl-2-modifying factor
+7P0U,A,C,Apoptosis inhibitor,Activator of apoptosis harakiri
+4OYD,A,B,Apoptosis regulator BHRF1,Computationally designed Inhibitor
+5VMO,A,B,Bak protein,Bcl-2 interacting mediator of cell death
+2WH6,A,B,EARLY ANTIGEN PROTEIN R,BCL-2-LIKE PROTEIN 11
+9UGP,A,B,Induced myeloid leukemia cell differentiation protein Mcl-1,Activator of apoptosis harakiri
+6TRR,A,B,16L protein,Apoptosis regulator BAX
+1OXN,A,F,Baculoviral IAP repeat-containing protein 7,AEAVPWKSE peptide
+3PK1,A,B,Induced myeloid leukemia cell differentiation protein Mcl-1,Apoptosis regulator BAX
+7ADT,A,C,Apoptosis inhibitor,Apoptosis regulator BAX
+1TW6,A,C,Baculoviral IAP repeat-containing protein 7,"Diablo homolog, mitochondrial"
+5WOS,A,B,CNPV058 bcl-2 like protein,Bcl-2-like protein 11
+5TZP,A,B,Bcl-2-like protein FPV039,Bik
+9LI8,A,B,Bcl-2-like protein 1,Activator of apoptosis harakiri
+1TY4,A,C,Apoptosis regulator ced-9,"EGg Laying defective EGL-1, programmed cell death activator"
+7QTW,A,B,Bcl-2,BH3-interacting domain death agonist p15
+8GSV,A,B,Bcl-2 homologous antagonist/killer,Peroxisomal testis-specific protein 1
+4G35,A,B,Induced myeloid leukemia cell differentiation protein Mcl-1 homolog,Noxa BH3 peptide (cysteine-mediated cross-linked)
+3IO8,A,B,Bcl-2-like protein 1,Bcl-2-like protein 11

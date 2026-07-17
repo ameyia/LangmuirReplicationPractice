@@ -1,0 +1,24 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+4JYV,H,L,Factor VII light chain,Factor VII heavy chain
+4JYU,H,L,Factor VII light chain,Factor VII heavy chain
+5L2Y,H,L,Coagulation factor VII (Heavy Chain),Coagulation factor VII (Light Chain)
+5L2Z,H,L,Coagulation factor VII (Heavy Chain),Coagulation factor VII (Light Chain)
+5L30,H,L,Coagulation factor VII (Heavy Chain),Coagulation factor VII (Light Chain)
+5L0S,A,B,Protein O-glucosyltransferase 1,Coagulation factor VII
+5KXH,A,B,GDP-fucose protein O-fucosyltransferase 1,Coagulation factor VII
+5KY2,A,B,GDP-fucose protein O-fucosyltransferase 1,Coagulation factor VII
+5KY3,A,B,GDP-fucose protein O-fucosyltransferase 1,Coagulation factor VII
+5F86,A,B,O-glucosyltransferase rumi,Coagulation factor IX
+5F85,A,B,O-glucosyltransferase rumi,Coagulation factor IX
+5F84,A,B,O-glucosyltransferase rumi,Coagulation factor IX
+5XBF,A,B,Unconventional myosin-VIIb,Harmonin
+5MV8,A,B,Unconventional myosin-VIIb,"cDNA FLJ51329, highly similar to Harmonin"
+3JTC,A,C,Endothelial protein C receptor,Vitamin K-dependent protein C
+3V9Y,A,B,Peroxisome proliferator-activated receptor gamma,Peptide from Nuclear receptor coactivator 1
+4F9M,A,C,Peroxisome proliferator-activated receptor gamma,peptide from Nuclear receptor coactivator 1
+5Z6S,A,C,Peroxisome proliferator-activated receptor gamma,Peptide from Peroxisome proliferator-activated receptor gamma coactivator 1-alpha
+1LQV,A,C,Endothelial protein C receptor,Vitamin-K dependent protein C
+3V9V,A,C,Peroxisome proliferator-activated receptor gamma,Peptide from Peroxisome proliferator-activated receptor gamma coactivator 1-alpha
+3V9T,A,C,Peroxisome proliferator-activated receptor gamma,Peptide from Peroxisome proliferator-activated receptor gamma coactivator 1-alpha
+3B1M,A,B,Peroxisome proliferator-activated receptor gamma,Peroxisome proliferator-activated receptor gamma coactivator 1-alpha
+4NXR,A,B,T-lymphoma invasion and metastasis-inducing protein 1,Neurexin-2-beta Peptide

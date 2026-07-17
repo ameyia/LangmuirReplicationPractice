@@ -1,0 +1,24 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+1PXV,A,C,cysteine protease,cysteine protease Inhibitor
+2CIO,A,B,PAPAIN,INHIBITOR OF CYSTEINE PEPTIDASE
+1Y4H,A,C,cysteine protease,cysteine protease inhibitor
+2OUL,A,B,Falcipain 2,Chagasin
+3H6S,A,E,Cathepsin L2,Clitocypin analog
+3IMA,A,B,Papain,Cysteine proteinase inhibitor
+3E1Z,A,B,Chagasin,Papain
+1PIP,A,B,Papain,SUCCINYL-GLN-VAL-VAL-ALA-ALA-P-NITROANILIDE
+3KFQ,A,C,Cathepsin L2,Cystatin-A
+7JR2,A,G,Cationic trypsin,Kunitz-type inihibitor
+7JR1,A,G,Cationic trypsin,Kunitz-type inihibitor
+5J4S,A,B,Chymotrypsinogen A,Bowman-Birk type proteinase inhibitor
+2NQD,A,B,Chagasin,Cathepsin L
+6EAX,A,I,Cationic trypsin,CYS-THR-LYS-SER-ILE-CYS
+3CBJ,A,B,Cathepsin B,Chagasin
+5J4Q,A,B,Chymotrypsinogen A,Bowman-Birk type proteinase inhibitor
+3BPM,A,C,Cysteine protease falcipain-3,Leupeptin
+3F75,A,P,Cathepsin L Protease,Cathepsin L Propeptide
+1D6R,A,I,TRYPSINOGEN,BOWMAN-BIRK PROTEINASE INHIBITOR PRECURSOR
+1EAI,A,C,PROTEIN (ELASTASE),PROTEIN (CHYMOTRYPSIN/ELASTASE ISOINHIBITOR 1)
+1TX6,A,I,Trypsin,Bowman-Birk type trypsin inhibitor
+2ILN,A,I,Cationic trypsin,Bowman-Birk type proteinase inhibitor
+3KSE,A,D,Cathepsin L1,Cystatin-A

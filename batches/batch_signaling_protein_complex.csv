@@ -5,9 +5,9 @@ pdb_id,chain_a,chain_b,molecule_a,molecule_b
 2BNU,A,B,T-CELL RECEPTOR ALPHA CHAIN C REGION,T-CELL RECEPTOR BETA CHAIN C REGION
 3IK5,A,B,Protein Nef,T-cell surface glycoprotein CD3 zeta chain
 1VEU,A,B,Mitogen-activated protein kinase kinase 1 interacting protein 1,Late endosomal/lysosomal Mp1 interacting protein
-5FWX,A,B,GLUTAMATE RECEPTOR 2,GLUTAMATE RECEPTOR 4
 1QSC,A,D,TNF RECEPTOR ASSOCIATED FACTOR 2,CD40 RECEPTOR
 1VET,A,B,Mitogen-activated protein kinase kinase 1 interacting protein 1,Late endosomal/lysosomal Mp1 interacting protein
+5FWX,A,B,GLUTAMATE RECEPTOR 2,GLUTAMATE RECEPTOR 4
 6OCP,A,P,BTB/POZ domain-containing protein KCTD16,Gamma-aminobutyric acid type B receptor subunit 2
 4RWG,A,D,"Maltose-binding periplasmic protein, Receptor activity-modifying protein 1, Calcitonin gene-related peptide type 1 receptor fusion protein",CGRP analog
 1F3V,A,B,TUMOR NECROSIS FACTOR RECEPTOR TYPE 1 ASSOCIATED DEATH DOMAIN PROTEIN,TUMOR NECROSIS FACTOR RECEPTOR-ASSOCIATED PROTEIN
@@ -21,4 +21,4 @@ pdb_id,chain_a,chain_b,molecule_a,molecule_b
 2OQ1,A,B,Tyrosine-protein kinase ZAP-70,T-cell surface glycoprotein CD3 zeta chain
 2ZL1,A,B,Mitogen-activated protein kinase kinase 1-interacting protein 1,Mitogen-activated protein-binding protein-interacting protein
 1K3A,A,B,insulin-like growth factor 1 receptor,insulin receptor substrate 1
-4ZIE,A,C,Apoptosis regulator BAX,Bcl-2-like protein 11
+4MS1,A,B,Gamma-aminobutyric acid type B receptor subunit 1,Gamma-aminobutyric acid type B receptor subunit 2

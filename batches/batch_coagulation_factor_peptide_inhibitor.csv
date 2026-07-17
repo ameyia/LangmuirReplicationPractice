@@ -1,0 +1,19 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+4BQD,A,C,TISSUE FACTOR PATHWAY INHIBITOR (LIPOPROTEIN-ASSOCIATED COAGULATION INHIBITOR) VARIANT,PEPTIDE
+3P72,A,B,Platelet glycoprotein Ib alpha chain,OS1 peptide
+1D0D,A,B,ANTICOAGULANT PROTEIN,PANCREATIC TRYPSIN INHIBITOR
+5F8T,A,P,Plasma kallikrein light chain,CYS-PRO-LYS-ARG-PHE-M70-ALA-LEU-PHE-CYS
+5F8Z,A,B,Plasma kallikrein LIGHT CHAIN,CYS-PRO-ALA-ARG-PHE-M70-ALA-LEU-PHE-CYS
+5MHL,A,K,Coagulation factor XIII A chain,inhibitor Mi0621
+5MHN,A,H,Coagulation factor XIII A chain,inhibitor ZED2360
+9VWT,A,B,Plasma kallikrein light chain,peptide inhibitor
+5F8X,A,B,Plasma kallikrein,CYS-PRO-ALA-ARG-PHE-M70-ALA-LEU-TRP-CYS
+5MHM,A,H,Coagulation factor XIII A chain,inhibitor ZED1630
+2WOK,A,B,CLAVULANIC ACID BIOSYNTHESIS OLIGOPEPTIDE BINDING PROTEIN 2,Kininogen-1
+3QN7,A,B,Urokinase-type plasminogen activator,Bicyclic peptide inhibitor
+4BTI,A,B,COAGULATION FACTOR X HEAVY CHAIN,COAGULATION FACTOR X LIGHT CHAIN
+4BTU,A,B,COAGULATION FACTOR X LIGHT CHAIN,COAGULATION FACTOR X HEAVY CHAIN
+1TPA,E,I,ANHYDRO-TRYPSIN,BOVINE PANCREATIC TRYPSIN INHIBITOR
+3TK5,A,B,Factor X heavy chain,Factor X light chain
+4KTY,A,C,Coagulation factor XIII A chain,Peptide-like ligand
+4X6N,A,H,"Coagulation factor XI, light chain",cleaved peptide

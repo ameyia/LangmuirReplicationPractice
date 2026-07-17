@@ -1,0 +1,26 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+3NVN,A,B,EVM139,Plexin-C1
+3NVQ,A,B,Semaphorin-7A,Plexin-C1
+3OKY,A,B,Plexin-A2,Putative uncharacterized protein
+3HM6,X,C,Plexin-B1,Unknown peptide
+3Q3J,A,B,Plexin-A2,Rho-related GTP-binding protein Rho6
+2REX,A,B,Plexin-B1,Rho-related GTP-binding protein Rho6
+7VF3,A,B,Plexin-B1,"Uteroglobin,PB1m7 peptide,Uteroglobin"
+7VG7,A,B,Plexin-B1,"Uteroglobin,PB1m6A9 peptide,Uteroglobin"
+6GH8,B,A,Glycoprotein,Neuropilin-2
+6TJT,A,D,Neuropilin-2,VEGFC C terminal peptide
+6TDB,A,F,Neuropilin-2,C-terminal VEGFB167 peptide
+4GFU,A,F,Tyrosine-protein phosphatase non-receptor type 18,HER2-pY1248 phosphor-peptide
+3H3B,A,C,Receptor tyrosine-protein kinase erbB-2,anti-ErbB2 antibody chA21
+1FYR,A,I,GROWTH FACTOR RECEPTOR-BOUND PROTEIN 2,HEPATOCYTE GROWTH FACTOR RECEPTOR PEPTIDE
+6LBX,A,B,Repebody (Rb-H2),Receptor tyrosine-protein kinase erbB-2
+5MY6,A,B,Receptor tyrosine-protein kinase erbB-2,Nanobody 2Rs15d
+5TQS,A,E,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-1",Receptor protein-tyrosine kinase
+1MFG,A,B,Erb-B2 INTERACTING PROTEIN,Erb-B2 carboxyl-terminal fragment
+1MFL,A,B,Erb-B2 INTERACTING PROTEIN,PHOSPHORYLATED Erb-B2 carboxyl-terminal fragment.
+3BUX,A,B,13-meric peptide from Hepatocyte growth factor receptor,E3 ubiquitin-protein ligase CBL
+7P5U,AAA,CCC,Neuropilin-1,MGC0122
+8PFE,A,B,Neuropilin-1,LYS-ASP-LYS-PRO-PRO-ARG
+6Y6C,A,C,Triggering receptor expressed on myeloid cells 2,Single chain variable
+7JJC,A,E,Neuropilin-1,Spike protein S1
+9EOU,A,P,Neuropilin-1,Osteopontin

@@ -1,0 +1,26 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+9JGL,A,C,14-3-3 protein sigma,MEX3B
+6KZG,A,C,14-3-3 protein theta,ARG-SER-MET-SER-GLU-THR-GLY-THR
+6A5Q,A,D,14-3-3 protein beta/alpha,TFEB  pS211-peptide
+6Y3M,A,P,14-3-3 protein sigma,ATPase peptide
+1QJA,A,Q,14-3-3 PROTEIN ZETA,PHOSPHOPEPTIDE
+5ULO,A,C,14-3-3 protein zeta/delta,TBC1 domain family member 7 peptide
+9QNL,A,B,14-3-3 protein sigma,Bcl2-associated agonist of cell death
+2C63,A,P,14-3-3 PROTEIN ETA,CONSENSUS PEPTIDE FOR 14-3-3 PROTEINS
+8QSG,A,H,14-3-3 protein sigma,BRAF peptide pS365
+8QSD,A,H,14-3-3 protein sigma,BRAF peptide pS365
+8QSH,A,H,14-3-3 protein sigma,ARAF peptide pS214
+6TCH,B,A,14-3-3 protein sigma,DLY-NVA-PPN-KCJ-SEP-PPN-B3S-BAL-PPN-LYS
+8ANC,A,P,14-3-3 protein sigma,"NAD-dependent protein deacetylase sirtuin-3, mitochondrial"
+8QSB,A,H,14-3-3 protein sigma,ARAF peptide pS214
+8QSC,A,H,14-3-3 protein sigma,ARAF peptide pS214
+8QSE,A,H,14-3-3 protein sigma,BRAF peptide pS365
+8QSF,A,H,14-3-3 protein sigma,BRAF peptide pS365
+6BD1,A,C,14-3-3 protein theta,"Insulin receptor substrate protein of 53 kDa, peptide (IRSp53)"
+8QS3,A,K,14-3-3 protein sigma,C-RAF peptide pS259
+6BCR,A,C,14-3-3 protein theta,"Insulin receptor substrate protein of 53 kDa, peptide (IRSp53)"
+8Q55,A,P,14-3-3 protein sigma,C-RAF peptide pS259
+8QS8,A,P,14-3-3 protein sigma,C-RAF peptide
+7QI1,A,E,14-3-3 protein theta,Cystic fibrosis transmembrane conductance regulator
+8QS5,A,P,14-3-3 protein sigma,C-RAF peptide pS259
+8QSA,A,P,14-3-3 protein sigma,C-RAF peptide

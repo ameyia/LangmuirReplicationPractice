@@ -1,0 +1,26 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+9RIU,A,B,Variable Domain of Heavy-Chain only Antibody (VHH),Short neurotoxin 1
+1SBB,A,B,PROTEIN (14.3.D T CELL ANTIGEN RECEPTOR),PROTEIN (STAPHYLOCOCCAL ENTEROTOXIN B)
+9RIT,A,C,Variable Domain of Heavy-Chain only Antibody (VHH),Cytotoxin 1
+1L0Y,A,B,14.3.d T cell receptor beta chain,Exotoxin type A
+3BYT,A,B,T cell receptor beta chain 8.2,Enterotoxin type C-3
+5E1H,A,B,Ricin,F8(JOB10) VHH antibody
+2AQ1,A,B,T-cell receptor beta chain V,Enterotoxin type C-3
+2AQ3,A,B,T-cell receptor beta chain V,Enterotoxin type C-3
+4NBX,A,B,TcdA,A20.1 VHH
+7TH3,A,B,Ricin chain A,VHH antibody
+5JA8,A,B,Toxin HigB-2,Nanobody 2
+5L21,A,B,Botulinum neurotoxin type A,VHH-C2
+7TGI,A,B,Ricin chain A,VHH antibody
+4NC2,A,B,Toxin B,B39 VHH
+1MVF,A,D,immunoglobulin heavy chain variable region,PemI-like protein 1
+7TGF,A,B,Ricin chain A,VHH camelid antibody
+4NBZ,A,B,TcdA,A26.8 VHH
+3MC0,A,B,variable beta 8.2  mouse T cell receptor,Enterotoxin SEG
+8WEO,A,C,Fragilysin,NB243
+6UC6,A,C,Botulinum neurotoxin type B,JLI-H11
+5U4M,A,B,Ricin,V1C7 VHH antibody
+5JA9,C,A,Toxin HigB-2,Nanobody 6
+7TH2,A,C,Ricin A chain,VHH antibody
+5U4L,A,B,Ricin,V1C7 VHH antibody G29R variant
+4Z9K,A,B,Ricin,VHH2(F5) antibody

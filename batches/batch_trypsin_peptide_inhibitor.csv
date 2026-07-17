@@ -1,0 +1,26 @@
+pdb_id,chain_a,chain_b,molecule_a,molecule_b
+1OX1,A,B,"Trypsinogen, cationic",11-mer peptide
+1SMF,E,I,TRYPSIN,BOWMAN-BIRK TYPE TRYPSIN INHIBITOR
+2CV3,A,B,Elastase 1,Inhibitor FR901451
+3TPI,Z,I,TRYPSINOGEN,BOVINE PANCREATIC TRYPSIN INHIBITOR
+2PLX,A,B,Cationic trypsin,Peptide Inhibitor
+1TPA,E,I,ANHYDRO-TRYPSIN,BOVINE PANCREATIC TRYPSIN INHIBITOR
+2PTC,E,I,BETA-TRYPSIN,TRYPSIN INHIBITOR
+4U2W,B,A,Bowman-Birk trypsin inhibitor,Cationic trypsin
+6E5M,A,I,Cationic trypsin,9MER-PEPTIDE
+2TGP,Z,I,TRYPSINOGEN,TRYPSIN INHIBITOR
+6EAT,A,I,Cationic trypsin,9MER-PEPTIDE
+4XOJ,A,B,Cationic trypsin,Trypsin inhibitor 1
+6MRQ,A,I,Cationic trypsin,inhibitor from Tityus obscurus scorpion venom (TopI1)
+3FP8,E,I,Anionic trypsin-2,Pancreatic trypsin inhibitor
+1G9I,E,I,"TRYPSINOGEN, CATIONIC",BOWMAN-BIRK TYPE TRYPSIN INHIBITOR
+1SFI,A,I,TRYPSIN,Trypsin inhibitor 1
+1AN1,E,I,TRYPSIN,TRYPTASE INHIBITOR
+2F91,A,B,hepatopancreas trypsin,Serine protease inhibitor I/II
+1H9L,A,B,PEPTIDE INHIBITOR,ELASTASE
+6EAX,A,I,Cationic trypsin,CYS-THR-LYS-SER-ILE-CYS
+1D0D,A,B,ANTICOAGULANT PROTEIN,PANCREATIC TRYPSIN INHIBITOR
+1GVK,A,B,PEPTIDE INHIBITOR,ELASTASE 1
+1DS2,E,I,PROTEINASE B (SGPB),OVOMUCOID
+2SGP,E,I,PROTEINASE B,OVOMUCOID INHIBITOR
+3FP6,E,I,Anionic trypsin-2,Pancreatic trypsin inhibitor
