@@ -1,0 +1,125 @@
+Using device: cpu
+Loaded 2420 valid sequence pairs.
+Train: 2178 pairs | Validation (held out, never trained on): 242 pairs
+Epoch    1 | seq2seq loss: 2.9308 | MLP loss: 0.0228 | this block: 0:09 | elapsed: 0:09 | ETA: 5:14:53
+Epoch   20 | seq2seq loss: 2.0795 | MLP loss: 0.0371 | this block: 2:48 | elapsed: 2:58 | ETA: 4:53:51
+Epoch   40 | seq2seq loss: 1.8289 | MLP loss: 0.0422 | this block: 2:57 | elapsed: 5:55 | ETA: 4:50:09
+Epoch   60 | seq2seq loss: 1.6892 | MLP loss: 0.0457 | this block: 2:55 | elapsed: 8:50 | ETA: 4:45:56
+Epoch   80 | seq2seq loss: 1.5970 | MLP loss: 0.0459 | this block: 2:57 | elapsed: 11:48 | ETA: 4:43:20
+Epoch  100 | seq2seq loss: 1.5286 | MLP loss: 0.0473 | this block: 3:07 | elapsed: 14:55 | ETA: 4:43:33
+Epoch  120 | seq2seq loss: 1.4784 | MLP loss: 0.0467 | this block: 1:06:01 | elapsed: 1:20:57 | ETA: 21:08:16
+Epoch  140 | seq2seq loss: 1.4317 | MLP loss: 0.0454 | this block: 3:49 | elapsed: 1:24:47 | ETA: 18:46:24
+Epoch  160 | seq2seq loss: 1.4046 | MLP loss: 0.0452 | this block: 3:32 | elapsed: 1:28:19 | ETA: 16:55:39
+Epoch  180 | seq2seq loss: 1.3792 | MLP loss: 0.0445 | this block: 3:35 | elapsed: 1:31:54 | ETA: 15:29:15
+Epoch  200 | seq2seq loss: 1.3571 | MLP loss: 0.0437 | this block: 3:21 | elapsed: 1:35:15 | ETA: 14:17:23
+Epoch  220 | seq2seq loss: 1.3333 | MLP loss: 0.0431 | this block: 3:22 | elapsed: 1:38:38 | ETA: 13:18:08
+Epoch  240 | seq2seq loss: 1.3144 | MLP loss: 0.0419 | this block: 3:21 | elapsed: 1:42:00 | ETA: 12:28:01
+Epoch  260 | seq2seq loss: 1.3066 | MLP loss: 0.0401 | this block: 3:22 | elapsed: 1:45:22 | ETA: 11:45:14
+Epoch  280 | seq2seq loss: 1.2818 | MLP loss: 0.0406 | this block: 3:19 | elapsed: 1:48:42 | ETA: 11:07:46
+Epoch  300 | seq2seq loss: 1.2679 | MLP loss: 0.0399 | this block: 12:45 | elapsed: 2:01:27 | ETA: 11:28:17
+Epoch  320 | seq2seq loss: 1.2563 | MLP loss: 0.0391 | this block: 19:08 | elapsed: 2:20:36 | ETA: 12:18:11
+Epoch  340 | seq2seq loss: 1.2413 | MLP loss: 0.0379 | this block: 3:31 | elapsed: 2:24:08 | ETA: 11:43:43
+Epoch  360 | seq2seq loss: 1.2296 | MLP loss: 0.0379 | this block: 3:24 | elapsed: 2:27:32 | ETA: 11:12:07
+Epoch  380 | seq2seq loss: 1.2248 | MLP loss: 0.0362 | this block: 3:24 | elapsed: 2:30:56 | ETA: 10:43:30
+Epoch  400 | seq2seq loss: 1.2101 | MLP loss: 0.0358 | this block: 3:23 | elapsed: 2:34:20 | ETA: 10:17:22
+Epoch  420 | seq2seq loss: 1.2067 | MLP loss: 0.0351 | this block: 3:24 | elapsed: 2:37:44 | ETA: 9:53:25
+Epoch  440 | seq2seq loss: 1.1923 | MLP loss: 0.0355 | this block: 3:30 | elapsed: 2:41:14 | ETA: 9:31:41
+Epoch  460 | seq2seq loss: 1.2135 | MLP loss: 0.0347 | this block: 3:22 | elapsed: 2:44:37 | ETA: 9:11:07
+Epoch  480 | seq2seq loss: 1.1936 | MLP loss: 0.0341 | this block: 3:27 | elapsed: 2:48:05 | ETA: 8:52:16
+Epoch  500 | seq2seq loss: 1.1816 | MLP loss: 0.0335 | this block: 3:20 | elapsed: 2:51:26 | ETA: 8:34:18
+Epoch  520 | seq2seq loss: 1.1765 | MLP loss: 0.0327 | this block: 3:32 | elapsed: 2:54:58 | ETA: 8:17:59
+Epoch  540 | seq2seq loss: 1.3387 | MLP loss: 0.0333 | this block: 3:24 | elapsed: 2:58:22 | ETA: 8:02:17
+Epoch  560 | seq2seq loss: 1.1521 | MLP loss: 0.0319 | this block: 3:20 | elapsed: 3:01:43 | ETA: 7:47:17
+Epoch  580 | seq2seq loss: 1.1538 | MLP loss: 0.0315 | this block: 3:26 | elapsed: 3:05:09 | ETA: 7:33:19
+Epoch  600 | seq2seq loss: 1.1537 | MLP loss: 0.0310 | this block: 3:34 | elapsed: 3:08:44 | ETA: 7:20:23
+Epoch  620 | seq2seq loss: 1.1451 | MLP loss: 0.0306 | this block: 3:23 | elapsed: 3:12:07 | ETA: 7:07:38
+Epoch  640 | seq2seq loss: 1.1628 | MLP loss: 0.0302 | this block: 3:19 | elapsed: 3:15:27 | ETA: 6:55:20
+Epoch  660 | seq2seq loss: 1.1368 | MLP loss: 0.0298 | this block: 3:16 | elapsed: 3:18:44 | ETA: 6:43:29
+Epoch  680 | seq2seq loss: 1.1244 | MLP loss: 0.0294 | this block: 3:24 | elapsed: 3:22:08 | ETA: 6:32:23
+Epoch  700 | seq2seq loss: 1.1288 | MLP loss: 0.0288 | this block: 3:21 | elapsed: 3:25:29 | ETA: 6:21:37
+Epoch  720 | seq2seq loss: 1.1198 | MLP loss: 0.0288 | this block: 3:22 | elapsed: 3:28:52 | ETA: 6:11:19
+Epoch  740 | seq2seq loss: 1.1142 | MLP loss: 0.0285 | this block: 3:20 | elapsed: 3:32:12 | ETA: 6:01:20
+Epoch  760 | seq2seq loss: 1.1143 | MLP loss: 0.0286 | this block: 3:18 | elapsed: 3:35:31 | ETA: 5:51:38
+Epoch  780 | seq2seq loss: 1.1113 | MLP loss: 0.0278 | this block: 3:21 | elapsed: 3:38:52 | ETA: 5:42:20
+Epoch  800 | seq2seq loss: 1.1084 | MLP loss: 0.0278 | this block: 3:24 | elapsed: 3:42:17 | ETA: 5:33:26
+Epoch  820 | seq2seq loss: 1.1199 | MLP loss: 0.0271 | this block: 3:18 | elapsed: 3:45:36 | ETA: 5:24:39
+Epoch  840 | seq2seq loss: 1.0997 | MLP loss: 0.0274 | this block: 3:20 | elapsed: 3:48:56 | ETA: 5:16:09
+Epoch  860 | seq2seq loss: 1.0919 | MLP loss: 0.0267 | this block: 3:19 | elapsed: 3:52:15 | ETA: 5:07:53
+Epoch  880 | seq2seq loss: 1.0878 | MLP loss: 0.0267 | this block: 3:22 | elapsed: 3:55:38 | ETA: 4:59:54
+Epoch  900 | seq2seq loss: 1.0868 | MLP loss: 0.0266 | this block: 3:20 | elapsed: 3:58:59 | ETA: 4:52:05
+Epoch  920 | seq2seq loss: 1.0825 | MLP loss: 0.0259 | this block: 3:21 | elapsed: 4:02:20 | ETA: 4:44:29
+Epoch  940 | seq2seq loss: 1.1495 | MLP loss: 0.0258 | this block: 3:21 | elapsed: 4:05:42 | ETA: 4:37:03
+Epoch  960 | seq2seq loss: 1.0759 | MLP loss: 0.0259 | this block: 3:20 | elapsed: 4:09:02 | ETA: 4:29:48
+Epoch  980 | seq2seq loss: 1.0748 | MLP loss: 0.0253 | this block: 3:24 | elapsed: 4:12:27 | ETA: 4:22:45
+Epoch 1000 | seq2seq loss: 1.0754 | MLP loss: 0.0253 | this block: 3:21 | elapsed: 4:15:48 | ETA: 4:15:48
+Epoch 1020 | seq2seq loss: 1.0772 | MLP loss: 0.0249 | this block: 3:20 | elapsed: 4:19:08 | ETA: 4:08:59
+Epoch 1040 | seq2seq loss: 1.0732 | MLP loss: 0.0247 | this block: 3:25 | elapsed: 4:22:34 | ETA: 4:02:22
+Epoch 1060 | seq2seq loss: 1.0638 | MLP loss: 0.0246 | this block: 3:30 | elapsed: 4:26:05 | ETA: 3:55:57
+Epoch 1080 | seq2seq loss: 1.0668 | MLP loss: 0.0244 | this block: 3:24 | elapsed: 4:29:29 | ETA: 3:49:34
+Epoch 1100 | seq2seq loss: 1.0643 | MLP loss: 0.0242 | this block: 3:21 | elapsed: 4:32:51 | ETA: 3:43:14
+Epoch 1120 | seq2seq loss: 1.0674 | MLP loss: 0.0239 | this block: 3:19 | elapsed: 4:36:11 | ETA: 3:37:00
+Epoch 1140 | seq2seq loss: 1.2949 | MLP loss: 0.0234 | this block: 3:20 | elapsed: 4:39:31 | ETA: 3:30:52
+Epoch 1160 | seq2seq loss: 1.0579 | MLP loss: 0.0236 | this block: 3:23 | elapsed: 4:42:55 | ETA: 3:24:52
+Epoch 1180 | seq2seq loss: 1.0764 | MLP loss: 0.0236 | this block: 3:22 | elapsed: 4:46:17 | ETA: 3:18:57
+Epoch 1200 | seq2seq loss: 1.0608 | MLP loss: 0.0238 | this block: 3:14 | elapsed: 4:49:32 | ETA: 3:13:01
+Epoch 1220 | seq2seq loss: 1.0549 | MLP loss: 0.0234 | this block: 3:20 | elapsed: 4:52:53 | ETA: 3:07:15
+Epoch 1240 | seq2seq loss: 1.0741 | MLP loss: 0.0230 | this block: 3:17 | elapsed: 4:56:10 | ETA: 3:01:31
+Epoch 1260 | seq2seq loss: 1.0572 | MLP loss: 0.0229 | this block: 3:14 | elapsed: 4:59:25 | ETA: 2:55:51
+Epoch 1280 | seq2seq loss: 1.0627 | MLP loss: 0.0229 | this block: 3:22 | elapsed: 5:02:48 | ETA: 2:50:19
+Epoch 1300 | seq2seq loss: 1.0818 | MLP loss: 0.0225 | this block: 3:22 | elapsed: 5:06:10 | ETA: 2:44:51
+Epoch 1320 | seq2seq loss: 1.0530 | MLP loss: 0.0223 | this block: 3:22 | elapsed: 5:09:33 | ETA: 2:39:28
+Epoch 1340 | seq2seq loss: 1.0573 | MLP loss: 0.0227 | this block: 3:17 | elapsed: 5:12:50 | ETA: 2:34:05
+Epoch 1360 | seq2seq loss: 1.0422 | MLP loss: 0.0222 | this block: 3:26 | elapsed: 5:16:16 | ETA: 2:28:50
+Epoch 1380 | seq2seq loss: 1.0409 | MLP loss: 0.0220 | this block: 3:24 | elapsed: 5:19:41 | ETA: 2:23:37
+Epoch 1400 | seq2seq loss: 1.0353 | MLP loss: 0.0217 | this block: 3:23 | elapsed: 5:23:04 | ETA: 2:18:27
+Epoch 1420 | seq2seq loss: 1.0288 | MLP loss: 0.0217 | this block: 3:19 | elapsed: 5:26:23 | ETA: 2:13:18
+Epoch 1440 | seq2seq loss: 1.0374 | MLP loss: 0.0218 | this block: 3:20 | elapsed: 5:29:43 | ETA: 2:08:13
+Epoch 1460 | seq2seq loss: 1.0272 | MLP loss: 0.0215 | this block: 3:19 | elapsed: 5:33:03 | ETA: 2:03:10
+Epoch 1480 | seq2seq loss: 1.2076 | MLP loss: 0.0210 | this block: 4:59 | elapsed: 5:38:02 | ETA: 1:58:46
+Epoch 1500 | seq2seq loss: 1.0260 | MLP loss: 0.0212 | this block: 3:19 | elapsed: 5:41:21 | ETA: 1:53:47
+Epoch 1520 | seq2seq loss: 1.0278 | MLP loss: 0.0213 | this block: 3:19 | elapsed: 5:44:41 | ETA: 1:48:51
+Epoch 1540 | seq2seq loss: 1.0849 | MLP loss: 0.0210 | this block: 18:48 | elapsed: 6:03:30 | ETA: 1:48:34
+Epoch 1560 | seq2seq loss: 1.0323 | MLP loss: 0.0209 | this block: 27:03 | elapsed: 6:30:33 | ETA: 1:50:09
+Epoch 1580 | seq2seq loss: 1.0271 | MLP loss: 0.0207 | this block: 3:21 | elapsed: 6:33:54 | ETA: 1:44:42
+Epoch 1600 | seq2seq loss: 1.0284 | MLP loss: 0.0204 | this block: 3:20 | elapsed: 6:37:15 | ETA: 1:39:18
+Epoch 1620 | seq2seq loss: 1.0333 | MLP loss: 0.0208 | this block: 3:21 | elapsed: 6:40:36 | ETA: 1:33:58
+Epoch 1640 | seq2seq loss: 1.0119 | MLP loss: 0.0206 | this block: 3:21 | elapsed: 6:43:57 | ETA: 1:28:40
+Epoch 1660 | seq2seq loss: 1.0241 | MLP loss: 0.0204 | this block: 3:20 | elapsed: 6:47:18 | ETA: 1:23:25
+Epoch 1680 | seq2seq loss: 1.0277 | MLP loss: 0.0202 | this block: 3:19 | elapsed: 6:50:38 | ETA: 1:18:13
+Epoch 1700 | seq2seq loss: 1.0153 | MLP loss: 0.0206 | this block: 1:22:54 | elapsed: 8:13:32 | ETA: 1:27:05
+Epoch 1720 | seq2seq loss: 1.0118 | MLP loss: 0.0205 | this block: 3:25 | elapsed: 8:16:58 | ETA: 1:20:54
+Epoch 1740 | seq2seq loss: 1.0139 | MLP loss: 0.0200 | this block: 3:24 | elapsed: 8:20:23 | ETA: 1:14:46
+Epoch 1760 | seq2seq loss: 1.0145 | MLP loss: 0.0197 | this block: 18:43 | elapsed: 8:39:07 | ETA: 1:10:47
+Epoch 1780 | seq2seq loss: 1.0735 | MLP loss: 0.0199 | this block: 3:54:17 | elapsed: 12:33:25 | ETA: 1:33:07
+Epoch 1800 | seq2seq loss: 1.0112 | MLP loss: 0.0195 | this block: 3:10:48 | elapsed: 15:44:13 | ETA: 1:44:54
+Epoch 1820 | seq2seq loss: 1.0056 | MLP loss: 0.0197 | this block: 1:32:41 | elapsed: 17:16:54 | ETA: 1:42:33
+Epoch 1840 | seq2seq loss: 1.0107 | MLP loss: 0.0194 | this block: 1:24:22 | elapsed: 18:41:17 | ETA: 1:37:30
+Epoch 1860 | seq2seq loss: 1.0085 | MLP loss: 0.0195 | this block: 3:23 | elapsed: 18:44:40 | ETA: 1:24:39
+Epoch 1880 | seq2seq loss: 1.0350 | MLP loss: 0.0192 | this block: 3:22 | elapsed: 18:48:02 | ETA: 1:12:00
+Epoch 1900 | seq2seq loss: 1.0076 | MLP loss: 0.0192 | this block: 1:47:33 | elapsed: 20:35:36 | ETA: 1:05:01
+Epoch 1920 | seq2seq loss: 1.0105 | MLP loss: 0.0193 | this block: 1:14:12 | elapsed: 21:49:48 | ETA: 54:34
+Epoch 1940 | seq2seq loss: 0.9954 | MLP loss: 0.0192 | this block: 3:26 | elapsed: 21:53:15 | ETA: 40:36
+Epoch 1960 | seq2seq loss: 0.9997 | MLP loss: 0.0188 | this block: 3:25 | elapsed: 21:56:41 | ETA: 26:52
+Epoch 1980 | seq2seq loss: 1.0002 | MLP loss: 0.0189 | this block: 3:25 | elapsed: 22:00:06 | ETA: 13:20
+Epoch 2000 | seq2seq loss: 0.9922 | MLP loss: 0.0187 | this block: 3:25 | elapsed: 22:03:31 | ETA: 0:00
+
+Training finished in 22:03:31 (39.71 sec/epoch average)
+
+Seq2seq reconstruction accuracy - train: 50.42% | validation: 31.22%
+Partner-prediction accuracy (held-out, correct length used): 12.00%
+
+Example predictions on held-out validation pairs (never seen during training):
+  input:     VLVTQYRVATGNQYLFPPTEPLMFYNVRHAGNMIPDNDNSNYKYYIAAQENYRNSMFFDQPRY
+  predicted: ELVAGDHTISYNPLEKFQVRIGATDNRVLSMR
+  actual:    QQAKDIGAGPVASCFTTRMSQQICLNSVVNAL
+
+  input:     SKWQTVELMTENSDEY
+  predicted: LEVSR
+  actual:    VYHWR
+
+  input:     RRFAKHLRVQHLFIPLESG
+  predicted: LKVELQD
+  actual:    TDELLTE
+
+
+Batch_size: 32

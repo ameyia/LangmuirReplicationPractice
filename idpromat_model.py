@@ -223,7 +223,8 @@ def evaluate_partner_prediction(pairs, encoder, decoder, mlp, n_examples=3, batc
     return accuracy, examples
 
 
-def train(pairs, hidden_dim=64, epochs=200, lr=1e-3, dropout=0.0, batch_size=32, verbose_every=20):
+def train(train_pairs, val_pairs, hidden_dim=64, epochs=2000, lr=1e-3, dropout=0.0, batch_size=32,
+          verbose_every=20, eval_every=100, patience=5, checkpoint_path="best_model.pt"):
     encoder = Encoder(hidden_dim, dropout=dropout).to(DEVICE)
     decoder = Decoder(hidden_dim, dropout=dropout).to(DEVICE)
     mlp = MLP(hidden_dim, dropout=dropout).to(DEVICE)
@@ -233,7 +234,7 @@ def train(pairs, hidden_dim=64, epochs=200, lr=1e-3, dropout=0.0, batch_size=32,
     mlp_opt = optim.Adam(mlp.parameters(), lr=lr)
     mse_loss = nn.MSELoss()
 
-    all_seqs = list({s for pair in pairs for s in pair})
+    all_seqs = list({s for pair in train_pairs for s in pair})
 
     encoder.train()
     decoder.train()
@@ -241,6 +242,9 @@ def train(pairs, hidden_dim=64, epochs=200, lr=1e-3, dropout=0.0, batch_size=32,
 
     training_start = time.time()
     last_checkpoint_time = training_start
+
+    best_partner_acc = -1.0
+    checks_since_improvement = 0
 
     for epoch in range(1, epochs + 1):
         # --- Stage 1: seq2seq reconstruction, batched ---
@@ -260,10 +264,10 @@ def train(pairs, hidden_dim=64, epochs=200, lr=1e-3, dropout=0.0, batch_size=32,
             n_batches += 1
 
         # --- Stage 2: MLP partner mapping, batched ---
-        random.shuffle(pairs)
+        random.shuffle(train_pairs)
         total_mlp_loss, n_batches2 = 0.0, 0
-        for i in range(0, len(pairs), batch_size):
-            batch_pairs = pairs[i:i + batch_size]
+        for i in range(0, len(train_pairs), batch_size):
+            batch_pairs = train_pairs[i:i + batch_size]
             seq_a_list = [p[0] for p in batch_pairs]
             seq_b_list = [p[1] for p in batch_pairs]
 
@@ -297,9 +301,43 @@ def train(pairs, hidden_dim=64, epochs=200, lr=1e-3, dropout=0.0, batch_size=32,
                   f"| ETA: {format_duration(eta)}")
             last_checkpoint_time = now
 
+        # --- Periodic validation check + early stopping ---
+        if epoch % eval_every == 0:
+            partner_acc, _ = evaluate_partner_prediction(val_pairs, encoder, decoder, mlp, n_examples=0)
+            encoder.train()
+            decoder.train()
+            mlp.train()  # evaluate_* calls .eval() internally - switch back for continued training
+
+            if partner_acc > best_partner_acc:
+                best_partner_acc = partner_acc
+                checks_since_improvement = 0
+                torch.save({
+                    "encoder": encoder.state_dict(), "decoder": decoder.state_dict(), "mlp": mlp.state_dict(),
+                    "epoch": epoch, "partner_acc": partner_acc, "hidden_dim": hidden_dim, "dropout": dropout,
+                }, checkpoint_path)
+                print(f"  [eval @ epoch {epoch}] validation partner-prediction: {partner_acc:.2%} "
+                      f"-> NEW BEST, saved to {checkpoint_path}")
+            else:
+                checks_since_improvement += 1
+                print(f"  [eval @ epoch {epoch}] validation partner-prediction: {partner_acc:.2%} "
+                      f"(best so far: {best_partner_acc:.2%}, no improvement for {checks_since_improvement}/{patience} checks)")
+
+                if checks_since_improvement >= patience:
+                    print(f"\nEarly stopping at epoch {epoch}: no improvement in "
+                          f"{patience} consecutive checks ({patience * eval_every} epochs).")
+                    break
+
     total_time = time.time() - training_start
     print(f"\nTraining finished in {format_duration(total_time)} "
-          f"({total_time/epochs:.2f} sec/epoch average)")
+          f"({total_time/epoch:.2f} sec/epoch average)")
+
+    if best_partner_acc >= 0:
+        print(f"Best validation partner-prediction accuracy: {best_partner_acc:.2%} "
+              f"(reloading that checkpoint, not the final epoch's weights)")
+        ckpt = torch.load(checkpoint_path, map_location=DEVICE)
+        encoder.load_state_dict(ckpt["encoder"])
+        decoder.load_state_dict(ckpt["decoder"])
+        mlp.load_state_dict(ckpt["mlp"])
 
     return encoder, decoder, mlp
 
@@ -307,7 +345,8 @@ def train(pairs, hidden_dim=64, epochs=200, lr=1e-3, dropout=0.0, batch_size=32,
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("dataset_csv", help="CSV from batch_extract_interfaces.py")
-    parser.add_argument("--epochs", type=int, default=200)
+    parser.add_argument("--epochs", type=int, default=5000,
+                         help="Upper ceiling only - early stopping will likely halt training well before this.")
     parser.add_argument("--hidden_dim", type=int, default=64)
     parser.add_argument("--dropout", type=float, default=0.2,
                          help="Dropout rate (0.0-0.5 typical). 0.0 disables it entirely.")
@@ -317,6 +356,12 @@ def main():
     parser.add_argument("--device", default="cpu", choices=["cpu", "mps", "cuda"],
                          help="Now that training is batched, cuda/mps should actually help "
                               "if you have a real GPU available.")
+    parser.add_argument("--eval_every", type=int, default=100,
+                         help="Check validation accuracy every N epochs (used for early stopping).")
+    parser.add_argument("--patience", type=int, default=5,
+                         help="Stop if validation accuracy doesn't improve for this many checks in a row.")
+    parser.add_argument("--checkpoint_path", default="best_model.pt",
+                         help="Where to save the best model seen so far (safe even if the run is interrupted).")
     args = parser.parse_args()
 
     global DEVICE
@@ -330,8 +375,9 @@ def main():
     print(f"Train: {len(train_pairs)} pairs | Validation (held out, never trained on): {len(val_pairs)} pairs")
 
     encoder, decoder, mlp = train(
-        train_pairs, hidden_dim=args.hidden_dim, epochs=args.epochs,
+        train_pairs, val_pairs, hidden_dim=args.hidden_dim, epochs=args.epochs,
         dropout=args.dropout, batch_size=args.batch_size,
+        eval_every=args.eval_every, patience=args.patience, checkpoint_path=args.checkpoint_path,
     )
 
     train_seqs = list({s for pair in train_pairs for s in pair})
