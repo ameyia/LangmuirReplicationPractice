@@ -12,7 +12,7 @@ are logged and skipped rather than crashing the whole run, since
 with a real batch of PDB structures you WILL hit messy cases.
 
 Usage:
-    python batch_extract_interfaces.py complexes.csv --cutoff 6.0 --out dataset.csv
+    python src/batch_extract_interfaces.py data/complex_lists/complexes_full.csv
 
 Where complexes.csv has columns: pdb_id,chain_a,chain_b
 
@@ -24,6 +24,7 @@ import argparse
 import csv
 import os
 import sys
+from pathlib import Path
 import numpy as np
 from Bio.PDB import PDBList, PDBParser
 from Bio.PDB.Polypeptide import is_aa
@@ -35,6 +36,8 @@ THREE_TO_ONE = {
     'SER': 'S', 'THR': 'T', 'TRP': 'W', 'TYR': 'Y', 'VAL': 'V',
     'HYP': 'O',
 }
+
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
 
 
 def download_structure(pdb_id, out_dir="pdb_cache"):
@@ -100,9 +103,10 @@ def main():
     parser = argparse.ArgumentParser(description="Batch-extract interface residue sequences from a list of PDB complexes.")
     parser.add_argument("complexes_csv", help="CSV file with columns: pdb_id,chain_a,chain_b")
     parser.add_argument("--cutoff", type=float, default=6.0)
-    parser.add_argument("--out", default="dataset.csv")
-    parser.add_argument("--cache_dir", default="pdb_cache")
+    parser.add_argument("--out", default=str(PROJECT_ROOT / "data/extracted/dataset.csv"))
+    parser.add_argument("--cache_dir", default=str(PROJECT_ROOT / "structures/pdb_cache"))
     args = parser.parse_args()
+    Path(args.out).parent.mkdir(parents=True, exist_ok=True)
 
     with open(args.complexes_csv) as f:
         reader = csv.DictReader(f)

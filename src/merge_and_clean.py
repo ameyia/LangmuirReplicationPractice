@@ -1,4 +1,8 @@
 import csv
+from pathlib import Path
+
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+LIST_DIR = PROJECT_ROOT / "data/complex_lists"
 
 # Merge the manually-verified complexes with the auto-searched ones,
 # dropping the extra molecule_a/molecule_b columns, and de-duplicating.
@@ -12,13 +16,14 @@ def load_rows(path, has_molecule_cols=False):
     return rows
 
 manual = [("1BRS","A","D"), ("1BRS","B","E"), ("1BRS","C","F"), ("2PTC","E","I")]
-auto = load_rows("complexes.csv")  # your auto-search output
+auto = load_rows(LIST_DIR / "complexes.csv")  # historical auto-search output
 
 combined = list(dict.fromkeys(manual + auto))  # dedupe, preserve order
 
-with open("complexes_merged.csv", "w", newline="") as f:
+output_path = LIST_DIR / "complexes_merged.csv"
+with open(output_path, "w", newline="") as f:
     writer = csv.writer(f)
     writer.writerow(["pdb_id", "chain_a", "chain_b"])
     writer.writerows(combined)
 
-print(f"Merged {len(combined)} unique complexes into complexes_merged.csv")
+print(f"Merged {len(combined)} unique complexes into {output_path}")

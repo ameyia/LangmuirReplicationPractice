@@ -14,6 +14,11 @@ Requires search_and_populate_complexes.py in the same folder.
 
 import subprocess
 import os
+from pathlib import Path
+
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+SCRIPT_DIR = Path(__file__).resolve().parent
+BATCH_DIR = PROJECT_ROOT / "data/complex_lists/batches"
 
 KEYWORDS = [
     # --------------------------------------------------
@@ -228,17 +233,17 @@ KEYWORDS = [
 LIMIT = 25
 MAX_RESOLUTION = 2.5
 
-os.makedirs("batches", exist_ok=True)
+BATCH_DIR.mkdir(parents=True, exist_ok=True)
 
 for kw in KEYWORDS:
     safe_name = kw.replace(" ", "_") if kw else "general"
-    out_path = f"batches/batch_{safe_name}.csv"
+    out_path = BATCH_DIR / f"batch_{safe_name}.csv"
 
     cmd = [
-        "python3", "search_and_populate_complexes.py",
+        "python3", str(SCRIPT_DIR / "search_and_populate_complexes.py"),
         "--max_resolution", str(MAX_RESOLUTION),
         "--limit", str(LIMIT),
-        "--out", out_path,
+        "--out", str(out_path),
     ]
     if kw:
         cmd += ["--keyword", kw]

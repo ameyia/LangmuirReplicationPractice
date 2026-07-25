@@ -24,9 +24,12 @@ import argparse
 import csv
 import random
 import time
+from pathlib import Path
 import torch
 import torch.nn as nn
 import torch.optim as optim
+
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
 
 DEVICE = None  # set in main() based on --device argument
 
@@ -360,9 +363,12 @@ def main():
                          help="Check validation accuracy every N epochs (used for early stopping).")
     parser.add_argument("--patience", type=int, default=5,
                          help="Stop if validation accuracy doesn't improve for this many checks in a row.")
-    parser.add_argument("--checkpoint_path", default="best_model.pt",
+    parser.add_argument(
+        "--checkpoint_path",
+        default=str(PROJECT_ROOT / "outputs/models/best_model.pt"),
                          help="Where to save the best model seen so far (safe even if the run is interrupted).")
     args = parser.parse_args()
+    Path(args.checkpoint_path).parent.mkdir(parents=True, exist_ok=True)
 
     global DEVICE
     DEVICE = torch.device(args.device)

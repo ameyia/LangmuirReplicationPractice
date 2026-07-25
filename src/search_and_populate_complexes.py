@@ -24,7 +24,10 @@ Requires:
 
 import argparse
 import csv
+from pathlib import Path
 import requests
+
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
 
 SEARCH_URL = "https://search.rcsb.org/rcsbsearch/v2/query"
 DATA_ENTRY_URL = "https://data.rcsb.org/rest/v1/core/entry/{}"
@@ -134,8 +137,12 @@ def main():
     parser.add_argument("--max_resolution", type=float, default=2.5)
     parser.add_argument("--limit", type=int, default=25)
     parser.add_argument("--start", type=int, default=0, help="Pagination offset - use 25, 50, 75... to get results beyond the first page")
-    parser.add_argument("--out", default="complexes_auto.csv")
+    parser.add_argument(
+        "--out",
+        default=str(PROJECT_ROOT / "data/complex_lists/complexes_auto.csv"),
+    )
     args = parser.parse_args()
+    Path(args.out).parent.mkdir(parents=True, exist_ok=True)
 
     print(f"Searching RCSB (keyword={args.keyword!r}, resolution<={args.max_resolution}, limit={args.limit}, start={args.start})...")
     candidates = search_candidates(args.keyword, args.max_resolution, args.limit, args.start)
