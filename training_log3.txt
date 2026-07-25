@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/Users/ameliamccrory/Library/CloudStorage/OneDrive-UCB-O365/Research Project/Research/LangmuirReplicationPractice/idpromat_model.py", line 27, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
