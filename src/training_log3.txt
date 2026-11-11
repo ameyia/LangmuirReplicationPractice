@@ -1,0 +1,92 @@
+Using device: cpu
+Loaded 2420 valid sequence pairs.
+Train: 2178 pairs | Validation (held out, never trained on): 242 pairs
+Epoch    1 | seq2seq loss: 2.9661 | MLP loss: 0.0206 | this block: 0:09 | elapsed: 0:09 | ETA: 12:31:16
+Epoch   20 | seq2seq loss: 2.4090 | MLP loss: 0.0310 | this block: 2:27 | elapsed: 2:36 | ETA: 10:48:16
+Epoch   40 | seq2seq loss: 2.1308 | MLP loss: 0.0388 | this block: 2:24 | elapsed: 5:00 | ETA: 10:21:23
+Epoch   60 | seq2seq loss: 1.9725 | MLP loss: 0.0442 | this block: 2:24 | elapsed: 7:25 | ETA: 10:11:24
+Epoch   80 | seq2seq loss: 1.8614 | MLP loss: 0.0483 | this block: 2:24 | elapsed: 9:50 | ETA: 10:05:02
+Epoch  100 | seq2seq loss: 1.7931 | MLP loss: 0.0502 | this block: 2:25 | elapsed: 12:15 | ETA: 10:00:43
+  [eval @ epoch 100] validation partner-prediction: 7.85% -> NEW BEST, saved to best_model_local.pt
+Epoch  120 | seq2seq loss: 1.7170 | MLP loss: 0.0509 | this block: 2:24 | elapsed: 14:39 | ETA: 9:56:20
+Epoch  140 | seq2seq loss: 1.6657 | MLP loss: 0.0515 | this block: 2:24 | elapsed: 17:04 | ETA: 9:52:39
+Epoch  160 | seq2seq loss: 1.6273 | MLP loss: 0.0543 | this block: 2:26 | elapsed: 19:30 | ETA: 9:50:18
+Epoch  180 | seq2seq loss: 1.5773 | MLP loss: 0.0549 | this block: 2:25 | elapsed: 21:56 | ETA: 9:47:34
+Epoch  200 | seq2seq loss: 1.5423 | MLP loss: 0.0543 | this block: 2:25 | elapsed: 24:22 | ETA: 9:44:57
+  [eval @ epoch 200] validation partner-prediction: 9.16% -> NEW BEST, saved to best_model_local.pt
+Epoch  220 | seq2seq loss: 1.5125 | MLP loss: 0.0556 | this block: 2:25 | elapsed: 26:47 | ETA: 9:42:12
+Epoch  240 | seq2seq loss: 1.4906 | MLP loss: 0.0548 | this block: 2:23 | elapsed: 29:11 | ETA: 9:39:00
+Epoch  260 | seq2seq loss: 1.4623 | MLP loss: 0.0556 | this block: 2:25 | elapsed: 31:36 | ETA: 9:36:23
+Epoch  280 | seq2seq loss: 1.4453 | MLP loss: 0.0554 | this block: 2:25 | elapsed: 34:02 | ETA: 9:33:47
+Epoch  300 | seq2seq loss: 1.4160 | MLP loss: 0.0538 | this block: 2:25 | elapsed: 36:27 | ETA: 9:31:17
+  [eval @ epoch 300] validation partner-prediction: 10.18% -> NEW BEST, saved to best_model_local.pt
+Epoch  320 | seq2seq loss: 1.4060 | MLP loss: 0.0543 | this block: 2:25 | elapsed: 38:52 | ETA: 9:28:39
+Epoch  340 | seq2seq loss: 1.3765 | MLP loss: 0.0538 | this block: 2:25 | elapsed: 41:18 | ETA: 9:26:07
+Epoch  360 | seq2seq loss: 1.3676 | MLP loss: 0.0530 | this block: 2:26 | elapsed: 43:44 | ETA: 9:23:47
+Epoch  380 | seq2seq loss: 1.3543 | MLP loss: 0.0519 | this block: 1:12:56 | elapsed: 1:56:41 | ETA: 23:38:39
+Epoch  400 | seq2seq loss: 1.3393 | MLP loss: 0.0529 | this block: 8:28 | elapsed: 2:05:09 | ETA: 23:59:24
+  [eval @ epoch 400] validation partner-prediction: 10.93% -> NEW BEST, saved to best_model_local.pt
+Epoch  420 | seq2seq loss: 1.3237 | MLP loss: 0.0528 | this block: 2:33 | elapsed: 2:07:43 | ETA: 23:12:53
+Epoch  440 | seq2seq loss: 1.3156 | MLP loss: 0.0520 | this block: 2:31 | elapsed: 2:10:15 | ETA: 22:29:54
+Epoch  460 | seq2seq loss: 1.3033 | MLP loss: 0.0516 | this block: 2:31 | elapsed: 2:12:46 | ETA: 21:50:24
+Epoch  480 | seq2seq loss: 1.2892 | MLP loss: 0.0500 | this block: 2:30 | elapsed: 2:15:17 | ETA: 21:13:55
+Epoch  500 | seq2seq loss: 1.2787 | MLP loss: 0.0522 | this block: 2:31 | elapsed: 2:17:48 | ETA: 20:40:18
+  [eval @ epoch 500] validation partner-prediction: 10.75% (best so far: 10.93%, no improvement for 1/5 checks)
+Epoch  520 | seq2seq loss: 1.2776 | MLP loss: 0.0497 | this block: 2:30 | elapsed: 2:20:19 | ETA: 20:08:54
+Epoch  540 | seq2seq loss: 1.2651 | MLP loss: 0.0485 | this block: 2:29 | elapsed: 2:22:48 | ETA: 19:39:31
+Epoch  560 | seq2seq loss: 1.2516 | MLP loss: 0.0485 | this block: 2:28 | elapsed: 2:25:17 | ETA: 19:11:54
+Epoch  580 | seq2seq loss: 1.2564 | MLP loss: 0.0486 | this block: 2:27 | elapsed: 2:27:44 | ETA: 18:45:55
+Epoch  600 | seq2seq loss: 1.2431 | MLP loss: 0.0483 | this block: 2:28 | elapsed: 2:30:13 | ETA: 18:21:40
+  [eval @ epoch 600] validation partner-prediction: 11.93% -> NEW BEST, saved to best_model_local.pt
+Epoch  620 | seq2seq loss: 1.2390 | MLP loss: 0.0474 | this block: 2:28 | elapsed: 2:32:42 | ETA: 17:58:47
+Epoch  640 | seq2seq loss: 1.2258 | MLP loss: 0.0469 | this block: 2:29 | elapsed: 2:35:11 | ETA: 17:37:17
+Epoch  660 | seq2seq loss: 1.2223 | MLP loss: 0.0475 | this block: 2:29 | elapsed: 2:37:41 | ETA: 17:16:53
+Epoch  680 | seq2seq loss: 1.2160 | MLP loss: 0.0471 | this block: 2:27 | elapsed: 2:40:08 | ETA: 16:57:23
+Epoch  700 | seq2seq loss: 1.2117 | MLP loss: 0.0448 | this block: 2:29 | elapsed: 2:42:37 | ETA: 16:39:00
+  [eval @ epoch 700] validation partner-prediction: 10.98% (best so far: 11.93%, no improvement for 1/5 checks)
+Epoch  720 | seq2seq loss: 1.2020 | MLP loss: 0.0470 | this block: 2:28 | elapsed: 2:45:06 | ETA: 16:21:27
+Epoch  740 | seq2seq loss: 1.1980 | MLP loss: 0.0457 | this block: 2:28 | elapsed: 2:47:35 | ETA: 16:04:44
+Epoch  760 | seq2seq loss: 1.1905 | MLP loss: 0.0461 | this block: 2:28 | elapsed: 2:50:03 | ETA: 15:48:47
+Epoch  780 | seq2seq loss: 1.1867 | MLP loss: 0.0450 | this block: 2:29 | elapsed: 2:52:33 | ETA: 15:33:34
+Epoch  800 | seq2seq loss: 1.1861 | MLP loss: 0.0452 | this block: 2:29 | elapsed: 2:55:02 | ETA: 15:18:59
+  [eval @ epoch 800] validation partner-prediction: 11.36% (best so far: 11.93%, no improvement for 2/5 checks)
+Epoch  820 | seq2seq loss: 1.1763 | MLP loss: 0.0445 | this block: 2:30 | elapsed: 2:57:32 | ETA: 15:05:04
+Epoch  840 | seq2seq loss: 1.1761 | MLP loss: 0.0446 | this block: 2:28 | elapsed: 3:00:01 | ETA: 14:51:34
+Epoch  860 | seq2seq loss: 1.1706 | MLP loss: 0.0434 | this block: 2:27 | elapsed: 3:02:29 | ETA: 14:38:30
+Epoch  880 | seq2seq loss: 1.1634 | MLP loss: 0.0449 | this block: 2:28 | elapsed: 3:04:57 | ETA: 14:25:57
+Epoch  900 | seq2seq loss: 1.2009 | MLP loss: 0.0427 | this block: 2:28 | elapsed: 3:07:26 | ETA: 14:13:52
+  [eval @ epoch 900] validation partner-prediction: 11.04% (best so far: 11.93%, no improvement for 3/5 checks)
+Epoch  920 | seq2seq loss: 1.1815 | MLP loss: 0.0436 | this block: 2:28 | elapsed: 3:09:55 | ETA: 14:02:14
+Epoch  940 | seq2seq loss: 1.1762 | MLP loss: 0.0417 | this block: 2:28 | elapsed: 3:12:23 | ETA: 13:50:58
+Epoch  960 | seq2seq loss: 1.1599 | MLP loss: 0.0431 | this block: 2:27 | elapsed: 3:14:51 | ETA: 13:40:02
+Epoch  980 | seq2seq loss: 1.1441 | MLP loss: 0.0420 | this block: 2:29 | elapsed: 3:17:20 | ETA: 13:29:30
+Epoch 1000 | seq2seq loss: 1.1455 | MLP loss: 0.0431 | this block: 2:29 | elapsed: 3:19:49 | ETA: 13:19:19
+  [eval @ epoch 1000] validation partner-prediction: 11.33% (best so far: 11.93%, no improvement for 4/5 checks)
+Epoch 1020 | seq2seq loss: 1.1411 | MLP loss: 0.0419 | this block: 2:29 | elapsed: 3:22:19 | ETA: 13:09:27
+Epoch 1040 | seq2seq loss: 1.1451 | MLP loss: 0.0414 | this block: 2:29 | elapsed: 3:24:48 | ETA: 12:59:51
+Epoch 1060 | seq2seq loss: 1.1472 | MLP loss: 0.0423 | this block: 2:28 | elapsed: 3:27:17 | ETA: 12:50:30
+Epoch 1080 | seq2seq loss: 1.1210 | MLP loss: 0.0405 | this block: 2:29 | elapsed: 3:29:47 | ETA: 12:41:26
+Epoch 1100 | seq2seq loss: 1.1249 | MLP loss: 0.0408 | this block: 2:29 | elapsed: 3:32:16 | ETA: 12:32:36
+  [eval @ epoch 1100] validation partner-prediction: 10.64% (best so far: 11.93%, no improvement for 5/5 checks)
+
+Early stopping at epoch 1100: no improvement in 5 consecutive checks (500 epochs).
+
+Training finished in 3:32:16 (11.58 sec/epoch average)
+Best validation partner-prediction accuracy: 11.93% (reloading that checkpoint, not the final epoch's weights)
+
+Seq2seq reconstruction accuracy - train: 40.03% | validation: 29.52%
+Partner-prediction accuracy (held-out, correct length used): 11.93%
+
+Example predictions on held-out validation pairs (never seen during training):
+  input:     VLVTQYRVATGNQYLFPPTEPLMFYNVRHAGNMIPDNDNSNYKYYIAAQENYRNSMFFDQPRY
+  predicted: QVNARLSPTDYLFKGVDYQMRRSTKELHFPDY
+  actual:    QQAKDIGAGPVASCFTTRMSQQICLNSVVNAL
+
+  input:     SKWQTVELMTENSDEY
+  predicted: RYGKD
+  actual:    VYHWR
+
+  input:     RRFAKHLRVQHLFIPLESG
+  predicted: KILAVNH
+  actual:    TDELLTE
+
